@@ -9,7 +9,7 @@
       "build_output_subfolder": "IntuneEDU",
       "locale": "ja-jp",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -47,6 +47,8 @@
       }
     }
   ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEDU-pr.ja-jp", 
+ "git_repository_branch_open_to_public_contributors": "live",
   "need_generate_pdf_url_template": false,
   "Targets": {
     "Pdf": {
