@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9c3a2dbcb3412e52eff99d92f4a0560a5122e2f7
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-should-i-enroll-devices"></a>デバイスを登録する必要がある方法
 
 教育用の Intune による管理にデバイスを登録できることをいくつかの方法があります。 それらのすべてを同じ意味で、使用できますが、一部担当地域、スタッフの支援を登録して、デバイスを受信した数のサイズに基づいての方が簡単です。 たとえば、自分のデバイスを教師に付与して何百もの USB キーを使用してデバイスを登録するための迅速なルートを設定するときに、自身がデバイスを登録するよう伝えてください。
@@ -37,4 +33,3 @@ ms.lasthandoff: 07/05/2017
 
 - [ダウンロード、**学校の Pc 設定**Microsoft ストアのアプリ](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)
 - [教育用の Windows デバイスのセットアップについて詳しくを調べます](https://docs.microsoft.com/education/windows/set-up-windows-10)
-

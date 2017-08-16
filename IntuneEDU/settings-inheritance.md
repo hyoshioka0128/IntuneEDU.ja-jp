@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 388e4f4468c3184d4dd941c74f8524a6302694f3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 
 設定は、グループに適用されます。 としてグループが設定されているために、上のグループに適用される、別の任意の設定の 1 つのグループの階層は、すべてのサブグループに継承されます。 これにより、ユーザー、アプリ、およびデバイスの大規模なグループに設定を適用しやすくします。
@@ -44,4 +40,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
   - [Intune でれたエクスペリエンスの詳細については、すべてのグループを見つける](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

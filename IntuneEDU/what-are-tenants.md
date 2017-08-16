@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 54c063880ff3861cdee702ef6727e828af7a7c5d
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-tenants"></a>テナントとは
 
 _テナント_教育用の Intune の組織の完全なインスタンスします。 レベル テナントに 1 つのグループに影響しないものを変更またはなどの大規模なグループでも**すべて受講者**です。 これらの変更は、管理下にあるすべてのデバイスと、サブスクリプション全体複数と、すべてのライセンスは、それらのデバイスを使用して組織内のすべての人に影響します。
@@ -42,4 +38,3 @@ _テナント_教育用の Intune の組織の完全なインスタンスしま�
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Intune での完全な管理エクスペリエンスの役割に基づいたアクセスの設定について詳しく調べます](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)
-

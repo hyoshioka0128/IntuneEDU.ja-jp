@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9fc3c41f09617316f80abc22af2dac5369a0911a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>教育アプリ用 my 購入した Microsoft ストアを参照しているか。
 
 アプリの割り当てプロセス中には、教育用の Intune は、一般的な教育ストアのアプリを Microsoft for Education をお勧めします。 アプリのいずれかのいずれかの学校で使用することになると、この画面からグループを即時割り当て用のアプリを取得できます。
@@ -38,4 +34,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [教育アプリ用 Microsoft ストアの詳細をについてください。](https://docs.microsoft.com/microsoft-store/find-and-acquire-apps-overview)
-

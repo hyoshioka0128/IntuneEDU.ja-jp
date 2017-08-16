@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 1673246c-4e05-4d50-9ac9-3cffaa5b7a63
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: b238dacf26615de9428c7a3fc4b7d9888e51e3bb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 ## <a name="how-do-i-manage-microsoft-office-on-my-windows-10-devices"></a>自分の Windows 10 デバイス上の Microsoft Office の管理方法
 
 教育用の Intune を使用すると、割り当てることにより、 [web アプリ](how-to-add-apps.md#add-web-apps)または[デスクトップ バージョン](how-to-add-apps.md#add-desktop-apps)の Microsoft Office アプリ。
@@ -34,4 +30,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Office 365 Education の概要について詳しくを調べます](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
-

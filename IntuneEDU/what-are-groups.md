@@ -12,20 +12,16 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 925fee7b2807a340d2b4d0e1e9aa4ca069875f84
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-groups"></a>グループとは
 
-使用する_グループ_ユーザー、アプリ、および Education の Intune でデバイスを管理します。 ユーザーまたはデバイスに個別に各デバイスを管理することではなく一緒にグループ化することができます。 これにより、多数のユーザーとデバイスにアプリと設定を簡単に割り当てることができます。
+使用する_グループ_ユーザー、アプリ、および Education の Intune でデバイスを管理します。 各デバイスを個々に管理する代わりに、ユーザーやデバイスをまとめてグループにすることができます。 大量のユーザーやデバイスにアプリや設定を簡単に割り当てることができます。
 
 グループを作成するときに適用するしくみの設定とアプリをユーザーとデバイスを検討してください。 たとえば、すべてのデバイスの場所のサービスを使用してアプリをブロックする必要があります。 これに代わる方法がどのように特定のグループ、受講者を行うのと同じものが必要になる[AP コンピューター サイエンスの世界](https://www.tealsk12.org)アプリのコードを編集します。
 
@@ -91,4 +87,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Intune の管理のエクスペリエンス全体のグループについて詳しくを調べます](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

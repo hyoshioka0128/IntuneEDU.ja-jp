@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d703fdc5667b3042a8d97a59e6c8525530103132
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="get-started-with-intune-for-education"></a>教育用の Intune を概要します。
 
 教育用の Intune をセットアップするには、生徒と教員の情報を構成し、学生、教師の場合、およびデバイスの情報を管理します。 最初の手順では情報を取得する、生徒と教員を Intune に Education、生徒と教員のグループ用のアプリと設定を配置します。 は、デバイスに必要な設定を設定した後にそれらをデバイスに適用して、起動管理下で使用することです。
@@ -41,4 +37,3 @@ ms.lasthandoff: 07/05/2017
 - [教育用の Intune のテナント レベルのタスクについて詳しくを調べます](what-are-tenants.md)
 - [Intune での完全な管理エクスペリエンスの概要について詳しくを調べます](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
 - [Azure AD でグループの管理について詳しくを調べます](https://docs.microsoft.com/azure/active-directory/active-directory-groups-create-azure-portal)
-

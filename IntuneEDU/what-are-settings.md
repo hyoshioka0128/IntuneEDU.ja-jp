@@ -12,18 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: c7308ab88970c335a0c43d20f4558a54c9143fd9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-settings"></a>設定とは
 
 _設定_を使用すると、ユーザーが自分のデバイスで機能させる方法を定義します。 デバイスの応答方法または単にデバイスで何かからユーザーを停止することによって、アクションを実行しようとしています。 ユーザーにこれを変更します。 教育設定用の Intune では、学校のデバイスで各機能を管理できます。
@@ -45,4 +40,3 @@ _設定_を使用すると、ユーザーが自分のデバイスで機能させ
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [アプリと Intune の完全な管理エクスペリエンスを使用してデータを保護する方法について詳しく調べます](https://docs.microsoft.com/intune/deploy-use/protect-apps-and-data-with-microsoft-intune)
-

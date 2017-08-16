@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: da398a88d1038d4e43a1a1e7a5df37018ac3f3a6
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>教育用の Intune でアプリをインストールする方法
 
 Windows 10 デバイスでアプリをインストールするのいずれかの教育用の Intune できるように、取得する方法より行われます。 アプリは、グループに割り当てられた後にデバイスにインストールされます。 いくつかの一般的なアプリは既定では、使用可能なを割り当てる、アプリがない場合、する必要しますが、あります[教育を Intune に追加](how-to-add-apps.md)前に、割り当てることができます。
@@ -56,4 +52,3 @@ Windows 10 デバイスでアプリをインストールするのいずれかの
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [アプリケーションの完全管理エクスペリエンスを使用して、Intune でアプリをインストールする方法の詳細します。](https://docs.microsoft.com/intune/deploy-use/deploy-apps)
-

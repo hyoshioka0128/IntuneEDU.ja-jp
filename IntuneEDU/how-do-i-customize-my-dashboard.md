@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-customize-my-dashboard"></a>担当のダッシュ ボードをカスタマイズする方法
 
 _ダッシュ ボード_教育用の Intune のメイン ランディング ページは、します。 ユーザー、アプリ、およびデバイスを管理するためのポータルにログインするたびを開始することをお勧めします。
@@ -46,7 +42,7 @@ _ダッシュ ボード_教育用の Intune のメイン ランディング ペ�
 
 一覧に表示されるには、これらのタスクよりも教育用の Intune で実行できるその他の点があります。 選択した場合**すべてを参照してください**完全、一覧の下部にある**[サービス] メニュー**ポップ アウトされ、すべての利用可能な設定を参照できるようにします。
 
-  ![サービス メニューの ポップアウト、リストのすべての利用可能な設定を持つ。](./media/dashboard-003-change-sidebar-popout.png)
+  ![サービス] メニューの [ポップアウト、リストのすべての利用可能な設定を持つ。](./media/dashboard-003-change-sidebar-popout.png)
 
 サイド バーに表示される内容の順序を変更する場合は、任意の項目をポイントしに表示される縦 3 つのドットまで待機することができます。 これらのドットを選択し、表示するようなは、リスト内の位置に項目をドラッグします。
 
@@ -57,4 +53,3 @@ _ダッシュ ボード_教育用の Intune のメイン ランディング ペ�
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Intune デバイスの完全な管理エクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

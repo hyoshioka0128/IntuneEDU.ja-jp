@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
 設定の構成は、Windows 10 デバイスのセキュリティ保護して、正しい種類の学習エクスペリエンスの向上へのアクセスを作成には、主要な方法です。 教育用の Intune では、個々 のグループとそのサブグループの両方に対して、これらのエクスペリエンスをカスタマイズするための多くの設定を提供します。
@@ -95,7 +91,7 @@ ms.lasthandoff: 07/05/2017
 |[デバイス]|Bluetooth、プリンター、およびその他をブロックします。|
 |ネットワークとインターネット|ブロック Wi-fi、機内モード、および VPN です。|
 |個人設定|ブロックの背景、ロック画面、および色の変更。|
-|アカウント|ユーザー アカウント、電子メール、同期、作業、および他のユーザーをブロックします。|
+|[アカウント]|ユーザー アカウント、電子メール、同期、作業、および他のユーザーをブロックします。|
 |時刻と言語|ブロック サイズ、地域、および日付です。|
 |簡単なアクセス|ナレーター、拡大鏡、ハイ コントラストをブロックします。|
 |プライバシー|ブロックの場所およびカメラです。|
@@ -232,4 +228,3 @@ Wi-fi 設定とは別にある Wi-fi 設定**ワイヤレス設定**です。
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [詳細について、完全 Windows 10 設定管理エクスペリエンス Intune で利用できます。](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 1472efb4acedda7b25292b7ed41fc7e0ae1d2c14
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 このリリースの教育用の Intune の新機能について説明します。 また、過去のリリースに関する情報だけでなく、準備する必要がある今後の変更についても説明します。
 
@@ -36,4 +32,3 @@ ms.lasthandoff: 07/05/2017
 
 - [教育用の Intune について詳しくを調べます](what-is-intune-for-education.md)
 - [Intune でデバイスのフル管理エクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

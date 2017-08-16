@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 7a2298d4a1b55d8a1355ca9e828d92c0a561eac8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-add-apps-to-intune-for-education"></a>教育用 intune アプリを追加する方法
 
 For Education、学校のデバイスを Intune でアプリをインストールすることができます、前にそれらのアプリが教育アカウントに、Intune に追加する必要があります。
@@ -107,4 +103,3 @@ A _web アプリ_ブラウザー ファイルを排他的にユーザーによ�
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Intune を使用してアプリの管理の完全なエクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/deploy-use/add-apps)
-

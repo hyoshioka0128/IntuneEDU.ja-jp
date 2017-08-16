@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a8c442fb1388a301d0eacf34bbf60602f61b4dbf
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-use-take-a-test-profiles"></a>Take の使用方法テスト プロファイルしますか?
 
 _テスト プロファイル_役と summative の評価を Windows 10 デバイスを管理しやすくよう設計されています。 Take、テストでは、テストを作成する適切な環境を作成します。
@@ -57,4 +53,3 @@ _テスト プロファイル_役と summative の評価を Windows 10 デバイ
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [テスト実行の詳細をについてください。](https://technet.microsoft.com/edu/windows/take-tests-in-windows-10)
-

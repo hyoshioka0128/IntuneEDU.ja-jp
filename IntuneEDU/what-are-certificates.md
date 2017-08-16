@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 8047f6c1-f8aa-465f-8800-02ac318d6a84
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d0590c81bb27641721ff4ef8ae4ab7f0d024a20b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-certificates"></a>証明書とは?
 
 [暗号化](https://technet.microsoft.com/library/cc962030.aspx)は、情報にセキュリティ保護を提供する技術です。 従来、暗号化は、コード化されたメッセージを渡して[通信の機密性が保たれるようにする](https://technet.microsoft.com/library/cc962019.aspx)ために使用されてきました。 最も単純な形式の暗号化では、文字を置き換えるか入れ替えることで、コード化されたメッセージを読み取り不可能にするか、スクランブル化するか、隠しています。 デコード キー、つまり_証明書_を持つユーザーのみが、コード化されたメッセージを元の読み取り可能な形式に変換できます。
@@ -34,4 +30,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Intune で証明書の管理の完全なエクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles)
-
