@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 08/16/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
-ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: 2e9d06366142f7adce5eff9454c85cab62165c46
+ms.sourcegitcommit: f4fb37302cb3c927196958c33e7215f7827bfcb3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 09/14/2017
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -163,12 +163,31 @@ ms.lasthandoff: 08/15/2017
 
 |Setting|内容|
 |---|---|
+|< a name ="removew10apps"</a>組み込みの Windows 10 アプリを削除します。|特定の組み込みの Windows アプリをアンインストールします。 これらのアプリを確認[下](available-settings.md#additional-information-about-removing-built-in-apps)です。|
 |Microsoft ストア アプリの教育|教育用の Microsoft ストアからアプリをインストールするユーザーをブロックします。|
 |Microsoft 向けストアの教育アプリ プライベート ストアからインストールする必要があります。|組織がセットアップ教育用 Microsoft ストアからアプリをインストールするユーザーのみを許可します。|
 |信頼できるアプリ|ユーザーが Microsoft によって署名された信頼できるアプリをインストールするかどうかを定義します。|
 |信頼されていないアプリ|ユーザーが署名されていないアプリまたはマイクロソフトによって信頼されていない外部のソースによって署名されたアプリをインストールできるかどうかを定義します。|
 |自動のアプリの更新プログラム|自動的に更新されてからのアプリの教育用の Microsoft ストアをブロックします。|
 |ユーザーの間でデータを共有アプリ|共有デバイスのアプリ データを共有する複数のユーザーを許可します。|
+
+## <a name="additional-information-about-removing-built-in-apps"></a>詳細については、組み込みのアプリを削除します。
+
+この設定が自動的にオンときに、「最適化デバイス用に共有」設定を有効にします。 次のアプリが完全に解消されるユーザーのコンピューターからこの設定がオンにすると。
+
+* 3DBuilder
+* Bing の天気予報
+* デスクトップ アプリのインストーラー
+* 作業の開始
+* Microsoft Office ハブ
+* ソリティア コレクション
+* 1 つの接続します。
+* Windows フィードバック ハブ
+* Xbox
+* Groove の音楽
+<!--* Zune Video-->
+* メール
+* 予定表
 
 ## <a name="sign-in-settings"></a>サインインの設定
 
