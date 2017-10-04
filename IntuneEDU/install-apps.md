@@ -13,11 +13,11 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
 searchScope: IntuneEDU
-ms.openlocfilehash: da398a88d1038d4e43a1a1e7a5df37018ac3f3a6
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: e837baebeeb13c2c5a005d1d516a75be956ebd5b
+ms.sourcegitcommit: b0dfdfb2061e99fcad72ac5071e7508bfb035b49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 10/02/2017
 ---
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>教育用の Intune でアプリをインストールする方法
 
@@ -28,7 +28,7 @@ Windows 10 デバイスでアプリをインストールするのいずれかの
 ##  <a name="install-apps-for-groups"></a>グループのアプリケーションをインストールします。
 このメソッドでは、グループを選択し、そのグループ内のデバイスに 1 つまたは複数のアプリをインストールすることができます。
 
-1. [教育ポータル用の Intune](https://intuneeducation.portal.azure.com)を選択 >**グループの管理**を開くには、**グループ**ブレードです。
+1. [教育ポータル用の Intune](https://intuneeducation.portal.azure.com)、選択**グループの管理**を開くには、**グループ**ブレードです。
 2. アプリを展開するグループを選択します。
 3. 選択**アプリ**使用可能なアプリの一覧を表示する上部のバーに表示します。  
 4. そのグループを展開するアプリを選択します。 複数のアプリを選択できます。
