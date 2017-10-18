@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 10/17/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope: IntuneEDU
-ms.openlocfilehash: 925fee7b2807a340d2b4d0e1e9aa4ca069875f84
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: 5a31632a63b2f8c63ebbd72b83427204b48e9341
+ms.sourcegitcommit: 701eecd3595011ba0208cc53312a4b1f54790a99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 10/18/2017
 ---
 # <a name="what-are-groups"></a>グループとは
 
@@ -27,8 +27,21 @@ ms.lasthandoff: 08/15/2017
 
 設定は、グループに適用されます。 グループが設定されて、別の上の 1 つのグループの階層としてため[グループに適用されるすべての設定はすべてのサブグループによって継承](settings-inheritance.md)です。 これにより、ユーザー、アプリ、およびデバイスの大規模なグループに設定を適用しやすくします。
 
-教育用の Intune が自動的に作成、__すべてのデバイス__と__すべてのユーザー__テナントが作成されるときにグループ化します。 これらの既定グループは、ユーザーと、学校または学区でデバイスの広範なカテゴリを表すと[移動できない](what-are-groups.md#why-cant-i-move-certain-groups)です。
+教育用の Intune が自動的に作成、__すべてのデバイス__と__すべてのユーザー__テナントが作成されるときにグループ化します。 これらの既定グループは、ユーザーと、学校または学区でデバイスの広範なカテゴリを表すと[は変更できません](what-are-groups.md#why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups)です。
 
+## <a name="group-types"></a>グループの種類
+
+ユーザーとデバイスを Intune に for Education の整理に使用できるグループの 2 種類があります:**割り当て**グループと**動的**グループ。 
+
+### <a name="assigned-groups"></a>割り当てられたグループ
+
+割り当てられたグループは、グループのメンバーとしてユーザーまたはデバイスを手動で追加し、たい場合に使用されます。 フォルダーをまとめて整理するようにないということ: をそのフォルダーでファイルを選択してをここにそれらのファイルを必要がある場合は。 同様に、フォルダーをさらより大規模なグループを複数の小さなに整理して動作するサブグループを作成できます。 
+
+### <a name="dynamic-groups"></a>動的なグループ
+
+動的なグループでは、自分で追加する代わりにグループのメンバーを手動で追加の処理を省略できます。 どんな受講者またはデバイスが、条件を満たすため、テナントを検索する規則を使用して作成されます。 たとえば、すべてこの年の最後に徐々 に変化受講者を表示する動的なグループを作成できます。 受講者が予期せず卒業するできなかった場合は、この動的なグループからそれらを手動で削除できるはありません。 代わりはそれらのグループから削除された学生の卒業の年を変更する必要があります。 
+
+動的なグループでは、それらのルールの定義を含めることができますのみ、ために、その下にサブグループを作成できません。 
 
 ## <a name="managing-groups-and-subgroups"></a>グループとサブグループを管理します。
 
@@ -64,15 +77,23 @@ ms.lasthandoff: 08/15/2017
 4.  グループ名を検索して、または階層を選択して、このグループを移動するグループの場所を選択します。
 5.  選択**OK**して変更を保存します。
 
-## <a name="why-cant-i-move-certain-groups"></a>特定のグループを移動する理由ことはできませんか。
+## <a name="why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups"></a>「すべてのデバイス」、「すべてのユーザー」、「すべての受講者」または「すべて教師」グループを変更できない理由
 
-教育用の Intune が提供する一連の既定のグループを移動することはできません**すべてのユーザー**と**すべてのデバイス**、ときに、[テナントが作成されて](what-are-tenants.md)です。 **すべて教師**と**すべて受講者**School データ同期は、教育用の Intune に生徒と教員のデータをインポート後に作成される既定のグループは、します。
+<!--These are tenant level groups and therefore they can't be modified-->
+
+教育用の Intune は、既定のセットを提供[テナント レベルのグループ](what-are-tenants.md)学校のアカウントの作成時に作成されます。 これらのグループ**すべてのユーザー**と**すべてのデバイス**、変更できません。 **すべて教師**と**すべて受講者**グループは、学校のデータ同期は、教育用の Intune に生徒と教員のデータをインポート後に同様に作成します。 
 
 ほとんどどこなる場合がありますを使用したサブグループ 2 つのグループの下に問題があります。
 
-  ![複数のグループのエラー メッセージ サブグループが表示されます。](./media/groups-012-subgroup-is-under-two-groups-warning.png)
+  <!--![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)-->
 
 この場合、このサブグループ上に 1 つのグループを選択する必要があります。
+
+## <a name="why-cant-i-edit-this-group"></a>このグループを編集できない理由 
+
+教育用の Intune では、Intune で使用可能なすべての動的な属性のサブセットが表示されます。 動的属性を Education コンソール用の Intune で使用できない場合は、編集するには、Intune または Azure Active Directory に移動する必要があります。 
+
+教育用の Intune は、学校のデバイスを管理する簡単な方法設計されています。 使用して[Intune](https://docs.microsoft.com/intune/what-is-intune)アプリとグループを管理すると、エンタープライズでの製品です。 組織内の特定の管理者では、特別なグループを作成するのに完全 Intune コンソールと教育コンソール用の Intune の両方が使用されます。 グループを編集することはできません、これらのグループを変更する完全 Intune コンソールへのアクセスがない可能性があります。 
 
 ## <a name="delete-a-group"></a>グループを削除します。
 
