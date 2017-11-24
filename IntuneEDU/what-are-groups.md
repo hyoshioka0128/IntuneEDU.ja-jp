@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope: IntuneEDU
 ms.openlocfilehash: 5a31632a63b2f8c63ebbd72b83427204b48e9341
-ms.sourcegitcommit: 701eecd3595011ba0208cc53312a4b1f54790a99
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="what-are-groups"></a>グループとは
 

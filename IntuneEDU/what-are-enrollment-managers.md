@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
 searchScope: IntuneEDU
 ms.openlocfilehash: a593eefcc965537949ec57f6a325d25859801355
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>教育用の Intune の登録のマネージャーとは
 

@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
 ms.openlocfilehash: 2e9d06366142f7adce5eff9454c85cab62165c46
-ms.sourcegitcommit: f4fb37302cb3c927196958c33e7215f7827bfcb3
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -217,7 +217,7 @@ ms.lasthandoff: 09/14/2017
 
 |Setting|内容|
 |---|---|
-|電子メールの設定を構成します。|このグループの電子メール設定を構成するかどうかを選択します。 これらの設定は、Windows 10 のメール アプリに適用されます。 そうしない場合**構成**この設定は、このテーブルの他の電子メール設定のいずれも使用可能になります。|
+|電子メールの設定を構成する|このグループの電子メール設定を構成するかどうかを選択します。 これらの設定は、Windows 10 のメール アプリに適用されます。 そうしない場合**構成**この設定は、このテーブルの他の電子メール設定のいずれも使用可能になります。|
 |アカウント名|生徒と教員は、これを自分のデバイスで見ることができます。|
 |電子メール サーバー|電子メールをホストするサーバーの名前を入力します。|
 |[ユーザー名]|電子メール プロファイルをユーザー名の設定を適用するときに、Azure Active Directory から Intune を使用する属性を選択します。|

@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope: IntuneEDU
 ms.openlocfilehash: 208634a4a0d68a176d340b25e36cec8fd2d233ff
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 

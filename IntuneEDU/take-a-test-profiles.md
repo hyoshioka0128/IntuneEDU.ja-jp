@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
 searchScope: IntuneEDU
 ms.openlocfilehash: a8c442fb1388a301d0eacf34bbf60602f61b4dbf
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="how-do-i-use-take-a-test-profiles"></a>Take の使用方法テスト プロファイルしますか?
 

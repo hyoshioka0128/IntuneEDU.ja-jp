@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
 searchScope: IntuneEDU
 ms.openlocfilehash: e837baebeeb13c2c5a005d1d516a75be956ebd5b
-ms.sourcegitcommit: b0dfdfb2061e99fcad72ac5071e7508bfb035b49
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>教育用の Intune でアプリをインストールする方法
 

@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
 searchScope: IntuneEDU
 ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="how-do-i-customize-my-dashboard"></a>担当のダッシュ ボードをカスタマイズする方法
 

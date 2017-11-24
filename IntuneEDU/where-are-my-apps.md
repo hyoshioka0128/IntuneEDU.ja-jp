@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
 searchScope: IntuneEDU
 ms.openlocfilehash: 9fc3c41f09617316f80abc22af2dac5369a0911a
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>教育アプリ用 my 購入した Microsoft ストアを参照しているか。
 

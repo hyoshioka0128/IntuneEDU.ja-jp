@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope: IntuneEDU
 ms.openlocfilehash: 796782e6c0cf9fa975bd9c8f3a94314bb00d8d89
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="what-is-express-configuration"></a>Express の構成とは
 

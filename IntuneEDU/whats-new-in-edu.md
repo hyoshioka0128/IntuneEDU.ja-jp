@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope: IntuneEDU
 ms.openlocfilehash: 9b6aa1b648804693b0263b822f67df2bfd61687b
-ms.sourcegitcommit: 6de69841bfc3124c98442d2d35893694ee0a2da0
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 このリリースの教育用の Intune の新機能について説明します。 また、過去のリリースに関する情報だけでなく、準備する必要がある今後の変更についても説明します。

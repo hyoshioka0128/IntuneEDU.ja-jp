@@ -15,10 +15,10 @@ ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
 searchScope: IntuneEDU
 ms.reviewer: travisj
 ms.openlocfilehash: b1a7a0a574982a48f46559ae0577e6663491b8b3
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="what-are-reports-in-intune-for-education"></a>教育用の Intune のレポートとは
 

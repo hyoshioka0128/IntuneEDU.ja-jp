@@ -15,10 +15,10 @@ ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
 searchScope: IntuneEDU
 .md#ms.tgt_pltfrm: 
 ms.openlocfilehash: a8a9619476315459d49dc128e14c3bc0f2f7794e
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="how-do-i-manage-settings"></a>設定の管理方法
 
