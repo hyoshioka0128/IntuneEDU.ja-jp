@@ -13,15 +13,15 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope: IntuneEDU
-ms.openlocfilehash: 796782e6c0cf9fa975bd9c8f3a94314bb00d8d89
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 32be142b9c8aec2e3d7d7bb38629f70253580e23
+ms.sourcegitcommit: 2ed186bca1a0bbf74513f92b0c43d595db84e5cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/03/2018
 ---
 # <a name="what-is-express-configuration"></a>Express の構成とは
 
-Express 構成では、サインインすると最初の教育を Intune に表示されるタイルの 1 つです。
+Express の構成とは、サインインすると最初に表示されるタイルの[教育用の Intune](https://intuneeducation.portal.azure.com)です。
 
   ![Express の構成 - 起動をここをクリックしてアプリとグループの設定を選択するという Express 構成タイルです。](./media/express-config-001-launch-tile.png)
 
@@ -77,7 +77,7 @@ Express 構成では、準備が整ったら、グループを取得する設定
 
 完了したら、ときに表示されます教育のダッシュ ボードが Intune にデバイス、ユーザー、およびアプリ管理を続行することができます。 戻って、Express の構成にいつでもダッシュ ボードまたは追加、削除、またはアプリおよびすべてのグループの設定を変更するナビゲーション メニューからです。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 アプリおよび必要な設定をグループを設定した後は、デバイスを Intune で教育の使用を開始する準備ができたらです。
 

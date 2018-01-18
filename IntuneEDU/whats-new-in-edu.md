@@ -13,28 +13,34 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope: IntuneEDU
-ms.openlocfilehash: 9b6aa1b648804693b0263b822f67df2bfd61687b
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 44780ae9f12e46ba1419f9fc98805f1cf9c4a6c0
+ms.sourcegitcommit: d9776054f5bbbf7060d341bd8baa163b999183f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 12/22/2017
 ---
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 このリリースの教育用の Intune の新機能について説明します。 また、過去のリリースに関する情報だけでなく、準備する必要がある今後の変更についても説明します。
+
+<!--## January 2018
+Audit logs
+Defender report
+RBAC-->
 
 ## <a name="october-2017"></a>2017 年 10 月
 
 ### <a name="dynamic-groups"></a>動的なグループ
 
-規則を定義し、それに基づいて自動的に設定するグループを作成します。 
+規則を定義し、それに基づいて自動的に設定するグループを作成します。
 
 ### <a name="new-app-status"></a>新しいアプリケーションの状態
 
-デバイス数が表示されます、アプリを追加するときにされ、アプリのユーザーごとの状態がインストールされます。 
+デバイス数が表示されます、アプリを追加するときにされ、アプリのユーザーごとの状態がインストールされます。
 
 ### <a name="updated-details-pages"></a>更新の詳細 ページ
 
 グループのいずれかで、ユーザーまたはデバイスを選択します。 ウィンドウをができるように、そのオブジェクトに関する情報を表示する画面の下部とのアプリと設定を設定した状態からスライド アップようになりました。
+
 ## <a name="may-2017-initial-release"></a>2017 年 1 月 (最初のリリース)
 
 ### <a name="intune-for-education-is-now-available"></a>教育用の Intune では、使用可能なようになりました!

@@ -13,11 +13,11 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 1673246c-4e05-4d50-9ac9-3cffaa5b7a63
 searchScope: IntuneEDU
-ms.openlocfilehash: 77746599d9662cbdb50978f014e668be209a2083
-ms.sourcegitcommit: 82808e92e49e49544f11ba238134ddde9195d3af
+ms.openlocfilehash: 81b5e9ab4d505f731f4557b5acfcf736efa107e2
+ms.sourcegitcommit: 8c8c1cf05270defba2b5bb1b3e4c9309b2088a7e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2017
+ms.lasthandoff: 01/03/2018
 ---
 # <a name="how-do-i-manage-microsoft-office-on-my-windows-10-devices"></a>自分の Windows 10 デバイス上の Microsoft Office の管理方法
 
@@ -34,4 +34,4 @@ ms.lasthandoff: 10/06/2017
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
 - [Office 365 Education の概要について詳しくを調べます](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
-- [ユニバーサル Windows アプリの詳細を確認する](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp]
+- [ユニバーサル Windows アプリについて詳しくを調べます](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp)
