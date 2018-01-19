@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 12/21/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope: IntuneEDU
-ms.openlocfilehash: d2ee7f4551f4de5755ec7da63ba55fef85ec5d56
-ms.sourcegitcommit: d9776054f5bbbf7060d341bd8baa163b999183f5
+ms.openlocfilehash: 53250c27bf3304414d7f5e23fd65f40c60422b02
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-are-groups"></a>グループとは
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 12/22/2017
 
 グループを作成するときに、ユーザーとデバイスにアプリと設定を適用する方法を検討してください。 たとえば、すべてのデバイスの場所のサービスを使用してアプリをブロックする必要があります。 特定のグループが特定など、受講者を与える必要があります[AP コンピューター サイエンスの世界](https://www.tealsk12.org)アプリのコードを編集します。
 
-設定は、グループに適用されます。 グループが設定されて、別の上の 1 つのグループの階層としてため[グループに適用されるすべての設定はすべてのサブグループによって継承](settings-inheritance.md)です。 設定の継承では、ユーザー、アプリ、およびデバイスの大規模なグループに設定を適用するやすくなります。 使用することができます[委任されたアクセス許可](group-admin-delegate.md#how-do-i-assign-admin-groups)に下にこれらのグループを管理する管理者グループのアクセス権を付与します。 
+設定は、グループに適用されます。 グループが設定されて、別の上の 1 つのグループの階層としてため[グループに適用されるすべての設定はすべてのサブグループによって継承](settings-inheritance.md)です。 設定の継承では、ユーザー、アプリ、およびデバイスの大規模なグループに設定を適用するやすくなります。 使用することができます[委任されたアクセス許可](group-admin-delegate.md#how-do-i-assign-admin-groups)に下にこれらのグループを管理する管理者グループのアクセス権を付与します。
 
 教育用の Intune が自動的に作成、__すべてのデバイス__と__すべてのユーザー__テナントが作成されるときにグループ化します。 これらの既定グループは、ユーザーと、学校または学区でデバイスの広範なカテゴリを表すと[は変更できません](what-are-groups.md#why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups)です。
 

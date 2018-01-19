@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope: IntuneEDU
-ms.openlocfilehash: 32be142b9c8aec2e3d7d7bb38629f70253580e23
-ms.sourcegitcommit: 2ed186bca1a0bbf74513f92b0c43d595db84e5cc
+ms.openlocfilehash: 4694f6a97dac598ac30d5e3010be41852f1549da
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-is-express-configuration"></a>Express の構成とは
 

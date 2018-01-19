@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
 searchScope: IntuneEDU
-ms.openlocfilehash: a8c442fb1388a301d0eacf34bbf60602f61b4dbf
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 4d7d60862db9df0db2eac48288941f047da14c9d
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="how-do-i-use-take-a-test-profiles"></a>Take の使用方法テスト プロファイルしますか?
 

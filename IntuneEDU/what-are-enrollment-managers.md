@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
 searchScope: IntuneEDU
-ms.openlocfilehash: a593eefcc965537949ec57f6a325d25859801355
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: df2c6cff7677a2a5da001dba8ea4329b420628fb
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>教育用の Intune の登録のマネージャーとは
 

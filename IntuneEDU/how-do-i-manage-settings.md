@@ -6,7 +6,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,11 +14,11 @@ ms.technology:
 ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
 searchScope: IntuneEDU
 .md#ms.tgt_pltfrm: 
-ms.openlocfilehash: a8a9619476315459d49dc128e14c3bc0f2f7794e
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 9ce70aedf1dfcd054225f879ff11e0fbe3195552
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="how-do-i-manage-settings"></a>設定の管理方法
 

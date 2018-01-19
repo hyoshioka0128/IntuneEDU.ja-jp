@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
 searchScope: IntuneEDU
-ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: fb0d3b77903201b2eacbb3c24d40b93d9ff270b8
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="how-do-i-customize-my-dashboard"></a>担当のダッシュ ボードをカスタマイズする方法
 

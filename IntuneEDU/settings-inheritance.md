@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
 searchScope: IntuneEDU
-ms.openlocfilehash: 388e4f4468c3184d4dd941c74f8524a6302694f3
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: e0d38bb2b7a5d40d11004d609ecf93be60112bd6
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 

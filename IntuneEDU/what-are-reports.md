@@ -6,7 +6,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,11 +14,11 @@ ms.technology:
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
 searchScope: IntuneEDU
 ms.reviewer: travisj
-ms.openlocfilehash: b1a7a0a574982a48f46559ae0577e6663491b8b3
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 1abe5e35e574e1bc058c861247974105333e1b18
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-are-reports-in-intune-for-education"></a>教育用の Intune のレポートとは
 

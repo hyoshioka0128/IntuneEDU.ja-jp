@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 07/13/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope: IntuneEDU
-ms.openlocfilehash: 208634a4a0d68a176d340b25e36cec8fd2d233ff
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 76dd2ad54de25dc648842f8cbbb95e1f4330ff39
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 

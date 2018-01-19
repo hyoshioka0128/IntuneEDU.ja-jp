@@ -13,11 +13,11 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
 searchScope: IntuneEDU
-ms.openlocfilehash: c7308ab88970c335a0c43d20f4558a54c9143fd9
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: 72e3c6ae12c9e9cea3835520f4e5b801b73163e6
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="what-are-settings"></a>設定とは
 

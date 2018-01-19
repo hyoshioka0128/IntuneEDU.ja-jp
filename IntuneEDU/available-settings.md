@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/05/2018
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
-ms.openlocfilehash: 648ac30f39a7739898e3e44b26fe6c6470d8b78f
-ms.sourcegitcommit: e4772cb9f0702ce56b3b4bf9dafe19163e9960af
+ms.openlocfilehash: ec0e7acac5d0b674cc5373db8d218b8d8bb6ced5
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2018
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -39,7 +39,7 @@ ms.lasthandoff: 01/06/2018
 |Setting|内容|
 |---|---|
 |ブロックの手動登録削除|ブロック ユーザーが手動で管理からデバイスの登録を解除します。|
-|< a name ="removew10apps"</a>組み込みの Windows 10 アプリを削除します。|特定の組み込みの Windows アプリをアンインストールします。 これらのアプリを確認[下](available-settings.md#additional-information-about-removing-built-in-apps)です。|
+|<a name="removew10apps"></a>組み込みの Windows 10 アプリを削除します。|特定の組み込みの Windows アプリをアンインストールします。 これらのアプリを確認[下](available-settings.md#additional-information-about-removing-built-in-apps)です。|
 |ブロック カメラ|ユーザー、デバイスのカメラへのアクセスをブロックします。|
 |ブロック OneDrive ファイルの同期|これらのデバイスとユーザーの OneDrive 同期をブロックします。|
 |リムーバブル記憶域のブロック|USB ドライブや外部ハード ディスク ドライブなどのリムーバブル記憶域を使用してユーザーをブロックします。|
