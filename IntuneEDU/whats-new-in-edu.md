@@ -6,26 +6,61 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 10/24/2017
+ms.date: 01/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope: IntuneEDU
-ms.openlocfilehash: 44780ae9f12e46ba1419f9fc98805f1cf9c4a6c0
-ms.sourcegitcommit: d9776054f5bbbf7060d341bd8baa163b999183f5
+.#ms.devlang: 
+ms.openlocfilehash: a61c963ef7eb1f5316c301cc83685781706ffdca
+ms.sourcegitcommit: 7e46bcca840e4f092f8e1e0ca8e11afdc78dc7a3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2017
+ms.lasthandoff: 01/23/2018
 ---
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 このリリースの教育用の Intune の新機能について説明します。 また、過去のリリースに関する情報だけでなく、準備する必要がある今後の変更についても説明します。
 
-<!--## January 2018
-Audit logs
-Defender report
-RBAC-->
+## <a name="january-2018"></a>年 1 月 2018
+
+### <a name="history-of-group-actions-taken-by-admins"></a>管理者が行うアクションをグループ化の履歴
+
+グループ管理者、アプリ、および、承認されたグループの設定を変更する管理者によって実行されたすべてのアクションの履歴が表示されます。 この履歴内のログを検索する**グループ** > **履歴**です。
+
+### <a name="windows-defender-report"></a>Windows Defender レポート
+
+新しいレポートが追加されました。 [レポート] ページを選択できます**Windows Defender レポート**レポートの一覧からです。 これにより、すべてのデバイスの Windows Defender デバイスの正常性状態を表示できます。 この外観を参照してください、[レポートとは?](what-are-reports.md)ドキュメント。
+
+### <a name="use-role-based-access-control-to-enable-group-admins"></a>ロール ベース アクセス制御を使用してグループ管理者を有効にするには
+
+別のグループの設定を管理する人のユーザーのグループを選択できます。 たとえば、という名前のグループを持つことが*高校 Admins*では、メンバーは、チームの担当地域の高校の管理者のです。 *高校 Admins*高校生のグループの設定を管理するアクセス許可グループを指定することができます。 詳細については、検索、[グループとは? doc](what-are-groups.md)です。
+
+### <a name="user-and-device-search"></a>ユーザーとデバイスの検索
+
+サイド バーに 2 つのオプションが追加されました:**ユーザー**と**デバイス**です。 これらを使用して、個々 のユーザーまたはデバイスを検索し、すばやく開くことができます、**詳細**これらの項目。 サイド バーにこれらの検索を追加することができます**すべてを参照してください** > **スター ボタン (お気に入り)**お気に入りの一覧に追加します。
+
+### <a name="remote-actions"></a>リモート操作
+
+ユーザーとデバイスのリモート操作が実行できます。 アクションを実行し、[詳細] ページから次の操作の 1 つ選択するデバイスを選択します。
+
+#### <a name="devices"></a>[デバイス]
+
+- 再起動
+- 工場出荷時設定にリセットします。
+- 同期
+- 管理対象から除外します。
+
+#### <a name="users"></a>Users
+
+- パスワードの再設定
+
+について詳しく調べます[リモート操作](remote-actions.md)です。
+
+### <a name="wi-fi-profiles"></a>Wi-Fi プロファイル
+
+サイドバーに新しいオプションが追加されました**Wi-fi プロファイル**です。 これにより、さまざまなデバイス、ユーザー、およびグループに割り当てることができる、Wi-fi 設定を定義できます。
 
 ## <a name="october-2017"></a>2017 年 10 月
 
