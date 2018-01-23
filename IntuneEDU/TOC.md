@@ -1,7 +1,7 @@
 # [教育用の Intune とは](what-is-intune-for-education.md)
 ## [新機能](whats-new-in-edu.md)
 
-# [Get Started (概要)](get-started-with-intune-edu.md)
+# [作業の開始](get-started-with-intune-edu.md)
 ## [高速構成とは](what-is-express-configuration.md)
 ## [学校データ同期とは](what-is-school-data-sync.md)
 ## [テナントとは](what-are-tenants.md)
@@ -10,7 +10,7 @@
 ## [登録マネージャーとは](what-are-enrollment-managers.md)
 ## [デバイスの登録方法](how-should-i-enroll-devices.md)
 
-# 設定
+# Settings
 ## [設定とは](what-are-settings.md)
 ## [設定の継承とは](settings-inheritance.md)
 
@@ -31,5 +31,6 @@
 ## デバイスの使用
 ### [デバイスの追加方法](how-do-i-add-devices.md)
 ### [テスト プロファイルの使用方法](take-a-test-profiles.md)
+### [リモート操作の使用方法][remote-actions.md]
 ## レポートの使用
 ### [レポートとは](what-are-reports.md)
