@@ -31,6 +31,6 @@
 ## デバイスの使用
 ### [デバイスの追加方法](how-do-i-add-devices.md)
 ### [テスト プロファイルの使用方法](take-a-test-profiles.md)
-### [リモート操作の使用方法][remote-actions.md]
+### [リモート操作の使用方法](remote-actions.md)
 ## レポートの使用
 ### [レポートとは](what-are-reports.md)
