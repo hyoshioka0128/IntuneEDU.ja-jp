@@ -12,7 +12,8 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
-searchScope: IntuneEDU
+searchScope:
+- IntuneEDU
 ms.openlocfilehash: fb0d3b77903201b2eacbb3c24d40b93d9ff270b8
 ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
@@ -42,7 +43,7 @@ _ダッシュ ボード_教育用の Intune のメイン ランディング ペ�
 
 一覧に表示されるには、これらのタスクよりも教育用の Intune で実行できるその他の点があります。 選択した場合**すべてを参照してください**完全、一覧の下部にある**[サービス] メニュー**ポップ アウトされ、すべての利用可能な設定を参照できるようにします。
 
-  ![サービス] メニューの [ポップアウト、リストのすべての利用可能な設定を持つ。](./media/dashboard-003-change-sidebar-popout.png)
+  ![サービス メニューの ポップアウト、リストのすべての利用可能な設定を持つ。](./media/dashboard-003-change-sidebar-popout.png)
 
 サイド バーに表示される内容の順序を変更する場合は、任意の項目をポイントしに表示される縦 3 つのドットまで待機することができます。 これらのドットを選択し、表示するようなは、リスト内の位置に項目をドラッグします。
 
