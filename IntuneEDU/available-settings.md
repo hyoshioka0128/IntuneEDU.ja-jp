@@ -6,18 +6,19 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope: IntuneEDU
-ms.openlocfilehash: ec0e7acac5d0b674cc5373db8d218b8d8bb6ced5
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 6ff62dcad987e6ce8d18e314ac226a9ab2149aa0
+ms.sourcegitcommit: 1b05b1241ac053e0e0fbaf86cc441dcc15c4dcef
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -152,7 +153,12 @@ ms.lasthandoff: 01/19/2018
 
 ## <a name="wi-fi-profiles"></a>Wi-Fi プロファイル
 
-Wi-fi プロファイルを作成することで表示されるここでは、と共に、**ネットワーク名 (SSID)**、**セキュリティの種類**、および**説明**です。 <!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
+Wi-fi プロファイルを作成することで表示されるここでは、と共に、**ネットワーク名 (SSID)**、**セキュリティの種類**、および**説明**です。 
+
+> [!NOTE]
+> 使用して WPA 2 企業の Wi-fi ネットワークを構成することができます、[完全な Intune の Wi-fi プロファイルの管理エクスペリエンス](https://docs.microsoft.com//intune/wi-fi-settings-import-windows-8-1)です。 Intune を使用して設定する[SCEP](https://docs.microsoft.com/intune/certificates-scep-configure)と[PKI](https://docs.microsoft.com/intune/certficates-pfx-configure)統合します。 
+
+<!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
 
 
 ## <a name="device-sharing-settings"></a>デバイスの設定を共有

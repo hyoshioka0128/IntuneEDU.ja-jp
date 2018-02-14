@@ -6,18 +6,19 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
-searchScope: IntuneEDU
-ms.openlocfilehash: 53250c27bf3304414d7f5e23fd65f40c60422b02
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 601d8a2d226111c78c7458f7b081dc0ed965932e
+ms.sourcegitcommit: 1b05b1241ac053e0e0fbaf86cc441dcc15c4dcef
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="what-are-groups"></a>グループとは
 
@@ -41,7 +42,10 @@ ms.lasthandoff: 01/19/2018
 
 動的なグループでは、自分で追加する代わりにグループのメンバーを手動で追加の処理を省略できます。 どんな受講者またはデバイスが、条件を満たすため、テナントを検索する規則を使用して作成されます。 たとえば、すべてこの年の最後に徐々 に変化受講者を表示する動的なグループを作成できます。 受講者が予期せず卒業するできなかった場合は、この動的なグループからそれらを手動で削除できるはありません。 代わりはそれらのグループから削除された学生の卒業の年を変更する必要があります。
 
-動的なグループでは、それらのルールの定義を含めることができますのみ、ために、その下にサブグループを作成できません。
+> [!TIP]
+> 動的グループは、多数のオブジェクトのグループを管理するのに適してします。 非常に大きな学区内のグループに、デバイスとユーザーを手動で割り当てると、膨大な時間と労力を整理する必要があります。 -などの既存の条件に従ってフィルター処理する場合は、デバイスの名前は動的なグループを使用して*DeviceType_School_Grade_0001* -非常に簡単に多数のユーザーとデバイスの管理できるようにします。
+
+動的なグループでは、それらのルールの定義を含めることができますのみ、ために、その下にサブグループを作成できません。 
 
 ## <a name="managing-groups-and-subgroups"></a>グループとサブグループを管理します。
 
