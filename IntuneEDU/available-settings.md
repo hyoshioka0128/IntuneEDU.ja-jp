@@ -6,7 +6,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 02/16/2018
+ms.date: 02/20/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,11 +14,11 @@ ms.technology:
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: befb3771c2a28a1bc6ffc2d2f502d4d1ce7eaed7
-ms.sourcegitcommit: c581fd07989ad96c463374bf7463f848c86d8443
+ms.openlocfilehash: cd707a8ff75c64f51cd7c0f4c5767efd58ac777c
+ms.sourcegitcommit: 917dd5150ee9c051faa1e83d8d98b51d0c874d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 02/20/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -124,7 +124,7 @@ ms.lasthandoff: 02/19/2018
 |セットの更新頻度|Defender が確認されのマルウェア対策の更新プログラムをダウンロードする頻度を定義します。|
 |可能性のある望ましくないアプリケーションを保護|Defender では、ユーザーと望ましくないソフトウェアをデバイスにインストールしようとしています。 ブロックを警告します。|
 |クラウド ベースの保護を有効にします。|Defender は、潜在的なセキュリティ上の脅威についてマイクロソフトに情報を送信するときは、リアルタイム保護を取得します。 この機能は、サンプルを自動的に送信する「ユーザーにサンプルの提出を指示する」のセットに最適です。|
-|<a name="blocksuspiciousfiles"></a>不審なファイルをブロックします。|疑わしいファイルをブロックし、スキャン; を識別するときに、Windows Defender のウイルス対策ソフトウェアがより積極的なするこの設定がオンの場合それ以外の場合より緩やかなためをブロックして、少ない頻度でスキャンされます。|
+|<a name="blocksuspiciousfiles"></a>不審なファイルをブロックします。|疑わしいファイルをブロックし、スキャン; を識別するときに、Windows Defender のウイルス対策ソフトウェアがより積極的なするこの設定がオンの場合それ以外の場合より緩やかなためをブロックして、少ない頻度でスキャンされます。 選択できます**既定**、**高**、**高 +**、および**0 トレランス**です。 **高**積極的にデバイスのパフォーマンスに影響を与えずに影響を最小限に抑えながら不明なファイルをブロックします。 **高 +** 、不明なファイルを積極的にブロックが、デバイスのパフォーマンスに悪影響を与える可能性があります。 **許容範囲は 0**すべての不明なファイルの実行をブロックします。|
 |検出されたマルウェアの脅威に対する操作|Windows Defender は、自動的に検出されたマルウェアを検疫します。|
 |ネットワーク検査サービスを有効にします。|ネットワークの悪用からデバイスを検出し、悪意のあるトラフィックをブロックするために、Microsoft Endpoint Protection Center から既知の脆弱性の署名を使用して保護します。|
 |これらの拡張子を持つファイルをスキャンし、リアルタイム保護から除外します。|ユーザーにセキュリティ上の脅威をスキャンすることがなくアクセスできるようにファイルの種類を定義します。|
