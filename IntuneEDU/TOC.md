@@ -1,5 +1,4 @@
 # [教育用の Intune とは](what-is-intune-for-education.md)
-## [新機能](whats-new-in-edu.md)
 
 # [作業の開始](get-started-with-intune-edu.md)
 ## [高速構成とは](what-is-express-configuration.md)
