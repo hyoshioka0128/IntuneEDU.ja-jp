@@ -1,5 +1,5 @@
 ---
-title: "教育アプリ用の Microsoft ストアを取得します。"
+title: "教育向け Microsoft ストアを取得します。"
 titleSuffix: Intune for Education
 description: "教育向け Microsoft ストアからアプリを購入する方法を説明します。"
 keywords: 
@@ -20,12 +20,12 @@ ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/24/2018
 ---
-# <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>教育向け Microsoft ストアからアプリを取得する方法は?
+# <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>教育向け Microsoft ストアからアプリを取得する方法
 
-教育用 Microsoft ストアから取得したアプリは教育用の Intune に自動的に利用可能です。 これによって、簡単なのアクセス数十万アプリの Windows 10 のデバイスにします。
+教育向け Microsoft ストアから取得したアプリは教育向け Intune 上で利用可能です。 これによって、Windows 10 のデバイスに、数十万のアプリへのアクセスを簡単にします。
 
-これらのアプリを取得するための手順を見つけることができます、 [Microsoft ストア](https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps)ドキュメント。
+これらのアプリを取得するための手順をドキュメントにて確認してください。[Microsoft ストア](https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps)
 
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
-- [Intune を使ったストア アプリの取得の完全なエクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)
+- [ビジネス向け Microsoft ストアから購入したアプリを Microsoft Intune で管理する](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)
