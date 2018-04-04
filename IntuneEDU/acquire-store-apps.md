@@ -1,5 +1,5 @@
 ---
-title: "教育向け Microsoft ストアを取得します。"
+title: "教育機関向け Microsoft ストアのアプリを取得する"
 titleSuffix: Intune for Education
 description: "教育向け Microsoft ストアからアプリを購入する方法を説明します。"
 keywords: 
@@ -22,9 +22,9 @@ ms.lasthandoff: 02/24/2018
 ---
 # <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>教育向け Microsoft ストアからアプリを取得する方法
 
-教育向け Microsoft ストアから取得したアプリは教育向け Intune 上で利用可能です。 これによって、Windows 10 のデバイスに、数十万のアプリへのアクセスを簡単にします。
+教育向け Microsoft ストアから取得したアプリは教育向け Intune 上で利用可能です。 これによって、Windows 10 のデバイスで数十万のアプリにアクセスしやすくなります。
 
-これらのアプリを取得するための手順をドキュメントにて確認してください。[Microsoft ストア](https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps)
+これらのアプリを取得するための手順については、Microsoft ストア(https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps)のドキュメントを参照してください。
 
 ## <a name="find-out-more"></a>詳細は以下のページをご覧ください
 
