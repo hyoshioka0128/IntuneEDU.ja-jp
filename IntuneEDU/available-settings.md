@@ -1,4 +1,4 @@
----
+﻿---
 title: 使用可能な設定
 titleSuffix: Intune for Education
 description: 教育用の Intune の使用可能な設定について説明します。
