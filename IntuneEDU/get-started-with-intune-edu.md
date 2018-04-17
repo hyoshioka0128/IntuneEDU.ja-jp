@@ -1,23 +1,24 @@
 ---
-title: "教育用の Intune を概要します。"
+title: 教育用の Intune を概要します。
 titleSuffix: Intune for Education
-description: "教育用の Intune をセットアップするための要件について説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune をセットアップするための要件について説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
-searchScope: IntuneEDU
-ms.openlocfilehash: d703fdc5667b3042a8d97a59e6c8525530103132
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 53bafd5f2e5444c04c23b45525b888b7dd592701
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="get-started-with-intune-for-education"></a>教育用の Intune を概要します。
 

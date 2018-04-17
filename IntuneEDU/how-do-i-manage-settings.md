@@ -1,24 +1,25 @@
 ---
-title: "設定の管理方法"
+title: 設定の管理方法
 titleSuffix: Intune for Education
-description: "Intune を介して教育ポリシーの設定を管理するこれらの手順に従います。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: Intune を介して教育ポリシーの設定を管理するこれらの手順に従います。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
-searchScope: IntuneEDU
-.md#ms.tgt_pltfrm: 
-ms.openlocfilehash: 9ce70aedf1dfcd054225f879ff11e0fbe3195552
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+.md#ms.tgt_pltfrm: ''
+ms.openlocfilehash: 498d74228113361f866a2add8646bdc76cfd46fa
+ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/16/2018
 ---
 # <a name="how-do-i-manage-settings"></a>設定の管理方法
 
@@ -48,14 +49,14 @@ Express 構成を簡単にすばやく作業を開始するが、デバイスを
 3. グループ設定を管理、および順に選択する対象を選択して**次**です。
 4. アプリの一覧を確認し、**次**です。
 5. **設定** ページで、使用可能な設定のカテゴリを展開します。
-  * [基本的なデバイスの設定](available-settings.md#basic-device-settings)
-  * [Microsoft Edge の設定](available-settings.md#microsoft-edge-settings)
-  * [デバイスの設定の更新](available-settings.md#device-update-settings)
-  * [ワイヤレス設定](available-settings.md#wireless-settings)
-  * [アプリの設定](available-settings.md#app-settings)
-  * [サインイン設定](available-settings.md#sign-in-settings)
+   * [基本的なデバイスの設定](available-settings.md#basic-device-settings)
+   * [Microsoft Edge の設定](available-settings.md#microsoft-edge-settings)
+   * [デバイスの設定の更新](available-settings.md#device-update-settings)
+   * [ワイヤレス設定](available-settings.md#wireless-settings)
+   * [アプリの設定](available-settings.md#app-settings)
+   * [サインイン設定](available-settings.md#sign-in-settings)
 
-  カテゴリを展開し、設定を変更し、コントロールを切り替える**次**です。
+   カテゴリを展開し、設定を変更し、コントロールを切り替える**次**です。
 
 6. 選択内容を確認し、**完了**を保存する、変更内容を更新、選択したグループ内のデバイス。
 

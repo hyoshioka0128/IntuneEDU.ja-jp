@@ -1,23 +1,24 @@
 ---
-title: "教育用の Intune とは"
+title: 教育用の Intune とは
 titleSuffix: Intune for Education
-description: "教育と方法が簡単に Windows 10 デバイスの管理の教育機関を Intune について説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育と方法が簡単に Windows 10 デバイスの管理の教育機関を Intune について説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
-searchScope: IntuneEDU
-ms.openlocfilehash: 76dd2ad54de25dc648842f8cbbb95e1f4330ff39
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: d8eb0791d452c040360921edd635f175fcfcbc43
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 

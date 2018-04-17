@@ -1,23 +1,24 @@
 ---
-title: "証明書とは?"
+title: 証明書とは?
 titleSuffix: Intune for Education
-description: "証明書とその管理に移動する必要がありますに短い概要を取得します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 証明書とその管理に移動する必要がありますに短い概要を取得します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 8047f6c1-f8aa-465f-8800-02ac318d6a84
-searchScope: IntuneEDU
-ms.openlocfilehash: 6b9a990ac53d747d30ade8081d57ede814a1decc
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 7c5c33750d632d497ecdf42fa62ee112d8d3c490
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-are-certificates"></a>証明書とは?
 

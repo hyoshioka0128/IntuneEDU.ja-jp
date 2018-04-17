@@ -1,23 +1,24 @@
 ---
-title: "リモート操作の使用方法"
+title: リモート操作の使用方法
 titleSuffix: Intune for Education
-description: "簡単にデバイスを管理するためのリモート操作を使用する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 簡単にデバイスを管理するためのリモート操作を使用する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: df7cabf2-1723-4817-b16c-800407a0c753
-searchScope: IntuneEDU
-ms.openlocfilehash: cdc560bb361f9fe30c89ee0e6bf56cfdf78cf984
-ms.sourcegitcommit: 5ee14a281dbae6b7cc9711ca2d19e49f85e78ed5
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 6be41b3d24b9a704c6586ad62f092ba7036c5e1a
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-use-remote-actions"></a>リモート操作の使用方法
 

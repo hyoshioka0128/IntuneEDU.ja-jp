@@ -1,24 +1,25 @@
 ---
-title: "レポートとは"
+title: レポートとは
 titleSuffix: Intune for Education
-description: "レポートが役立つ教育用の Intune でのアクティビティを理解する方法について説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: レポートが役立つ教育用の Intune でのアクティビティを理解する方法について説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
-searchScope: IntuneEDU
+searchScope:
+- IntuneEDU
 ms.reviewer: travisj
-ms.openlocfilehash: f756b0dd6b36afb8fa47517e103cc435aa5d3e05
-ms.sourcegitcommit: 5ee14a281dbae6b7cc9711ca2d19e49f85e78ed5
+ms.openlocfilehash: b06b201553d46ec530975759ebe7a01676bf8a67
+ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2018
+ms.lasthandoff: 04/16/2018
 ---
 # <a name="what-are-reports-in-intune-for-education"></a>教育用の Intune のレポートとは
 
@@ -30,21 +31,21 @@ ms.lasthandoff: 01/22/2018
 
 2. 表示するレポートを選択します。 次のレポートは、教育用の Intune で利用できます。
 
-  * **デバイスのインベントリ**— 教育用の Intune で管理されているデバイスの一覧です。
+   * **デバイスのインベントリ**— 教育用の Intune で管理されているデバイスの一覧です。
 
-  ![デバイス インベントリ レポート画面、教育管理に Intune でデバイスの一覧を表示します。](./media/reports-001-device-inventory.png)
+   ![デバイス インベントリ レポート画面、教育管理に Intune でデバイスの一覧を表示します。](./media/reports-001-device-inventory.png)
 
-  * **アプリケーション インベントリ**Education、そのアプリがインストールされているデバイスの数などの Intune で管理対象デバイスにインストールされているアプリの一覧です。
+   * **アプリケーション インベントリ**Education、そのアプリがインストールされているデバイスの数などの Intune で管理対象デバイスにインストールされているアプリの一覧です。
 
-  ![アプリケーション インベントリ レポート画面、教育管理向けに Intune でアプリの一覧を表示します。](./media/reports-002-app-inventory.png)
+   ![アプリケーション インベントリ レポート画面、教育管理向けに Intune でアプリの一覧を表示します。](./media/reports-002-app-inventory.png)
 
-  * **設定エラー** — は設定の一覧[競合で現在](settings-inheritance.md)階層内のグループに対してです。
+   * **設定エラー** — は設定の一覧[競合で現在](settings-inheritance.md)階層内のグループに対してです。
 
-  ![設定のエラーは、設定の競合の一覧を表示 画面を報告します。](./media/reports-003-settings-error.png)
+   ![設定のエラーは、設定の競合の一覧を表示 画面を報告します。](./media/reports-003-settings-error.png)
 
- * **Windows Defender** -すべてのデバイスのデバイス正常性状態を Windows Defender のビューです。
+   * **Windows Defender** -すべてのデバイスのデバイス正常性状態を Windows Defender のビューです。
 
-  その特定の種類のアプリに関する (web アプリ、デスクトップ アプリ、Microsoft のストア アプリ) のみの情報を表示するアプリの種類を選択することもできます。
+   その特定の種類のアプリに関する (web アプリ、デスクトップ アプリ、Microsoft のストア アプリ) のみの情報を表示するアプリの種類を選択することもできます。
 
 ## <a name="download-reports"></a>レポートをダウンロードします。
 

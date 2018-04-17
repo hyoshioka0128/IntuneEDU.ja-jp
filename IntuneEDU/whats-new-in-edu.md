@@ -1,25 +1,25 @@
 ---
-title: "新機能"
+title: 新機能
 titleSuffix: Intune for Education
-description: "教育用の Intune に最近リリースされたかを調べます。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune に最近リリースされたかを調べます。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
-.#ms.devlang: 
-ms.openlocfilehash: 112bdb8e628da8c4d1d2dccbc8be106a6e2bc0a5
-ms.sourcegitcommit: 0ff55280a3f8529a11db07689ea4eb631ba795cf
+.#ms.devlang: ''
+ms.openlocfilehash: 8c04821066b10ed49391e424ef0adc02837dcf2b
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 このリリースの教育用の Intune の新機能について説明します。 また、過去のリリースに関する情報だけでなく、準備する必要がある今後の変更についても説明します。

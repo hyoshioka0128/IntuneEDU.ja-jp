@@ -1,23 +1,24 @@
 ---
-title: "設定の継承とは何ですか。"
+title: 設定の継承とは何ですか。
 titleSuffix: Intune for Education
-description: "教育用の Intune でデバイスのグループの設定を管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune でデバイスのグループの設定を管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
-searchScope: IntuneEDU
-ms.openlocfilehash: e0d38bb2b7a5d40d11004d609ecf93be60112bd6
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: bcb11500f316ac7f96c6c35bc372db59803f2dcd
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 
