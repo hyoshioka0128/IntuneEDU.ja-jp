@@ -1,23 +1,24 @@
 ---
-title: "アプリをインストールする方法"
+title: アプリをインストールする方法
 titleSuffix: Intune for Education
-description: "教育用の Intune でアプリを管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune でアプリを管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
-searchScope: IntuneEDU
-ms.openlocfilehash: e837baebeeb13c2c5a005d1d516a75be956ebd5b
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 653fddd596a93d93b46f1d3306b47002ee4e2c02
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>教育用の Intune でアプリをインストールする方法
 

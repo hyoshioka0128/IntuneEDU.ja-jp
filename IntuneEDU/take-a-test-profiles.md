@@ -1,23 +1,24 @@
 ---
-title: "Take の使用方法テスト プロファイルしますか?"
+title: Take の使用方法テスト プロファイルしますか?
 titleSuffix: Intune for Education
-description: "A のテストの実行プロファイルを使用して簡単に管理および学生テスト結果をキャプチャする方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: A のテストの実行プロファイルを使用して簡単に管理および学生テスト結果をキャプチャする方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
-searchScope: IntuneEDU
-ms.openlocfilehash: 4d7d60862db9df0db2eac48288941f047da14c9d
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: cf522ae8d03073e9c535d347e3c76db6ca5a7ac4
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-use-take-a-test-profiles"></a>Take の使用方法テスト プロファイルしますか?
 

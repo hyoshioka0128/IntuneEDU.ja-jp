@@ -1,23 +1,24 @@
 ---
-title: "設定とは"
+title: 設定とは
 titleSuffix: Intune for Education
-description: "Intune を介して教育ポリシーの設定を管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: Intune を介して教育ポリシーの設定を管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
-searchScope: IntuneEDU
-ms.openlocfilehash: 72e3c6ae12c9e9cea3835520f4e5b801b73163e6
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 8b65da8b3b10361407cd31335bfb7e3a811aeb85
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-are-settings"></a>設定とは
 

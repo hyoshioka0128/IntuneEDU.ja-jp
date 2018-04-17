@@ -1,23 +1,24 @@
 ---
-title: "登録マネージャーとは"
+title: 登録マネージャーとは
 titleSuffix: Intune for Education
-description: "教育用に Intune で登録マネージャーを使用する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用に Intune で登録マネージャーを使用する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
-searchScope: IntuneEDU
-ms.openlocfilehash: df2c6cff7677a2a5da001dba8ea4329b420628fb
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: ec437688a8ffb802af1efc741545a5a4995da988
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>教育用の Intune の登録のマネージャーとは
 
