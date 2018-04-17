@@ -3,8 +3,8 @@ title: "教育機関向け Microsoft ストアのアプリを取得する"
 titleSuffix: Intune for Education
 description: 教育向け Microsoft ストアからアプリを購入する方法を説明します。
 keywords: ''
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 02/23/2018
 ms.topic: article
@@ -14,11 +14,11 @@ ms.technology: ''
 ms.assetid: e38a808b-bbfb-4cbc-835a-f99b1c85a048
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 74a7e5a0c88421aebe4e6899e7d48e5ed28e234d
-ms.sourcegitcommit: 907a812ca5173f825389c72a0ab45640fda32420
-ms.translationtype: HT
+ms.openlocfilehash: b5adef3e48c50d75091f983ebe64b43e8edf3d76
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/24/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>教育向け Microsoft ストアからアプリを取得する方法
 

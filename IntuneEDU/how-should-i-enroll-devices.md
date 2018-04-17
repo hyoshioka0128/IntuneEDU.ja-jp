@@ -1,23 +1,24 @@
 ---
-title: "自分のデバイスを登録する必要がある方法"
+title: 自分のデバイスを登録する必要がある方法
 titleSuffix: Intune for Education
-description: "For Education を Intune でデバイスを登録する方法のヒントを取得します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: For Education を Intune でデバイスを登録する方法のヒントを取得します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
-searchScope: IntuneEDU
-ms.openlocfilehash: 9c3a2dbcb3412e52eff99d92f4a0560a5122e2f7
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 047cb21bce3d1a7156bb0d3005eac0ad98e3e1ea
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-should-i-enroll-devices"></a>デバイスを登録する必要がある方法
 

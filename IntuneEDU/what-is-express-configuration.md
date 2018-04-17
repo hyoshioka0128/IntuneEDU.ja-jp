@@ -1,23 +1,24 @@
 ---
-title: "Express の構成とは"
+title: Express の構成とは
 titleSuffix: Intune for Education
-description: "教育用の Intune で、グループを簡単に設定するには、Express の構成を使用します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune で、グループを簡単に設定するには、Express の構成を使用します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
-searchScope: IntuneEDU
-ms.openlocfilehash: 4694f6a97dac598ac30d5e3010be41852f1549da
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: e0cbd8ae771976c0e571fdb0cbbb0d70122c38d3
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-is-express-configuration"></a>Express の構成とは
 

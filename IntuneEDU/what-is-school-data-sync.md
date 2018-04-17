@@ -1,23 +1,24 @@
 ---
-title: "School データの同期とは何ですか。"
+title: School データの同期とは何ですか。
 titleSuffix: Intune for Education
-description: "学校グループとユーザーを Azure AD にインポートするデータ同期を使用して School です。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 学校グループとユーザーを Azure AD にインポートするデータ同期を使用して School です。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 08/11/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: f9cb6daf-a789-427b-bbfd-fa0a3d36e01f
-searchScope: IntuneEDU
-ms.openlocfilehash: be48cf06dc4ddc037a04398141bfcc197512ddaf
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: d6d7c2556e4af90bd6d777be8f91367dabf80618
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-is-school-data-sync"></a>School データの同期とは何ですか。
 

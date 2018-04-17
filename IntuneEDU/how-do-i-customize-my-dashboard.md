@@ -1,24 +1,24 @@
 ---
-title: "担当のダッシュ ボードをカスタマイズする方法"
+title: 担当のダッシュ ボードをカスタマイズする方法
 titleSuffix: Intune for Education
-description: "ダッシュ ボードと教育用の Intune でサイドバーをカスタマイズする方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: ダッシュ ボードと教育用の Intune でサイドバーをカスタマイズする方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: fb0d3b77903201b2eacbb3c24d40b93d9ff270b8
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+ms.openlocfilehash: f2797d0011c934fbecb640c381f8db3cf3b0dc69
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-customize-my-dashboard"></a>担当のダッシュ ボードをカスタマイズする方法
 

@@ -1,23 +1,24 @@
 ---
-title: "Windows 10 デバイス用の Microsoft Office を管理します。"
+title: Windows 10 デバイス用の Microsoft Office を管理します。
 titleSuffix: Intune for Education
-description: "Windows 10 デバイスで Microsoft Office をインストールする方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: Windows 10 デバイスで Microsoft Office をインストールする方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 10/06/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 1673246c-4e05-4d50-9ac9-3cffaa5b7a63
-searchScope: IntuneEDU
-ms.openlocfilehash: 81b5e9ab4d505f731f4557b5acfcf736efa107e2
-ms.sourcegitcommit: 8c8c1cf05270defba2b5bb1b3e4c9309b2088a7e
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: beb77075f01a28f5d3f429ae28988c753426d551
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="how-do-i-manage-microsoft-office-on-my-windows-10-devices"></a>自分の Windows 10 デバイス上の Microsoft Office の管理方法
 

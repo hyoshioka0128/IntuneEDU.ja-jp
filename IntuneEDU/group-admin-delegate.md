@@ -1,23 +1,24 @@
 ---
-title: "グループの管理を委任する方法は?"
+title: グループの管理を委任する方法は?
 titleSuffix: Intune for Education
-description: "教育用の Intune でのグループのロールを管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune でのグループのロールを管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/18/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 9319be2e-cb7e-43c1-98fe-64281c8c09fd
-searchScope: IntuneEDU
-ms.openlocfilehash: 9daeb5c7a2aeb437c672337aed4c83fa015cdc60
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 59d956fd5e95f3a932af80673e647efa1317059d
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-is-delegating-group-management"></a>グループの管理を委任するは何ですか。
 

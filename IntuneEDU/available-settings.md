@@ -3,8 +3,8 @@ title: 使用可能な設定
 titleSuffix: Intune for Education
 description: 教育用の Intune の使用可能な設定について説明します。
 keywords: ''
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 02/20/2018
 ms.topic: article
@@ -14,11 +14,11 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: cd707a8ff75c64f51cd7c0f4c5767efd58ac777c
-ms.sourcegitcommit: 917dd5150ee9c051faa1e83d8d98b51d0c874d47
-ms.translationtype: HT
+ms.openlocfilehash: 506280060f9afb604eeb82eecf0ba6e27ae60eac
+ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2018
+ms.lasthandoff: 04/16/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -65,13 +65,13 @@ ms.lasthandoff: 02/20/2018
 * Bing 天気
 * デスクトップ アプリのインストーラー
 * 作業の開始
-* Microsoft Office Hub
+* Microsoft Office ハブ
 * ソリティア コレクション
 * 1 つの接続します。
 * Windows フィードバック Hub
 * Xbox
 * Groove ミュージック
-<!--* Zune Video-->
+  <!--* Zune Video-->
 * メール
 * 予定表
 

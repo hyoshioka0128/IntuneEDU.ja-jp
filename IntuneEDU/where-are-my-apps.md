@@ -1,23 +1,24 @@
 ---
-title: "教育アプリ用の一般的な my Microsoft ストアを参照しているか。"
+title: 教育アプリ用の一般的な my Microsoft ストアを参照しているか。
 titleSuffix: Intune for Education
-description: "教育用の Intune に購入したアプリが表示されない理由について説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune に購入したアプリが表示されない理由について説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
-searchScope: IntuneEDU
-ms.openlocfilehash: 9fc3c41f09617316f80abc22af2dac5369a0911a
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 13ed329058386d9fd932c1d20b6635defc6d2822
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>教育アプリ用 my 購入した Microsoft ストアを参照しているか。
 
