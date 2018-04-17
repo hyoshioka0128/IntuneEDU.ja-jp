@@ -1,24 +1,24 @@
 ---
-title: "グループとは"
+title: グループとは
 titleSuffix: Intune for Education
-description: "教育用の Intune でデバイスのグループを管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: 教育用の Intune でデバイスのグループを管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 02/13/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 601d8a2d226111c78c7458f7b081dc0ed965932e
-ms.sourcegitcommit: 1b05b1241ac053e0e0fbaf86cc441dcc15c4dcef
+ms.openlocfilehash: 3ebe0088316b8db86ee2214683790b17645d8b18
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-are-groups"></a>グループとは
 
@@ -79,7 +79,7 @@ ms.lasthandoff: 02/14/2018
 2. 移動する必要があるグループを選択します。
 3.  をクリックして**グループの移動**メニューの一覧に、または選択して、**グループの移動**ボタンをクリックします。
 4.  グループ名を検索して、または階層を選択して、このグループを移動するグループの場所を選択します。
-5.  選択**OK**して変更を保存します。
+5.  **[OK]** を選択して変更を保存します。
 
 ## <a name="why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups"></a>「すべてのデバイス」、「すべてのユーザー」、「すべての受講者」または「すべて教師」グループを変更できない理由
 
