@@ -1,23 +1,24 @@
 ---
-title: "テナントとは"
+title: テナントとは
 titleSuffix: Intune for Education
-description: "テナント全体の設定で、テナントを管理する方法を説明します。"
-keywords: 
-author: barlanmsft
-ms.author: barlan
+description: テナント全体の設定で、テナントを管理する方法を説明します。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
-searchScope: IntuneEDU
-ms.openlocfilehash: 44fa5451d351b81442fca4a20e778d461586a651
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: e62403344eba24ec51ce9b0055875be98c607e3a
+ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/03/2018
 ---
 # <a name="what-are-tenants"></a>テナントとは
 
