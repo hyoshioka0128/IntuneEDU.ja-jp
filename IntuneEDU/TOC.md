@@ -1,6 +1,6 @@
 # [教育用の Intune とは](what-is-intune-for-education.md)
-
-# [作業の開始](get-started-with-intune-edu.md)
+# [教育用の Intune の新機能](whats-new-in-edu.md)
+# [作業開始](get-started-with-intune-edu.md)
 ## [高速構成とは](what-is-express-configuration.md)
 ## [学校データ同期とは](what-is-school-data-sync.md)
 ## [テナントとは](what-are-tenants.md)
