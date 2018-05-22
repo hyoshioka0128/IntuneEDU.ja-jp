@@ -1,5 +1,5 @@
 ---
-title: デバイスを追加します。
+title: デバイスを追加する
 titleSuffix: Intune for Education
 description: 教育用の Intune の Windows 10 デバイスを設定する方法を説明します。
 keywords: ''
@@ -14,11 +14,11 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: e289b8f163515b16f9ce0e908ceadc26d3c2e82f
-ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
+ms.openlocfilehash: 34c72fcbcd622724dec3ab93efb05ea7b2592940
+ms.sourcegitcommit: f81aff5061d85ab1b16bce16d1f2e7091df723d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2018
+ms.lasthandoff: 05/22/2018
 ---
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>教育用の Intune にデバイスを追加する方法
 
@@ -30,9 +30,9 @@ ms.lasthandoff: 04/16/2018
 
 ## <a name="add-devices-to-intune-for-education"></a>教育用の Intune にデバイスを追加します。
 
-表示する必要があります for Education Intune による管理に Windows 10 デバイスを表示するには、次の操作を行います。
+Windows 10 デバイスを持ち込み、教育用の Intune による管理に以下を実行する必要があります。
 
-1. 新しい Windows 10 デバイスを有効にし、標準の Windows セットアップを開始します。 達すると、**この PC の所有者はだれですか?**画面で、**職場または学校に所有されている**です。
+1. 新しい Windows 10 デバイスを有効にし、標準の Windows セットアップを開始します。 達すると、**この PC の所有者はだれですか?** 画面で、**職場または学校に所有されている**です。
 
    ![「の所有者はだれこの PC ですか?」のスクリーン ショット Windows セットアップで画面](./media/devices-001-who-owns-this-pc.png)
 
@@ -40,7 +40,7 @@ ms.lasthandoff: 04/16/2018
 
    ![Windows セットアップで「の接続方法の選択」画面のスクリーン ショット](./media/devices-002-how-you-connect-pc.png)
 
-3. 教育管理用の Intune のアカウントの詳細を入力または**他の登録の権限がユーザー**選択**[次へ]**です。
+3. 教育管理用の Intune のアカウントの詳細を入力または**他の登録の権限がユーザー**選択 **[次へ]** です。
 
 デバイスは[Azure AD で認証](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access)とセットアップが完了したら、割り当てられているアプリと設定を受信します。
 

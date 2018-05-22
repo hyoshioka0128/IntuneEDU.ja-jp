@@ -14,15 +14,15 @@ ms.technology: ''
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: fdf424654780cee504f2d5b22c722949b86e5853
-ms.sourcegitcommit: c191edf230742b1bb5f0bc6ca399533d7d815cb6
+ms.openlocfilehash: fd612ea2cdfe81fbdc0dd9e17a100852df2d4fa8
+ms.sourcegitcommit: f81aff5061d85ab1b16bce16d1f2e7091df723d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/18/2018
+ms.lasthandoff: 05/22/2018
 ---
 # <a name="how-should-i-enroll-devices"></a>デバイスを登録する必要がある方法
 
-教育用の Intune による管理にデバイスを登録するいくつかの方法はあります。 これらを置き換えて、使用することがありますが、いくつかのサイズ、地域、スタッフを登録することができ、受信デバイスのユーザーの数に基づいて方が簡単です。 たとえば、教師自体がデバイスを登録を許可して、USB キーを使用して、学校の受講者用デバイスの数百台の登録します。
+この記事では、Intune で for Education の学校のデバイスを登録する方法を説明します。 地域、スタッフを登録することができ、受信デバイスのユーザーの数のサイズに基づいて最適な方法を選択します。 複数のメソッドを使用して、デバイスを登録することができます。 たとえば、自分自身、自分のデバイスの登録が、USB キーを使用して、学校の受講者用デバイスの数百台の登録を結成を許可する場合があります。
 
 * 使用して、空き[__学校の Pc 設定__](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)学校で多くの Pc を設定するアプリです。 __学校の Pc 設定__Microsoft の推奨される教育設定で Windows 10 デバイスを構成することができます。アプリでは、プロビジョニング パッケージと、USB ドライブに保存するのに役立ちます PC を作成する手順について説明します。 パッケージを配布するには、student 1703 のバージョンの Windows 10 を実行している Pc に USB ドライブを接続だけです。
 
