@@ -20,6 +20,7 @@ ms.sourcegitcommit: 957bb155e37f507fcc1c6c114536256fdfbe71fe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/07/2018
+ms.locfileid: "33808028"
 ---
 # <a name="how-do-i-manage-settings"></a>設定の管理方法
 

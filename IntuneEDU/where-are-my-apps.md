@@ -19,6 +19,7 @@ ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/03/2018
+ms.locfileid: "30297387"
 ---
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>教育アプリ用 my 購入した Microsoft ストアを参照しているか。
 

@@ -20,6 +20,7 @@ ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/16/2018
+ms.locfileid: "31006455"
 ---
 # <a name="what-are-reports-in-intune-for-education"></a>教育用の Intune のレポートとは
 

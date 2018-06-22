@@ -19,6 +19,7 @@ ms.sourcegitcommit: f81aff5061d85ab1b16bce16d1f2e7091df723d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/22/2018
+ms.locfileid: "34430476"
 ---
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>教育用の Intune にデバイスを追加する方法
 

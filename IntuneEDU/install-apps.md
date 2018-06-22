@@ -19,6 +19,7 @@ ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/03/2018
+ms.locfileid: "30297068"
 ---
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>教育用の Intune でアプリをインストールする方法
 

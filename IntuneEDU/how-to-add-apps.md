@@ -19,6 +19,7 @@ ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/16/2018
+ms.locfileid: "31006387"
 ---
 # <a name="how-do-i-add-apps-to-intune-for-education"></a>教育用 intune アプリを追加する方法
 

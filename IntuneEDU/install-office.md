@@ -19,6 +19,7 @@ ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/03/2018
+ms.locfileid: "30296960"
 ---
 # <a name="how-do-i-manage-microsoft-office-on-my-windows-10-devices"></a>自分の Windows 10 デバイス上の Microsoft Office の管理方法
 

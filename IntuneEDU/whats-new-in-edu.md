@@ -20,6 +20,7 @@ ms.sourcegitcommit: c74cfd0623c54ed6e2cdea13a3789e467b14e870
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/09/2018
+ms.locfileid: "33920048"
 ---
 # <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
 教育用の Intune の新機能について説明します。 今後の変更を計画する、製品の通知、および以前のリリースからの機能について確認します。

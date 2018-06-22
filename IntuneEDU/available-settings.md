@@ -1,4 +1,4 @@
-﻿---
+---
 title: 使用可能な設定
 titleSuffix: Intune for Education
 description: 教育用の Intune の使用可能な設定について説明します。
@@ -19,6 +19,7 @@ ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/16/2018
+ms.locfileid: "31006370"
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
