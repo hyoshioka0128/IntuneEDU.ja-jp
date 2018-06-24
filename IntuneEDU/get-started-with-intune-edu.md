@@ -7,19 +7,19 @@ author: lenewsad
 ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
-ms.topic: article
+ms.topic: conceptual
 ms.prod: ''
 ms.service: microsoft-intune
 ms.technology: ''
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 53bafd5f2e5444c04c23b45525b888b7dd592701
-ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.openlocfilehash: 6e7d0121ca6ba05d8fb3e84b5771dc1ec363eb88
+ms.sourcegitcommit: 01a4380b83afafe04eeaaa02a01709efb58f1f93
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2018
-ms.locfileid: "30297315"
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "36329442"
 ---
 # <a name="get-started-with-intune-for-education"></a>教育用の Intune を概要します。
 
