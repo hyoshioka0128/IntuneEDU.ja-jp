@@ -19,6 +19,7 @@ ms.sourcegitcommit: f81aff5061d85ab1b16bce16d1f2e7091df723d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/22/2018
+ms.locfileid: "34430510"
 ---
 # <a name="how-should-i-enroll-devices"></a>デバイスを登録する必要がある方法
 
