@@ -5,8 +5,8 @@ description: 教育用の Intune の使用可能な設定について説明し�
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 02/20/2018
+manager: dougeby
+ms.date: 06/29/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 506280060f9afb604eeb82eecf0ba6e27ae60eac
-ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
+ms.openlocfilehash: 2c49ea073701b353190986c37cd9932e52fd66f3
+ms.sourcegitcommit: afa546a6610f03fc3c098adc2b7846ca1a6d13f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2018
-ms.locfileid: "31006370"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "37126618"
 ---
 # <a name="available-settings-for-intune-for-education"></a>教育用の Intune の使用可能な設定
 
@@ -71,8 +71,7 @@ ms.locfileid: "31006370"
 * 1 つの接続します。
 * Windows フィードバック Hub
 * Xbox
-* Groove ミュージック
-  <!--* Zune Video-->
+* Groove の音楽 <!--* Zune Video-->
 * メール
 * 予定表
 
@@ -207,7 +206,7 @@ Wi-fi プロファイルを作成することで表示されるここでは、�
 |[スタート] メニューでブロック電源メニュー|電源メニューをブロックする (例: 再起動、シャット ダウン)、[スタート] メニューを表示からします。|
 |[スタート] メニューでブロック ユーザー タイル|現在のユーザーの情報、[スタート] メニューに表示されているをブロックします。|
 |[スタート] メニューで、ユーザー タイルに表示されないようにブロック オプション|選択できます**アカウント設定を変更する**、**ロック**、および**サインアウト**です。|
-|[スタート] メニューに表示されるフォルダーを選択します。|選択できます**ファイル エクスプ ローラー**、**設定**、**ドキュメント**、**ダウンロード**、**音楽**、**画像**、**ビデオ**、**ホーム グループ**、**ネットワーク**、および**個人用フォルダー**です。|
+|[スタート] メニューに表示されるフォルダーを選択します。|選択できます**ファイル エクスプ ローラー**、**設定**、**ドキュメント**、**ダウンロード**、**音楽**、 **画像**、**ビデオ**、**ホーム グループ**、**ネットワーク**、および**個人用フォルダー**です。|
 |[スタート] メニューのカスタム レイアウトを適用します。|XML ファイルを使用してカスタムの [スタート] メニューのレイアウトを適用します。 サイズでは、2 MB 未満の .xml ファイルをアップロードできます。|
 |[スタート] メニューにタイルとしてピン留めの web サイト|XML ファイルを使用して、[スタート] メニューのタイルとしてピン留め web サイトです。 サイズでは、2 MB 未満の .xml ファイルをアップロードできます。|
 
@@ -243,8 +242,12 @@ Wi-fi プロファイルを作成することで表示されるここでは、�
 
 
 ## <a name="smartscreen-settings"></a>SmartScreen の設定
-
-|ユーザーが SmartScreen のオーバーライドを禁止 |ユーザーが SmartScreen フィルターによってブロックされている web サイトに関する警告を無視するを禁止します |。|SmartScreen がファイルの上書き |未検証のファイルのダウンロードの SmartScreen フィルターの警告を無視してからユーザーをブロックします |。|アプリとファイルの SmartScreen |<!--20180105 need explainer---> |ユーザーが SmartScreen の警告の消去を禁止 |
+|設定|内容|
+|---|---|
+|SmartScreen のオーバーライドをユーザーに禁止|ユーザーを無視し、SmartScreen フィルターによってブロックされている web サイトにアクセスするの禁止します。|
+|ファイルの SmartScreen の上書き|無視し、SmartScreen フィルターに関する注意事項について未検証のファイルをダウンロードしてからユーザーをブロックします。|
+|アプリとファイルの SmartScreen|認識されないアプリと web サイトからファイルを確認するデバイスを保護する SmartScreen を有効にします。|
+|SmartScreen の警告の消去をユーザーに禁止|悪意のあるファイルとアプリに関する SmartScreen の警告を消してから受講者をブロックします。
 
 
 ## <a name="email-settings"></a>電子メールの設定
