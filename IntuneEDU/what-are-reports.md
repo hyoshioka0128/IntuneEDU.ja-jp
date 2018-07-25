@@ -1,12 +1,12 @@
 ---
-title: レポートとは
+title: 表示し、intune for Education のレポートのダウンロード
 titleSuffix: Intune for Education
-description: レポートが役立つ教育用の Intune でのアクティビティを理解する方法について説明します。
+description: デバイス、設定、および Intune for Education でアプリケーションのアクティビティを理解するのに役立つレポートを取得します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 01/22/2018
+manager: dougeby
+ms.date: 07/23/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,44 +15,43 @@ ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
 searchScope:
 - IntuneEDU
 ms.reviewer: travisj
-ms.openlocfilehash: b06b201553d46ec530975759ebe7a01676bf8a67
-ms.sourcegitcommit: 12d14e207e6190bac4909042385a4120150678fa
+ms.openlocfilehash: 8bc3fe827d3ca1b37a1b0f8ab226d4d15a30db05
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2018
-ms.locfileid: "31006455"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230240"
 ---
-# <a name="what-are-reports-in-intune-for-education"></a>教育用の Intune のレポートとは
+# <a name="view-and-download-reports"></a>表示し、レポートのダウンロード  
 
-教育用の Intune では、デバイスと教育用の Intune で管理されているアプリからの特定のアクティビティを表示するのに便利なレポートを提供します。 これらのレポートを確認してオフラインをダウンロードすることができます。
+Intune for Education には、現在、デバイス、アプリケーション、設定、および正常性のインベントリを表示します。 レポートを確認またはオフラインの共有をダウンロードします。
 
-現在、教育用の Intune で表示できるレポートの 3 種類があります:__デバイスのインベントリ__、__アプリケーション インベントリ__、および__設定エラー__です。
+この記事では、使用可能なレポートと Intune for Education に表示する方法について説明します。
 
-1. [教育用の Intune](https://intuneeducation.portal.azure.com)コンソールで、選択**レポート**左側のナビゲーション バーでします。
+## <a name="device-inventory"></a>デバイスのインベントリ
+すべての学校の管理対象デバイスとデバイスの詳細を表示します。 デバイスは、故障または、アプリや設定を受信していない、ときに、最終チェックインを Intune で検出するには、このレポートに参照できます。   
 
-2. 表示するレポートを選択します。 次のレポートは、教育用の Intune で利用できます。
+   ![デバイス インベントリ レポート画面、教育機関向けの管理用に Intune でデバイスの一覧を表示します。](./media/reports-001-device-inventory.png)
 
-   * **デバイスのインベントリ**— 教育用の Intune で管理されているデバイスの一覧です。
+## <a name="application-inventory"></a>アプリケーション インベントリ
+学校で管理対象デバイスにインストールされているすべてのアプリを表示します。 このレポートは、展開の問題のトラブルシューティングに役立つ詳細を提供します。 デバイスにアプリが属しているとインストールされている現在のバージョンの数などの重要な詳細を参照してください。  
+ 
+ ![アプリケーション インベントリ レポート画面、教育機関の管理のための Intune でアプリの一覧を表示します。](./media/reports-002-app-inventory.png)  
 
-   ![デバイス インベントリ レポート画面、教育管理に Intune でデバイスの一覧を表示します。](./media/reports-001-device-inventory.png)
+## <a name="settings-errors"></a>設定エラー
+現在の設定エラーと影響を受けるグループの一覧を表示します。 このレポートには、デバイスと競合する、未解決の設定を持つユーザーの両方が一覧表示します。   
 
-   * **アプリケーション インベントリ**Education、そのアプリがインストールされているデバイスの数などの Intune で管理対象デバイスにインストールされているアプリの一覧です。
+   ![設定エラー レポートの画面で、設定の競合の一覧を表示します。](./media/reports-003-settings-error.png)
 
-   ![アプリケーション インベントリ レポート画面、教育管理向けに Intune でアプリの一覧を表示します。](./media/reports-002-app-inventory.png)
+## <a name="windows-defender"></a>Windows Defender
+学校では、すべての管理対象デバイスの Windows Defender デバイスの正常性状態を表示します。 このレポートには、完全にセキュリティで保護されていないデバイスにアラートを生成するデバイスの正常性状態が表示されます。 
 
-   * **設定エラー** — は設定の一覧[競合で現在](settings-inheritance.md)階層内のグループに対してです。
+## <a name="access-your-reports"></a>レポートにアクセスできます。
 
-   ![設定のエラーは、設定の競合の一覧を表示 画面を報告します。](./media/reports-003-settings-error.png)
+1. [Intune for Education のダッシュ ボード](https://intuneeducation.portal.azure.com)、 をクリックして**レポート**します。  
+2. 表示するレポートを選択します。 
+3. 検索ボックスを使用すると、特定のデバイス、アプリケーション、および設定を検索できます。
+4. レポートをダウンロードするには、次のようにクリックします。**レポートのダウンロード**します。 Intune for Education は、レポートをコンマ区切り値 (.csv) ファイルとしてコンピューターにダウンロードされます。 ビューとスプレッドシート アプリケーションでは、ファイルを変更できますよう[Excel](https://support.office.com/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)します。  
 
-   * **Windows Defender** -すべてのデバイスのデバイス正常性状態を Windows Defender のビューです。
-
-   その特定の種類のアプリに関する (web アプリ、デスクトップ アプリ、Microsoft のストア アプリ) のみの情報を表示するアプリの種類を選択することもできます。
-
-## <a name="download-reports"></a>レポートをダウンロードします。
-
-レポートの教育 Intune をダウンロードすることもできます。 [教育用の Intune](https://intuneeducation.portal.azure.com)コンソールで、ダウンロード中に関心があるレポートを検索します。 選択、**レポートをダウンロード**エクスポートし、表示およびなどのスプレッドシート アプリケーションに変更されたことができますをコンマ区切り値 (.csv) ファイルとしてレポートをダウンロードするにはボタン[Excel](https://support.office.com/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)です。
-
-## <a name="find-out-more"></a>詳細は以下のページをご覧ください
-
-- [Intune での完全なレポート作成エクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
-- [Microsoft Graph を使用するレポートについて詳しくを調べます](https://developer.microsoft.com/graph/docs/overview/overview)
+## <a name="next-steps"></a>次の手順  
+詳細について、 [Intune でのエクスペリエンスを完全なレポート](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)またはレポートについて[Microsoft Graph を使用して](https://developer.microsoft.com/graph/docs/overview/overview)します。

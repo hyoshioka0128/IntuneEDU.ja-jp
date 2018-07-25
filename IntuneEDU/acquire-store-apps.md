@@ -1,12 +1,12 @@
 ---
-title: 教育機関向け Microsoft ストアのアプリを取得する
+title: 教育機関向け Microsoft Store する方法
 titleSuffix: Intune for Education
-description: 教育向け Microsoft ストアからアプリを購入する方法を説明します。
+description: 教育機関向け Microsoft Store からアプリを購入する方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 02/23/2018
+manager: dougeby
+ms.date: 07/23/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,19 +14,24 @@ ms.technology: ''
 ms.assetid: e38a808b-bbfb-4cbc-835a-f99b1c85a048
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: b5adef3e48c50d75091f983ebe64b43e8edf3d76
-ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.openlocfilehash: 9436eba6296f693ef8e2fa82865931ac378e7ed0
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2018
-ms.locfileid: "30297327"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230223"
 ---
-# <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>教育向け Microsoft ストアからアプリを取得する方法
+# <a name="get-apps-from-the-microsoft-store-for-education"></a>教育機関向け Microsoft Store からアプリを入手します。
 
-教育向け Microsoft ストアから取得したアプリは教育向け Intune 上で利用可能です。 これによって、Windows 10 のデバイスで数十万のアプリにアクセスしやすくなります。
+表示および教育機関向け Microsoft Store から購入したアプリを配布します。 Intune for Education ポータルから、ストア アプリを管理することを確認します[Intune for Education のアカウントに関連付けておいた](https://docs.microsoft.com/en-us/education/get-started/configure-microsoft-store-for-education)ストア アカウントを使用します。  
 
-これらのアプリを取得するための手順については、[Microsoft ストア](https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps) のドキュメントを参照してください。
+設定している後については、Microsoft Store のドキュメントを参照してください。[ストア アプリの入手方法](https://docs.microsoft.com/en-us/microsoft-store/find-and-acquire-apps-overview)学校にします。
 
-## <a name="find-out-more"></a>詳細は以下のページをご覧ください
+そこから、Intune for Education のインベントリで、ストアから購入したすべてのアプリは自動的に表示されます。  
 
-- [ビジネス向け Microsoft ストアから購入したアプリを Microsoft Intune で管理する](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)
+## <a name="next-steps"></a>次の手順
+詳細について[ストア アプリを Intune の完全な管理エクスペリエンスを通じて取得](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)Intune のドキュメントを参照してください。  
+
+、準備ができたら[アプリに割り当てる](assign-apps.md)Intune for Education のユーザーとデバイスのグループにします。
+
+

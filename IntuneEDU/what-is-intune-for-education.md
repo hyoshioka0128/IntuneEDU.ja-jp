@@ -1,12 +1,12 @@
 ---
 title: 教育用の Intune とは
 titleSuffix: Intune for Education
-description: 教育と方法が簡単に Windows 10 デバイスの管理の教育機関を Intune について説明します。
+description: Intune についての教育と iOS デバイスと教育環境で Windows デバイスを管理する方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 01/17/2018
+manager: dougeby
+ms.date: 07/23/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,34 +14,72 @@ ms.technology: ''
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: d8eb0791d452c040360921edd635f175fcfcbc43
-ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.openlocfilehash: 1d7ab4f79042dc8a44ba4dbf9b4e3bc7f69907dd
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2018
-ms.locfileid: "30297627"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230087"
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 
-教育用 Microsoft Intune は、接続されている教室魅力的な新しいテクノロジによって学生学習の結果を向上させるために使用できるソフトウェアです。 管理コンソールの すべてのユーザーを可能にするように設計された web ポータル経由でアクセスできる — 専任の IT サポートに、professional、IT 管理者から教師を使用しようと IT 教室で — を分単位で実行されている Windows 10 デバイスのグループを取得します。 この機能を使用するには、学校の教室内のデバイスで実行する必要のある日常的な操作を実行する簡素化された管理ポータルを提供します。 これにより、自分のデバイスを使用する際に参考に off-track から受講者を維持できますあり、評価の学習器の進行状況を評価することができます。
+Microsoft Intune for Education は、学校向けのクラウド ベースのモバイル デバイス管理 (MDM) サービスです。 により、教師と生徒のクラスルームのデバイスで生産性を維持し、セキュリティで保護された学校のデータを保持します。 
 
-単独、または調和で教育用の Intune を使用できます、[デバイス、アプリ、およびユーザー管理エクスペリエンスが Intune で利用できる完全な](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)します。 また、[Microsoft Education](https://docs.microsoft.com/education/#pivot=itpro) のその他のツールと併用できます。Intune for Education を Microsoft の他の便利な教育ツールで簡単に利用できるようになります。 これらのツールは次のとおりです。
+教育用の Intune では、次のことができます。
+* クラスルーム データにアクセスするデスクトップおよびモバイル デバイスの受講者の使用を管理します。
+* 構成して、アプリを割り当てる、教室で受講者を使用します。
+* 学生と教員にアクセスする方法を制御と教室の情報を共有します。
+* 学校のセキュリティ要件をデバイスとアプリに適用されます。
+
+Intune for Education ポータルが単に設定のみを含めるように設計し、学校のデバイスの iOS および Windows を管理する必要があるワークフロー。 ポータルでは表示して、デバイス、ユーザー、およびアプリ インベントリに対してアクションを実行します。 Intune for Education には、教師が教室デバイスから直接、学生の進捗状況を評価することができるテスト アプリにとるもサポートしています。  
+
+## <a name="sign-up-for-intune-for-education"></a>Intune for Education をサインアップします。
+Intune for Education のアカウントにまだサインアップして場合、学習[開始方法](https://docs.microsoft.com/en-us/intune/account-sign-up)します。 記事では、システム管理者向けの学校用、Intune サブスクリプションにサインインする準備が整いました。 
+
+## <a name="manually-add-users-to-you-intune-subscription"></a>Intune サブスクリプションにユーザーを手動で追加します。
+必要な場合は、Microsoft School Data Sync (SDS) サービスを使用すると、学生と教職員のレコードをインポートしていない、 [Intune サブスクリプションにユーザーを手動で追加](https://docs.microsoft.com/en-us/intune/users-add)します。 学生と教員は、Azure portal または Office 365 ポータルを介して追加できます。 ユーザーのセットアップ時に、管理者のアクセス許可を付与するがもします。 
+
+## <a name="supported-os-and-browsers"></a>サポートされている OS とブラウザー
+完全な Intune 管理サービスには、多くのデバイスのオペレーティング システムがサポートしています。 自分のような学校設定教育機関向けの Intune の使用をお勧めします。 そのポータルの Windows 10 のサポート専用に設定し、iOS デバイスを学校します。  
+
+Intune でサポートされている web ブラウザーとオペレーティング システムの完全な一覧を表示するのを参照してください。[サポートされるオペレーティング システムとブラウザー](https://docs.microsoft.com/en-us/intune/supported-devices-browsers)で Microsoft Intune のドキュメント。  
+
+## <a name="configuring-your-intune-for-education-tenant"></a>Intune for Education のテナントを構成します。
+*テナント*Intune for Education の組織のインスタンスを表します。 テナント レベルの設定では、組織の Intune サブスクリプションに影響します。 Intune for Education では、両方を持つ**全般**設定と**iOS デバイス管理**テナント設定します。 
+
+### <a name="general-settings"></a>全般設定
+**全般**テナント設定のページ要求の学校の IT の連絡先とリソースの情報。 この情報の大部分は省略可能ですが、学生と教員の連絡先の IT ポイントを提供すると便利です。  全般設定の編集に関する詳細については、次を参照してください。[全般設定を編集](edu-tenant-general-settings.md)します。 
+
+### <a name="ios-device-management-settings"></a>iOS デバイス管理の設定  
+**iOS デバイス管理**については、Apple アカウントの設定を要求します。 これらの設定は、Intune で iOS デバイスを管理する組織の要件です。 IOS のデバイス管理を構成するまでは、表示または Intune for Education ポータルでの iOS に関連する設定を管理できません。
+
+デバイスの iOS デバイス管理の設定の設定に関する詳細については、次を参照してください。 [iOS デバイスの管理をセットアップ](setup-ios-device-management.md)します。
+
+のみ[delgated admins](group-admin-delegate.md) intune for Education を表示し、テナントの設定の変更は許可します。
+
+## <a name="does-intune-for-education-work-on-shared-devices"></a>Intune for Education は、共有デバイスで動作しますか。  
+Intune for Education では、共有デバイス、連携して、1 つのデバイスで複数のユーザーの管理をサポートします。 デバイスを共有した受講者は、別のアプリと設定の対象になるがあります。 受講者がデバイスにサインインするときにアプリケーションとそれらに割り当てられている設定のみ表示されます。  
+
+## <a name="compatible-resources-and-tools"></a>互換性のあるリソースとツール
+
+その他の Microsoft 管理ツールにアクセスできる必要があります。
+* Microsoft Intune、Azure portal で、[完全なデバイス、アプリ、およびユーザー管理エクスペリエンス](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
+* Microsoft Azure Active Directory (Azure AD) [id およびアクセス管理システム](https://docs.microsoft.com/azure/active-directory/active-directory-administer)
+* [Microsoft 学校データ同期](https://sds.microsoft.com)
+* [Office 365 for Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
+
+For Education と Intune を使用して[:microsoft 教育](https://docs.microsoft.com/education/#pivot=itpro)などのツールします。
 
 - [Office 365 for Education](https://support.office.com/article/Set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa)
-- [Windows 10 の教育](https://docs.microsoft.com/education/windows)
-- [Microsoft ストアの教育](https://docs.microsoft.com/microsoft-store/index?toc=/microsoft-store/education/toc.json)
+- [教育機関向け Windows 10](https://docs.microsoft.com/education/windows)
+- [教育機関向け Microsoft Store](https://docs.microsoft.com/microsoft-store/index?toc=/microsoft-store/education/toc.json)
 - [Minecraft: Education のエディション](https://docs.microsoft.com/education/windows/school-get-minecraft)
 
 > [!VIDEO https://www.youtube.com/embed/ukrnCwcLvV8]
 
-教育用の Intune 緊密な連携[Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/active-directory-administer)、 [Microsoft 学校のデータ同期](https://sds.microsoft.com)、および[Office 365 for Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)デバイス管理を簡略化します。 教育用の Intune、Azure AD に自動的に追加、管理ツールとして取得してこのプロセスを簡略化され、テナントが Microsoft ストア。
+## <a name="get-started-with-intune-for-education"></a>Intune for Education を概要します。
+Microsoft 学校データ同期の生徒レコードをインポートします。学校の Pc のアプリの設定で学校の Windows デバイスを構成またはへのサインイン[Intune for Education](https://intuneeducation.portal.azure.com) iOS デバイスの Apple の管理をセットアップします。
 
-## <a name="will-intune-for-education-work-for-shared-devices"></a>教育用の Intune は、共有デバイスの機能ですか。
-教育用の Intune は、1 台のデバイスで複数のユーザーを管理することによって、共有デバイスに対して機能します。 デバイスを共有しているユーザーが異なるアプリと設定の対象になる場合、アプリケーションとそれらの設定の設定のみがサインインしたユーザーが表示されます。
+[ダッシュ ボード](how-do-i-customize-my-dashboard.md)、起動[高速構成](Express-configuration-intune-edu.md)します。 ユーザーまたはデバイス グループを選択します (学生など教師、または_2 階のコンピューター ラボ_) と、アプリと設定の割り当てを開始します。
 
-## <a name="get-started-with-intune-for-education"></a>教育用の Intune を概要します。
-教育用の Intune の概要を開く、[教育コンソール用の Intune](https://intuneeducation.portal.azure.com)学校の資格情報を使用しサインインします。 開始する、[ダッシュ ボード](how-do-i-customize-my-dashboard.md)教育用の Intune の使用のランディング ページ。
-
-![教育用の Intune にログインして 1 回のランディング ページのスクリーン ショット。](./media/dashboard-001-landing-page.png)
-
-サインインした後で始まる[Express 構成](what-is-express-configuration.md)です。 受講者または教師) などのユーザーまたはデバイスを含むグループを選択あります (など_2 階コンピューター ラボ_または_11 グレード AP コンピューター サイエンスの世界_) にそれらのアプリと設定の割り当てを開始します。
+![Intune for Education にログインして 1 回のランディング ページのスクリーン ショット。](./media/dashboard-001-landing-page.png)

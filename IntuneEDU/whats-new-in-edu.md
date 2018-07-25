@@ -1,12 +1,12 @@
 ---
 title: 新機能
 titleSuffix: Intune for Education
-description: 教育用の Intune に最近リリースされたかを調べます。
+description: Intune for Education で最近リリースされたことを確認します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 05/08/2018
+ms.date: 07/23/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,76 +15,89 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 3f120cb31d4943657742e2fc21ee14f60e620311
-ms.sourcegitcommit: c74cfd0623c54ed6e2cdea13a3789e467b14e870
+ms.openlocfilehash: 4d488530b1599bb4eff39e922323b980125b34e1
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/09/2018
-ms.locfileid: "33920048"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230121"
 ---
-# <a name="whats-new-in-intune-for-education"></a>教育用の Intune の新機能
-教育用の Intune の新機能について説明します。 今後の変更を計画する、製品の通知、および以前のリリースからの機能について確認します。
+# <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
+Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
 
-## <a name="january-2018"></a>年 1 月 2018
+## <a name="july-2018"></a>2018 年 7 月 
 
-### <a name="history-of-group-actions-taken-by-admins"></a>管理者が行うアクションをグループ化の履歴
+### <a name="all-new-support-for-ios-classroom-devices"></a>クラスルームの iOS デバイス向けのすべての新しいサポート  
 
-グループ管理者、アプリ、および、承認されたグループの設定を変更する管理者によって実行されたすべてのアクションの履歴が表示されます。 この履歴内のログを検索する**グループ** > **履歴**です。
+Intune for Education に今すぐでは、教室での iOS デバイス管理をサポートしています。 Intune for Education の関係者全員のセットアップと管理プロセスを簡単にする新機能とページが追加されました。 ダッシュ ボードで、すべてが正常にセットアップ、構成、およびデバイスを登録する必要がある必要があります。  
+
+* IOS デバイス管理のセットアップ: を含む新しいページが追加されました[ステップ バイ ステップ ガイダンス](setup-ios-device-management.md)Apple アカウントを Intune for Education にすばやく接続するためです。 画面に表示されるインジケーターは、必須および省略可能な手順、正常に完了したものと有効期限が近づいているものを明確に確認できます。
+* 高速構成: が、iOS デバイスに合わせて、Windows 10 エクスペリエンスと同様に[iOS 用の高速構成](express-configuration-intune-edu.md)迅速に割り当てるし、アプリと設定を変更するのに役立ちます。 単にユーザーまたはデバイスのグループを選択し、Microsoft の推奨設定から選択します。 これら[の推奨事項があらかじめ選択](edu-express-config-settings-ios.md)、ですが、学校のポリシーに一致するように、いつでも変更できます。  
+* アプリと設定: 個別のアプリとデバイスの設定のビューには、追加したいずれかに注目する[iOS](all-edu-settings-ios.md)または[Windows 10](all-edu-settings-windows.md)デバイスの管理。 使用すると追加[Apple VPP サポート](add-vpp-apps-ios.md)、Intune for Education で購入した VPP アプリを同期し、ダッシュ ボードから直接割り当てることができます。 
+* 動的なグループ化: に特定のデバイス プラットフォームの規則を適用することができますので、[動的なグループ](create-groups.md#dynamic-groups)します。 デバイスまたは Windows 10 での受講者に適用するルールを作成*または*iOS デバイス。  
+
+詳細を取得し、新しいページとワークフロー内を移動する方法について説明します、 [Intune for Education](what-is-intune-for-education.md)ドキュメント。   
+
+## <a name="january-2018"></a>2018 年 1 月
+
+### <a name="history-of-group-actions-taken-by-admins"></a>管理者によって行われたグループ アクションの履歴
+
+これで、グループの管理者、アプリケーション、および、承認されたグループの設定を変更する管理者によって実行されたすべてのアクションの履歴を表示できます。 この履歴でのログを検索する**グループ** > **履歴**します。
 
 ### <a name="windows-defender-report"></a>Windows Defender レポート
 
-新しいレポートが追加されました。 [レポート] ページを選択できます**Windows Defender レポート**レポートの一覧からです。 これにより、すべてのデバイスの Windows Defender デバイスの正常性状態を表示できます。 この外観を参照してください、[レポートとは?](what-are-reports.md)ドキュメント。
+新しいレポートが追加されました。 [レポート] ページを選択できます**Windows Defender レポート**レポートの一覧から。 これにより、すべてのデバイスの Windows Defender デバイス正常性の状態を表示できます。 これでどのように確認できます、[レポートとは?](what-are-reports.md)ドキュメント。
 
-### <a name="use-role-based-access-control-to-enable-group-admins"></a>ロール ベース アクセス制御を使用してグループ管理者を有効にするには
+### <a name="use-role-based-access-control-to-enable-group-admins"></a>ロール ベース access control を使用して、グループの管理者を有効にするには
 
-別のグループの設定を管理する人のユーザーのグループを選択できます。 たとえば、という名前のグループを持つことが*高校 Admins*では、メンバーは、チームの担当地域の高校の管理者のです。 *高校 Admins*高校生のグループの設定を管理するアクセス許可グループを指定することができます。 詳細については、検索、[グループとは? doc](what-are-groups.md)です。
+ここでの他のグループの設定を管理するユーザー グループを選択できます。 たとえば、という名前のグループがある*高校管理者*メンバーが、チームの担当地域の高校の管理者は、します。 *高校 Admins*高校生のグループの設定を管理するアクセス許可グループを指定する可能性があります。 参照してください、[グループとは? doc](what-are-groups.md)します。
 
 ### <a name="user-and-device-search"></a>ユーザーとデバイスの検索
 
-サイド バーに 2 つのオプションが追加されました:**ユーザー**と**デバイス**です。 これらを使用して、個々 のユーザーまたはデバイスを検索し、すばやく開くことができます、**詳細**これらの項目。 サイド バーにこれらの検索を追加することができます**すべてを参照してください** > **スター ボタン (お気に入り)** お気に入りの一覧に追加します。
+サイド バーに 2 つの新しいオプションが追加されました:**ユーザー**と**デバイス**します。 これらを使用して、個々 のユーザーまたはデバイスを検索し、すばやく開くことができます、**詳細**これらの項目。 これらの検索を追加するには、サイド バーに**すべてを参照してください** > **星ボタン (お気に入り)** お気に入りの一覧に追加します。
 
 ### <a name="remote-actions"></a>リモート操作
 
-ユーザーとデバイスのリモート操作が実行できます。 アクションを実行し、[詳細] ページから次の操作の 1 つ選択するデバイスを選択します。
+これで、ユーザーとデバイス上のリモート操作を実行できます。 アクションを実行し、詳細ページから、次の操作のいずれかを選択するデバイスを選択します。
 
 #### <a name="devices"></a>[デバイス]
 
 - 再起動
 - 工場出荷時設定にリセットします。
 - 同期
-- 管理対象から除外します。
+- 管理対象から削除します。
 
 #### <a name="users"></a>Users
 
 - パスワードの再設定
 
-について詳しく調べます[リモート操作](remote-actions.md)です。
+詳細について[リモート操作](edu-device-remote-actions.md)します。
 
 ### <a name="wi-fi-profiles"></a>Wi-Fi プロファイル
 
-サイドバーに新しいオプションが追加されました**Wi-fi プロファイル**です。 これにより、さまざまなデバイス、ユーザー、およびグループに割り当てることができる、Wi-fi 設定を定義できます。
+サイドバーに新しいオプションを追加しました**Wi-fi プロファイル**します。 これにより、さまざまなデバイス、ユーザー、およびグループに割り当てることができる Wi-fi 設定を定義できます。
 
 ## <a name="october-2017"></a>2017 年 10 月
 
 ### <a name="dynamic-groups"></a>動的なグループ
 
-規則を定義し、それに基づいて自動的に設定するグループを作成します。
+ルールを定義して、自動的に設定し、これに基づいてグループを作成します。
 
-### <a name="new-app-status"></a>新しいアプリケーションの状態
+### <a name="new-app-status"></a>新しいアプリの状態
 
-デバイス数が表示されます、アプリを追加するときにされ、アプリのユーザーごとの状態がインストールされます。
+アプリを追加するときに、デバイスごとにわかりますようになりましたされ、アプリのユーザーごとの状態がインストールされます。
 
 ### <a name="updated-details-pages"></a>更新の詳細 ページ
 
-グループのいずれかで、ユーザーまたはデバイスを選択します。 ウィンドウをができるように、そのオブジェクトに関する情報を表示する画面の下部とのアプリと設定を設定した状態からスライド アップようになりました。
+グループのいずれかで、ユーザーまたはデバイスを選択します。 ペインには詳細、そのオブジェクトを取得することができます、画面下部とのアプリと設定を設定した状態からをスライドようになりました。
 
-## <a name="may-2017-initial-release"></a>2017 年 1 月 (最初のリリース)
+## <a name="may-2017-initial-release"></a>2017 年 5 月 (初期リリース)
 
-### <a name="intune-for-education-is-now-available"></a>教育用の Intune では、使用可能なようになりました!
+### <a name="intune-for-education-is-now-available"></a>教育機関向けの Intune では、使用できるようになりました。
 
-教育ポータルの Intune を導入したことです。 教育用の Intune は、学校や教育機関を Windows 10 デバイスの管理の簡素化されたエクスペリエンスです。 これらのドキュメントの教育用の Intune の詳細を確認します。
+Intune for Education ポータルが開始します。 Intune for Education は、学校および教育機関 Windows 10 デバイスを管理する効率的なエクスペリエンスです。 これらのドキュメントの Intune for Education の詳細を確認します。
 
-## <a name="find-out-more"></a>詳細は以下のページをご覧ください
+## <a name="next-steps"></a>次の手順
 
-- [教育用の Intune について詳しくを調べます](what-is-intune-for-education.md)
-- [Intune でデバイスのフル管理エクスペリエンスについて詳しくを調べます](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
+- [Intune for Education の詳細をについてください。](what-is-intune-for-education.md)
+- [Intune を使用したフル デバイス管理エクスペリエンスの詳細をについてください。](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)

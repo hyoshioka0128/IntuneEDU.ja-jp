@@ -1,12 +1,11 @@
 ---
 title: 設定の継承とは何ですか。
 titleSuffix: Intune for Education
-description: 教育用の Intune でデバイスのグループの設定を管理する方法を説明します。
+description: Intune for Education を使用してデバイスのグループの設定を管理する方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 01/17/2018
+manager: dougeby
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,31 +13,40 @@ ms.technology: ''
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: bcb11500f316ac7f96c6c35bc372db59803f2dcd
-ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.openlocfilehash: abd06263e86c0e5af55df564b985df52dce55f84
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2018
-ms.locfileid: "30296926"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230036"
 ---
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 
-設定は、グループに適用されます。 としてグループが設定されているために、上のグループに適用される、別の任意の設定の 1 つのグループの階層は、すべてのサブグループに継承されます。 これにより、ユーザー、アプリ、およびデバイスの大規模なグループに設定を適用しやすくします。
+設定は、グループに適用されます。 グループが、上記の 1 つのグループの階層として設定するため、グループに適用されるすべての設定は、サブグループによって継承されます。 サブグループは、すぐ上のグループに加えた変更は、自動的にことができます。 このアクションの呼び出し_継承_します。 設定の継承 ia に多数のユーザーとデバイスの設定を適用する場合に便利です。  
 
-  ![グループとサブグループのツリーです。](./media/groups-002-inheritance.png)
 
-これは、すべてのグループの下にあるサブグループで、サブグループが自動的に継承するすぐ上のグループに加えた変更はどのようなことを意味します。 これと呼ばれる_継承_です。
+  ![グループとサブグループのツリー。](./media/groups-002-inheritance.png)  
 
-## <a name="can-i-configure-subgroups-differently-after-inheriting-settings-from-another-group"></a>できます構成サブグループが異なる別のグループから設定を継承した後にか。
 
-サブグループは、上位グループから設定を継承する場合でも、個別に構成できます。 継承された設定をオーバーライドするには、単に、必要な設定を構成し、それらを保存します。
+## <a name="configure-subgroups-individually"></a>サブグループを個別に構成します。  
 
-## <a name="can-i-ever-end-up-with-settings-that-do-not-work-together"></a>これまでになる可能性が一緒に機能していない設定しますか。
+最近の継承された設定を無効にするには、サブグループに直接移動します。 個別にして構成を削除するか、設定を追加します。 変更を保存します。
 
-同じグループに複数の設定が適用されたら、各設定は教育用の Intune で個別に分析されます。 ユーザーがデバイスの設定に準拠させる操作を強制的に特定の設定は常に優先他の設定。
+## <a name="settings-in-conflict"></a>競合の設定  
 
-、サブグループを検討してください*12 番目グレード AP コンピューター サイエンスの世界*、グループに*12 番目のグレード*です。 AP コンピューター科学クラスはセキュリティ スキャン、必要としない一部の JavaScript ファイルをダウンロードする必要がありますが、全体のレベルが同じ操作を実行しないようにすることがわかります。 設定の継承より制限の厳しいをオーバーライドしていない場合*12 番目のグレード*設定がユーザーに適用されます*12 番目グレード AP コンピューター サイエンスの世界*です。
+場合は、同じグループに競合する設定を適用すると、Intune はそれぞれを個別に分析します。 Intune は、常に、学校のポリシーに準拠している設定を選択します。
 
-## <a name="find-out-more"></a>詳細は以下のページをご覧ください
+その他の場合は、Intune は、競合を解決できない場合に確認してください、[設定が競合](what-are-reports.md)レポートします。
 
-  - [Intune でれたエクスペリエンスの詳細については、すべてのグループを見つける](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
+### <a name="example-of-inheritance-conflict"></a>継承の競合の例  
+
+例として、サブグループを検討してください。 *12 グレード AP コンピューター サイエンス*します。 親グループ、サブグループが分類*12 グレード*します。 すべてのファイルに要件をスキャンする厳密なセキュリティを割り当てるし、アプリ内のデバイスがダウンロードされました、 *12 グレード*グループ。
+
+ただし、あるとわかっている割り当て、今後の*12 グレード AP コンピューター サイエンス*スキャンする必要がない JavaScript ファイルをダウンロードする必要があります。 設定の継承より制限の厳しいを上書きしない場合*12 番目のグレード*設定がユーザーに適用されます*12 グレード AP コンピューター サイエンス*します。
+
+## <a name="settings-error-report"></a>設定エラー レポート
+
+設定を解決できない場合は、設定のエラー レポートに表示されます。 レポートの詳細については、次を参照してください。[レポートの表示とダウンロード](what-are-reports.md)します。  
+
+## <a name="next-steps"></a>次の手順  
+詳細について、[すべてのグループが Intune で経験](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)します。

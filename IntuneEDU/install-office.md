@@ -1,12 +1,12 @@
 ---
 title: Windows 10 デバイス用の Microsoft Office を管理します。
 titleSuffix: Intune for Education
-description: Windows 10 デバイスで Microsoft Office をインストールする方法を説明します。
+description: Windows 10 デバイスに Microsoft Office をインストールする方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
-manager: angrobe
-ms.date: 10/06/2017
+manager: dougeby
+ms.date: 07/23/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,26 +14,24 @@ ms.technology: ''
 ms.assetid: 1673246c-4e05-4d50-9ac9-3cffaa5b7a63
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: beb77075f01a28f5d3f429ae28988c753426d551
-ms.sourcegitcommit: 77b833e0bc82105f1f0d5a0559b0da165453cc4a
+ms.openlocfilehash: 2cbbeb9d367b94722a9146a995f53e786b4debb5
+ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2018
-ms.locfileid: "30296960"
+ms.lasthandoff: 07/24/2018
+ms.locfileid: "39230138"
 ---
-# <a name="how-do-i-manage-microsoft-office-on-my-windows-10-devices"></a>自分の Windows 10 デバイス上の Microsoft Office の管理方法
+# <a name="add-microsoft-office-to-windows-10-devices"></a>Windows 10 デバイスに Microsoft Office を追加します。
 
-教育用の Intune を使用すると、割り当てることにより、 [web アプリ](how-to-add-apps.md#add-web-apps)または[デスクトップ バージョン](how-to-add-apps.md#add-desktop-apps)の Microsoft Office アプリ。
+Microsoft Office を割り当てる[web アプリ](add-web-apps-edu.md)または[デスクトップ アプリ](add-desktop-apps-edu.md)教育機関向けの Intune で Windows 10 デバイスにします。    
+## <a name="select-during-express-configuration"></a>高速構成中に選択します
+中に[高速構成](Express-configuration-intune-edu.md)、すべての Office デスクトップ アプリは「Office 365」と呼ばれる 1 つのアプリで使用できます。 選択すると、受講者を割り当てるデスクトップ バージョンの Word、Excel、PowerPoint、OneNote、および Skype for Business。  
 
-中に[Express 構成](what-is-express-configuration.md)、Office デスクトップ アプリは常に"Office 365"と呼ばれる 1 つのアプリとして表示されます。 を選択する場合は、ユーザーに、Word、Excel、PowerPoint、OneNote、または Skype for Business のデスクトップ バージョンを割り当てられます。
+## <a name="office-for-windows-10-s"></a>Windows 10 S 用 office
 
-これを使用して[実行するためのクリック](https://technet.microsoft.com/library/jj219427.aspx)、ストリーミング、デバイスに Office をインストールするために必要な時間を短縮テクノロジ Microsoft です。 
+Windows 10 S のデバイスでの受講者など、 [Surface Laptop](https://www.microsoft.com/surface/devices/surface-laptop/overview)、ユニバーサル Office アプリのバージョンを受信します。 これらのバージョンでは、Windows 10、Office アプリと異なるし、教育機関向け Microsoft Store から購入可能な。 
 
-## <a name="what-about-windows-10s"></a>Windows 10 件について説明します。 
+## <a name="next-steps"></a>次の手順
 
-同様に、Windows 10 件のデバイスを使っている場合、ユーザーを取得する Office のバージョンに違いがある[Surface Laptop](https://www.microsoft.com/surface/devices/surface-laptop/overview)です。 Windows 10 件のデバイスは、Office アプリ - 教育用 Microsoft ストアで利用できるもののバージョンのユニバーサルきます。 
-
-## <a name="find-out-more"></a>詳細は以下のページをご覧ください
-
-- [Office 365 Education の概要について詳しくを調べます](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
-- [ユニバーサル Windows アプリについて詳しくを調べます](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp)
+- [Office 365 Education の概要の詳細をについてください。](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
+- [ユニバーサル Windows アプリの詳細をについてください。](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp)
