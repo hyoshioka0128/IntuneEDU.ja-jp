@@ -15,12 +15,12 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 4d488530b1599bb4eff39e922323b980125b34e1
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: 63f3f9d09259689b20b39a1fec7b97523ebd65a7
+ms.sourcegitcommit: b70157c8c2c920ece03965f925857b56e6d38868
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230121"
+ms.lasthandoff: 07/25/2018
+ms.locfileid: "39250582"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
@@ -29,7 +29,7 @@ Intune for Education の新機能新機能について説明します。 今後�
 
 ### <a name="all-new-support-for-ios-classroom-devices"></a>クラスルームの iOS デバイス向けのすべての新しいサポート  
 
-Intune for Education に今すぐでは、教室での iOS デバイス管理をサポートしています。 Intune for Education の関係者全員のセットアップと管理プロセスを簡単にする新機能とページが追加されました。 ダッシュ ボードで、すべてが正常にセットアップ、構成、およびデバイスを登録する必要がある必要があります。  
+Intune for Education に今すぐには、教室での iOS デバイスの管理がサポートしています。 Intune for Education の関係者全員のセットアップと管理プロセスを簡単にする新機能とページが追加されました。 ダッシュ ボードで、すべてが正常にセットアップ、構成、およびデバイスを登録する必要がある必要があります。  
 
 * IOS デバイス管理のセットアップ: を含む新しいページが追加されました[ステップ バイ ステップ ガイダンス](setup-ios-device-management.md)Apple アカウントを Intune for Education にすばやく接続するためです。 画面に表示されるインジケーターは、必須および省略可能な手順、正常に完了したものと有効期限が近づいているものを明確に確認できます。
 * 高速構成: が、iOS デバイスに合わせて、Windows 10 エクスペリエンスと同様に[iOS 用の高速構成](express-configuration-intune-edu.md)迅速に割り当てるし、アプリと設定を変更するのに役立ちます。 単にユーザーまたはデバイスのグループを選択し、Microsoft の推奨設定から選択します。 これら[の推奨事項があらかじめ選択](edu-express-config-settings-ios.md)、ですが、学校のポリシーに一致するように、いつでも変更できます。  
