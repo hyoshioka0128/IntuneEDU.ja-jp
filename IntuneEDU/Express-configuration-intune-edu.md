@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: caa78575bb3526116a000781d879e80ceddf0017
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: eb3b697973d37d5b4697559b3ba87b64ba9afdb3
+ms.sourcegitcommit: 42d2f9a2af38c7db9303aed882e5ced4fd930f7d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234366"
+ms.lasthandoff: 08/01/2018
+ms.locfileid: "39410783"
 ---
 # <a name="express-configuration-in-intune-for-education"></a>Intune for Education で高速構成
 
@@ -45,11 +45,14 @@ ms.locfileid: "39234366"
 ## <a name="choose-a-group-to-configure"></a>構成するグループを選択します。
 
 一部のグループが作成され、Intune for Education のサブスクリプションに含まれています。 Intune for Education は、学校のレコードから詳細グループを設定します。 これらのグループは次のとおりです。  
-    * すべてのデバイス  
-    * すべてのユーザー  
-学校データ Sync(SDS) を使用して、学校のレコードをインポートする場合も表示されます。      
-    * すべての教師
-    * すべての学生 
+
+ * すべてのデバイス  
+ * すべてのユーザー  
+ 
+School Data Sync (SDS) を使用して、学校のレコードをインポートする場合も表示されます。  
+
+ * すべての教師  
+ * すべての学生  
 
 Intune for Education では、始めることをお勧め、**すべてのユーザー**グループ。 すべてのユーザーに必要な設定を割り当てます。 たとえば、パスワードの要件と制限事項のポップアップは可能性があります、同じすべてのユーザーです。
 
