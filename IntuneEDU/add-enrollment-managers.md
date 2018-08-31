@@ -1,12 +1,12 @@
 ---
 title: 登録マネージャーを追加します。
 titleSuffix: Intune for Education
-description: リア intune for Education 登録マネージャーを追加する方法。
+description: Intune for Education 登録マネージャーを追加する方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 08/30/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,18 +14,18 @@ ms.technology: ''
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: cf3a0041edfb4149dbca4ca63770069673d920ea
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: 26b9a9c6eaabe85dbe77acd9a52f7b86b8a99d4d
+ms.sourcegitcommit: 601970b9184231765c9b51dc8a69b68cdf60634e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234334"
+ms.lasthandoff: 08/30/2018
+ms.locfileid: "43312526"
 ---
 # <a name="add-enrollment-managers"></a>登録マネージャーを追加します。  
 
 既存のユーザーにデバイス登録のアクセス許可を付与します。 デバイス登録マネージャー アカウントを持つユーザーは、intune for Education の最大 1000 台の Windows 10 デバイスを登録できます。
 
- 登録マネージャー アカウントは、共有の Windows 10 デバイスを登録するのには、何千ものある大規模な組織で役立ちます。 
+ 登録マネージャー アカウントは、共有の Windows 10 デバイスを登録するのには、何千ものある大規模な組織で役立ちます。  
 
 ## <a name="requirements"></a>要件  
 
