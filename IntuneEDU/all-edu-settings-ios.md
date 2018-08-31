@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 08/28/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 259788207859352366db2872da3609577ecda413
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: 8d070234e72169a08e7aa93bbf5caf18d88f0276
+ms.sourcegitcommit: d92919d644fc62ff92fa6e9b01e633e507411867
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234461"
+ms.lasthandoff: 08/29/2018
+ms.locfileid: "43179592"
 ---
 # <a name="ios-device-settings-in-intune-for-education"></a>Intune for Education で iOS デバイスの設定  
 
