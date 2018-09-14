@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 6c87128a9d0e5b37993c8278ad2c9b1ee9044ddf
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: a7bdfbca36a615ad486bb4859981990c466875fb
+ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234430"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "45534246"
 ---
 # <a name="setup-ios-device-management"></a>IOS デバイスの管理をセットアップします。 
 
@@ -85,7 +85,7 @@ MDM サーバー トークンは期限 365 日です。 表示し、Intune for E
 ### <a name="device-enrollment-profile"></a>デバイス登録プロファイル
 Intune for Education では、作成し、iOS 登録プロファイルを構成する各 MDM サーバー トークンに適用されます。
 
-Intune for Education に追加されたすべての iOS デバイスは、監視モードに設定されます。 管理者は、監視対象モード、学校のデバイスの詳細に制御できます。 たとえば、プッシュできます新しいアプリまたはアプリの更新プログラム サイレント モードでのデバイスに。 監視モードのみの設定の完全な一覧は、情報の記事を参照してください。[監督が必要とする構成](https://docs.microsoft.com/en-us/intune/device-restrictions-ios#configurations-requiring-supervision)します。  
+Intune for Education に追加されたすべての iOS デバイスは、監視モードに設定されます。 管理者は、監視対象モード、学校のデバイスの詳細に制御できます。 たとえば、プッシュできます新しいアプリまたはアプリの更新プログラム サイレント モードでのデバイスに。 監視モードのみの設定の完全な一覧は、情報の記事を参照してください。[監督が必要とする構成](https://docs.microsoft.com/intune/device-restrictions-ios#configurations-requiring-supervision)します。  
 
 登録プロファイルの詳細については、表示、[構成設定の一覧](add-devices-ios-edu.md#list-of-preconfigured-settings)登録時にします。
 

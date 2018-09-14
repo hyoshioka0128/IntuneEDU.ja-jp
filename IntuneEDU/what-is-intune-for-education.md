@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 1d7ab4f79042dc8a44ba4dbf9b4e3bc7f69907dd
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: c15c1cbfc444c1c620cac920df531b5d771816ed
+ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230087"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "45534229"
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 
@@ -34,15 +34,15 @@ Microsoft Intune for Education は、学校向けのクラウド ベースのモ
 Intune for Education ポータルが単に設定のみを含めるように設計し、学校のデバイスの iOS および Windows を管理する必要があるワークフロー。 ポータルでは表示して、デバイス、ユーザー、およびアプリ インベントリに対してアクションを実行します。 Intune for Education には、教師が教室デバイスから直接、学生の進捗状況を評価することができるテスト アプリにとるもサポートしています。  
 
 ## <a name="sign-up-for-intune-for-education"></a>Intune for Education をサインアップします。
-Intune for Education のアカウントにまだサインアップして場合、学習[開始方法](https://docs.microsoft.com/en-us/intune/account-sign-up)します。 記事では、システム管理者向けの学校用、Intune サブスクリプションにサインインする準備が整いました。 
+Intune for Education のアカウントにまだサインアップして場合、学習[開始方法](https://docs.microsoft.com/intune/account-sign-up)します。 記事では、システム管理者向けの学校用、Intune サブスクリプションにサインインする準備が整いました。 
 
 ## <a name="manually-add-users-to-you-intune-subscription"></a>Intune サブスクリプションにユーザーを手動で追加します。
-必要な場合は、Microsoft School Data Sync (SDS) サービスを使用すると、学生と教職員のレコードをインポートしていない、 [Intune サブスクリプションにユーザーを手動で追加](https://docs.microsoft.com/en-us/intune/users-add)します。 学生と教員は、Azure portal または Office 365 ポータルを介して追加できます。 ユーザーのセットアップ時に、管理者のアクセス許可を付与するがもします。 
+必要な場合は、Microsoft School Data Sync (SDS) サービスを使用すると、学生と教職員のレコードをインポートしていない、 [Intune サブスクリプションにユーザーを手動で追加](https://docs.microsoft.com/intune/users-add)します。 学生と教員は、Azure portal または Office 365 ポータルを介して追加できます。 ユーザーのセットアップ時に、管理者のアクセス許可を付与するがもします。 
 
 ## <a name="supported-os-and-browsers"></a>サポートされている OS とブラウザー
 完全な Intune 管理サービスには、多くのデバイスのオペレーティング システムがサポートしています。 自分のような学校設定教育機関向けの Intune の使用をお勧めします。 そのポータルの Windows 10 のサポート専用に設定し、iOS デバイスを学校します。  
 
-Intune でサポートされている web ブラウザーとオペレーティング システムの完全な一覧を表示するのを参照してください。[サポートされるオペレーティング システムとブラウザー](https://docs.microsoft.com/en-us/intune/supported-devices-browsers)で Microsoft Intune のドキュメント。  
+Intune でサポートされている web ブラウザーとオペレーティング システムの完全な一覧を表示するのを参照してください。[サポートされるオペレーティング システムとブラウザー](https://docs.microsoft.com/intune/supported-devices-browsers)で Microsoft Intune のドキュメント。  
 
 ## <a name="configuring-your-intune-for-education-tenant"></a>Intune for Education のテナントを構成します。
 *テナント*Intune for Education の組織のインスタンスを表します。 テナント レベルの設定では、組織の Intune サブスクリプションに影響します。 Intune for Education では、両方を持つ**全般**設定と**iOS デバイス管理**テナント設定します。 

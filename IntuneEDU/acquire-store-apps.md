@@ -14,18 +14,18 @@ ms.technology: ''
 ms.assetid: e38a808b-bbfb-4cbc-835a-f99b1c85a048
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 9436eba6296f693ef8e2fa82865931ac378e7ed0
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: d4de9ec965b4ab227dfd49f081d71a514853394d
+ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230223"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "45534195"
 ---
 # <a name="get-apps-from-the-microsoft-store-for-education"></a>教育機関向け Microsoft Store からアプリを入手します。
 
-表示および教育機関向け Microsoft Store から購入したアプリを配布します。 Intune for Education ポータルから、ストア アプリを管理することを確認します[Intune for Education のアカウントに関連付けておいた](https://docs.microsoft.com/en-us/education/get-started/configure-microsoft-store-for-education)ストア アカウントを使用します。  
+表示および教育機関向け Microsoft Store から購入したアプリを配布します。 Intune for Education ポータルから、ストア アプリを管理することを確認します[Intune for Education のアカウントに関連付けておいた](https://docs.microsoft.com/education/get-started/configure-microsoft-store-for-education)ストア アカウントを使用します。  
 
-設定している後については、Microsoft Store のドキュメントを参照してください。[ストア アプリの入手方法](https://docs.microsoft.com/en-us/microsoft-store/find-and-acquire-apps-overview)学校にします。
+設定している後については、Microsoft Store のドキュメントを参照してください。[ストア アプリの入手方法](https://docs.microsoft.com/microsoft-store/find-and-acquire-apps-overview)学校にします。
 
 そこから、Intune for Education のインベントリで、ストアから購入したすべてのアプリは自動的に表示されます。  
 
