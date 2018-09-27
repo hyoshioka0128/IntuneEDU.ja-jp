@@ -6,6 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
+ms.date: 09/26/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,12 +14,12 @@ ms.technology: ''
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: abd06263e86c0e5af55df564b985df52dce55f84
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: 5a981fb8916dc0318cc1599002ebe9001f1ef41b
+ms.sourcegitcommit: f2b41a6a72016fbf36924881a312ec194ef5c0d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230036"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "47237529"
 ---
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 
@@ -34,7 +35,7 @@ ms.locfileid: "39230036"
 
 ## <a name="settings-in-conflict"></a>競合の設定  
 
-場合は、同じグループに競合する設定を適用すると、Intune はそれぞれを個別に分析します。 Intune は、常に、学校のポリシーに準拠している設定を選択します。
+場合は、同じグループに競合する設定を適用すると、Intune はそれぞれを個別に分析します。 Intune は、常に確信を持っての 学校のポリシーに準拠する設定を選択します。
 
 その他の場合は、Intune は、競合を解決できない場合に確認してください、[設定が競合](what-are-reports.md)レポートします。
 
