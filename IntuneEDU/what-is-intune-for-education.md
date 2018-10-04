@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 10/03/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: c15c1cbfc444c1c620cac920df531b5d771816ed
-ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
+ms.openlocfilehash: 34a7eb99d8d4e7a91d538ace2a7903ce491493c3
+ms.sourcegitcommit: 4107839cb15f8390478174b67b4f6a8b93d236c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "45534229"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "48250530"
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 
@@ -68,7 +68,7 @@ Intune for Education では、共有デバイス、連携して、1 つのデバ
 * [Microsoft 学校データ同期](https://sds.microsoft.com)
 * [Office 365 for Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
 
-For Education と Intune を使用して[:microsoft 教育](https://docs.microsoft.com/education/#pivot=itpro)などのツールします。
+For Education と Intune を使用して[Microsoft Education](https://docs.microsoft.com/education/#pivot=itpro)などのツールします。
 
 - [Office 365 for Education](https://support.office.com/article/Set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa)
 - [教育機関向け Windows 10](https://docs.microsoft.com/education/windows)
