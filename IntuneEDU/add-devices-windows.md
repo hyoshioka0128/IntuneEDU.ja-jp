@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 10/24/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,21 +14,22 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: ca0d1b9e4abcdde3cf6bf697ca57d665bd74dd56
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: 4f687e4833a9ba98bdea15a915aa96c5840796cd
+ms.sourcegitcommit: 30c3fc997170745070794e9fbb6725a29c9e502b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234673"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "50088973"
 ---
 # <a name="add-windows-devices"></a>Windows デバイスを追加します。
 
 情報を含む Intune for Education を設定した後: 生徒の記録、アプリ、およびデバイスの設定など、Intune for Education にデバイスを接続します。 新しい Windows 10 デバイスの場合は、デバイスの初期セットアップ中に接続が確立されています。
 
+## <a name="setting-up-devices-with-windows-autopilot"></a>Windows Autopilot のデバイスのセットアップ
+[Windows Autopilot](https://docs.microsoft.com/intune/enrollment-autopilot) for Azure portal で Intune に設定するには、教育機関が Intune との互換性です。 Autopilot を使用してデバイスをセットアップするには[Intune](https://portal.azure.com) > デバイスの登録 > Windows 登録 > デバイス。  
+
 ## <a name="before-you-begin"></a>始める前に
-セットアップ中に、デバイスが必要です。
-* インターネットにアクセスします。
-* Intune for Education のデバイス ライセンス。 Intune でデバイスのライセンスについて詳しく[ライセンス docs](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune-step-4)します。  
+セットアップ中には、インターネットへのアクセスがデバイスに必要です。 
 
 ## <a name="windows-device-setup"></a>Windows デバイスのセットアップ
 Intune for Education に、Windows 10 デバイスを追加する、次の手順を完了します。
