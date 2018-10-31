@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 10/24/2018
+ms.date: 10/30/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 4f687e4833a9ba98bdea15a915aa96c5840796cd
-ms.sourcegitcommit: 30c3fc997170745070794e9fbb6725a29c9e502b
+ms.openlocfilehash: 1cb892665cc597e29ad315fe4d95a2e1ec26c2f2
+ms.sourcegitcommit: 794f91f13bce28decbaa01b6a2638da1c068057b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "50088973"
+ms.lasthandoff: 10/31/2018
+ms.locfileid: "50253268"
 ---
 # <a name="add-windows-devices"></a>Windows デバイスを追加します。
 
@@ -34,23 +34,45 @@ ms.locfileid: "50088973"
 ## <a name="windows-device-setup"></a>Windows デバイスのセットアップ
 Intune for Education に、Windows 10 デバイスを追加する、次の手順を完了します。
 
-1. 新しい Windows 10 デバイスの電源を入れます。 標準の Windows デバイスのセットアップに従ってください。 
-2. **この PC の所有者は誰でしょうか。** 画面で、**職場または学校が所有してその**。
+1. 新しい Windows 10 デバイスの電源を入れます。 
+2. 新規またはリセットのデバイスで最初のセットアップ画面を読み取り、**リージョンから始まることができます。正しいですか。** Pc が配置されているリージョンを選択します。 選び**はい**します。  
 
-   ![「ユーザー所有この PC ですか?」のスクリーン ショット Windows セットアップで画面](./media/devices-001-who-owns-this-pc.png)
+   ![Windows 10 の OOBE の開始セットアップ画面のスクリーン ショットの例です。 選択したリージョンと米国が強調表示されます。](./media/RS5_Choose_Region.png)  
 
-2. **を接続する方法を選択して**画面で、 **Azure AD に参加**します。
+3. キーボード レイアウトを選択します。 この手順では、キーボードの物理的なレイアウトを一致するようにスクリーン キーボードを構成します。 言語およびキーボードの文字も構成します。 選択**はい**を続行します。  
 
-   ![Windows セットアップで「の接続方法の選択」画面のスクリーン ショット](./media/devices-002-how-you-connect-pc.png)
+      ![キーボード レイアウト画面、選択したレイアウトとして強調表示されている米国の例のスクリーン ショット。](./media/RS5_Choose_Keyboard.png)  
 
-3. Intune for Education 登録の管理者またはマネージャーのアカウントの詳細を入力します。 **[次へ]** をクリックします。
+4. もう 1 つのキーボード レイアウトを追加する場合は、選択**追加レイアウト**します。 それ以外の場合、選択**スキップ**します。   
 
-4. デバイス[が Azure AD で認証](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access)グループまたはグループに属していると識別します。  
-セットアップの完了後、すべてのアプリとそのグループに割り当てられている設定、デバイスが表示されます。
+     ![右上隅にある追加のレイアウトとスキップするオプションを使用して、2 番目のキーボード レイアウト画面のスクリーン ショットの例です。](./media/RS5_Second_keyboard.png)  
+
+5. 選択**を職場や学校を設定する**します。 選び**次**します。  
+
+     ![例のスクリーン ショット、* * 方法を選んで設定するか? * * 画面で、職場または学校の設定するオプションを強調表示します。](./media/RS5_Choose_Setup_Type.png)  
+
+6. 電子メール アドレスの種類は、学校の管理者または登録マネージャー アカウントに関連付けられています。 選び**次**します。  
+
+     ![例のスクリーン ショット、* * * * Microsoft 画面、Microsoft のロゴ、および電子メールのフィールドが空でサインインします。](./media/RS5_Sign_In.png)  
+
+7. アカウントのパスワードを入力します。 選び**次**します。  
+
+     ![例のスクリーン ショット、* *、組織のロゴ、およびパスワード フィールドが空で、画面 * パスワード * を入力します。](./media/RS5_Enter_Password.png)  
+
+
+
+8. デバイスのプライバシー設定を選択します。 学校のポリシーに基づくこれらの設定を構成します。 一部の設定など**音声認識**と**場所**既定でオンにします。  
+
+     ![プライバシー設定の一部の設定を使用して、オプションの一覧を表示するスクリーン ショットの例は、既定でオンにします。](./media/RS5_Choose_Settings.png)  
+
+
+9. 選択**Accept**デバイス セットアップを完了します。 セットアップを完了すると、そのため、自由に別のデバイスでセットアップを開始するまで数分かかる場合があります。  
 
 ## <a name="set-up-school-pcs-app"></a>学校の Pc のアプリを設定します。
 学校の Pc のアプリの設定を Intune に Windows デバイスを追加します。 アプリでは、構成し、複数の Pc に配布できる 1 つのデバイス プロファイルを保存する方法について説明します。 USB ドライブは、保存し、デバイスのセットアップ中に各デバイスにプロファイルのダウンロードに使用されます。 
 
-アプリの詳細については、次を参照してください。 [**学校の Pc 設定**アプリ](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)します。
+アプリの詳細については、次を参照してください。、[設定されている学校の Pc を?](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)記事。 
 
-[Intune にデバイスを追加する完全なエクスペリエンスの詳細について検索をしますか。](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)
+   ![学校の PC のアプリ、スタート画面の設定の例のスクリーン ショット。](./media/Set_up_School_PC.png)  
+
+ 
