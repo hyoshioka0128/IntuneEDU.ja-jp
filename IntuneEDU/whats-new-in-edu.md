@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 12/3/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,15 +15,40 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 63f3f9d09259689b20b39a1fec7b97523ebd65a7
-ms.sourcegitcommit: b70157c8c2c920ece03965f925857b56e6d38868
+ms.openlocfilehash: 353d444f5a85f53ed417f75273667346a2a85297
+ms.sourcegitcommit: e3819a64eea8ccdbb80619ffb5bd57be8e4b217a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2018
-ms.locfileid: "39250582"
+ms.lasthandoff: 12/04/2018
+ms.locfileid: "52830764"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
+
+## <a name="november-2018"></a>2018 年 11 月 
+
+### <a name="remote-autopilot-reset"></a>リモートの Autopilot のリセット 
+これで、Autopilot リセット for Education コンソールと Intune を使用してリモートでを呼び出すことができます。 Autopilot のリセットは、デバイスは常に最新のすべての最新のアプリ、ポリシー、および設定するために、Intune でユーザーがインストールしたアプリと個人設定とデバイスの登録を保持を含むすべてのユーザー データを削除します。 この機能により、すばやくワイプし、新しい学校年度の準備を行う一括で学生の Pc を再構成できます。
+
+### <a name="new-features-for-ios-management"></a>IOS 管理の新機能
+- Intune for Education に今すぐは、教育と Apple School Manager の両方の Intune から VPP トークンを簡単に識別できるように、Apple School Manager VPP トークンの場所の情報を表示します。 
+- 簡単にラベル付けと組織の intune for Education、VPP トークンのニックネームを指定できます。 
+- 登録は、MDM サーバー トークンを設定するときに、iOS デバイスをさらに高速ようになりました。 Intune for Education は、MDM サーバー トークンに関連付けられているデバイスをタップしてセットアップ アシスタント画面が少ないために、登録の設定を自動的に構成されます。 
+ 
+### <a name="delete-device"></a>デバイスを削除します。
+これで、for Education コンソールと、Intune でデバイスを削除することができます。 デバイスの削除。
+- Intune にデバイスの登録が解除されます。
+- デバイスは、環境の一部が不要になったために、Azure Active Directory からのデバイス レコードを削除します。
+ 
+### <a name="immersive-reader-for-all-tenants"></a>すべてのテナントの没入型のリーダー 
+教育機関向けのインベントリ、Windows ストアは、Intune for Education にサインアップするときに、没入型のリーダーの無制限ライセンスを取得します。 没入型リーダーは、すべての年齢層と機能の学習器のアクセシビリティと包含の読みやすさを作成する学習ツールです。 ここでリーダー イマーシブについて説明します。
+ 
+### <a name="effective-policy-page"></a>有効なポリシー ページ
+有効なポリシー ページには、すべてのアプリとグループ メンバーシップに基づいてユーザーとデバイスの組み合わせに適用する設定が表示されます。 このページからは、競合している問題のトラブルシューティングを行う可能性のある設定を確認できます。 2 つの方法で有効なポリシー ページに到達することができます。
+- デバイスをクリックしてユーザーをクリックしますでそのユーザーが最近チェックします。
+- デバイスでクリックし、そのデバイスで最近チェックインしたユーザーのをクリックします。
+
+
 
 ## <a name="july-2018"></a>2018 年 7 月 
 
@@ -60,14 +85,14 @@ Intune for Education に今すぐには、教室での iOS デバイスの管理
 
 これで、ユーザーとデバイス上のリモート操作を実行できます。 アクションを実行し、詳細ページから、次の操作のいずれかを選択するデバイスを選択します。
 
-#### <a name="devices"></a>[デバイス]
+#### <a name="devices"></a>デバイス
 
 - 再起動
 - 工場出荷時設定にリセットします。
 - 同期
 - 管理対象から削除します。
 
-#### <a name="users"></a>Users
+#### <a name="users"></a>ユーザー
 
 - パスワードの再設定
 

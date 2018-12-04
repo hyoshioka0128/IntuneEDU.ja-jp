@@ -14,6 +14,7 @@
 ## [Windows 10 デバイスの登録](add-devices-windows.md)
 ## [デバイス登録マネージャーの追加](add-enrollment-managers.md)
 ## [Windows 10 デバイス グループ プリセット](all-devices-group-presets-windows-edu.md)
+## [Autopilot のリセット](autopilot-reset.md)
 # iOS デバイスの追加
 ## [iOS デバイス管理のセットアップ](setup-ios-device-management.md)
 ## [iOS デバイスの登録](add-devices-ios-edu.md)
