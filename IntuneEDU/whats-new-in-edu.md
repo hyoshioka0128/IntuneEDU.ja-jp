@@ -15,12 +15,12 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 353d444f5a85f53ed417f75273667346a2a85297
-ms.sourcegitcommit: e3819a64eea8ccdbb80619ffb5bd57be8e4b217a
+ms.openlocfilehash: 2adeb14cf197f543f312d0cbd1bb46b322736eb8
+ms.sourcegitcommit: 7c51c36929e1406eb5fb26d76dc755c98611fd19
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "52830764"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "52886460"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
@@ -28,7 +28,7 @@ Intune for Education の新機能新機能について説明します。 今後�
 ## <a name="november-2018"></a>2018 年 11 月 
 
 ### <a name="remote-autopilot-reset"></a>リモートの Autopilot のリセット 
-これで、Autopilot リセット for Education コンソールと Intune を使用してリモートでを呼び出すことができます。 Autopilot のリセットは、デバイスは常に最新のすべての最新のアプリ、ポリシー、および設定するために、Intune でユーザーがインストールしたアプリと個人設定とデバイスの登録を保持を含むすべてのユーザー データを削除します。 この機能により、すばやくワイプし、新しい学校年度の準備を行う一括で学生の Pc を再構成できます。
+これで、Autopilot リセット for Education コンソールと Intune を使用してリモートでを呼び出すことができます。 Autopilot のリセットは、デバイスは常に最新のすべての最新のアプリ、ポリシー、および設定するために、Intune でユーザーがインストールしたアプリと個人設定とデバイスの登録を保持を含むすべてのユーザー データを削除します。 この機能により、すばやくワイプし、新しい学校年度の準備を行う一括で学生の Pc を再構成できます。 Autopilot リセット詳細については[ここ](autopilot-reset.md)します。
 
 ### <a name="new-features-for-ios-management"></a>IOS 管理の新機能
 - Intune for Education に今すぐは、教育と Apple School Manager の両方の Intune から VPP トークンを簡単に識別できるように、Apple School Manager VPP トークンの場所の情報を表示します。 
@@ -41,7 +41,7 @@ Intune for Education の新機能新機能について説明します。 今後�
 - デバイスは、環境の一部が不要になったために、Azure Active Directory からのデバイス レコードを削除します。
  
 ### <a name="immersive-reader-for-all-tenants"></a>すべてのテナントの没入型のリーダー 
-教育機関向けのインベントリ、Windows ストアは、Intune for Education にサインアップするときに、没入型のリーダーの無制限ライセンスを取得します。 没入型リーダーは、すべての年齢層と機能の学習器のアクセシビリティと包含の読みやすさを作成する学習ツールです。 ここでリーダー イマーシブについて説明します。
+教育機関向けのインベントリ、Windows ストアは、Intune for Education にサインアップするときに、没入型のリーダーの無制限ライセンスを取得します。 没入型リーダーは、すべての年齢層と機能の学習器のアクセシビリティと包含の読みやすさを作成する学習ツールです。 詳細については、没入型リーダーは[ここ](https://www.onenote.com/learningtools)します。
  
 ### <a name="effective-policy-page"></a>有効なポリシー ページ
 有効なポリシー ページには、すべてのアプリとグループ メンバーシップに基づいてユーザーとデバイスの組み合わせに適用する設定が表示されます。 このページからは、競合している問題のトラブルシューティングを行う可能性のある設定を確認できます。 2 つの方法で有効なポリシー ページに到達することができます。
@@ -85,14 +85,14 @@ Intune for Education に今すぐには、教室での iOS デバイスの管理
 
 これで、ユーザーとデバイス上のリモート操作を実行できます。 アクションを実行し、詳細ページから、次の操作のいずれかを選択するデバイスを選択します。
 
-#### <a name="devices"></a>デバイス
+#### <a name="devices"></a>[デバイス]
 
 - 再起動
 - 工場出荷時設定にリセットします。
 - 同期
 - 管理対象から削除します。
 
-#### <a name="users"></a>ユーザー
+#### <a name="users"></a>Users
 
 - パスワードの再設定
 
