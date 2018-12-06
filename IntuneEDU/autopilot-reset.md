@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: ''
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 8175f88e9f126130f3e937ea3cdd2f1a9ff90f9f
-ms.sourcegitcommit: e3819a64eea8ccdbb80619ffb5bd57be8e4b217a
+ms.openlocfilehash: 0886e0fde3005dc361f948f9d4b0291e20bc8455
+ms.sourcegitcommit: 6bf57343d260761197fe211187620feff84f7b25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "52830788"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "52978240"
 ---
 # <a name="autopilot-reset"></a>Autopilot のリセット
 Autopilot のリセットを使用する、デバイスから個人のファイル、アプリ、および設定を削除します。 デバイスは Intune で登録されたままし、完全に構成されているか、既知の IT 承認済み状態に戻ります。
@@ -40,6 +40,9 @@ Autopilot のリセットをリモートで使用が 17672 またはそれ以降
 1.  Intune for Education には、次のように選択します。**グループ**> グループを選択 > **Autopilot は、すべてのデバイスをリセット**します。
 2.  **Autopilot リセット グループ**ボックス、テキスト ボックスに、グループの名前を入力し、 **Autopilot リセット**します。
 3.  リモート Autopilot リセットどのデバイスでもサポートされていない場合、状態の一覧が表示されます。 インターネットに接続されている次回各デバイスがリセットされます。
+
+## <a name="next-steps"></a>次の手順
+[リモート操作によってデバイスを管理する](edu-device-remote-actions.md)
 
 
 
