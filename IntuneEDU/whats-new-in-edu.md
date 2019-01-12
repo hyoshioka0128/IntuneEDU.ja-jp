@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 12/3/2018
+ms.date: 01/11/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,20 +15,37 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: d863750a30b70bfeb91c116b3cefa7b8528cd741
-ms.sourcegitcommit: 6bf57343d260761197fe211187620feff84f7b25
+ms.openlocfilehash: 258431d59da14026c60eae8af1380dfac5d4cc44
+ms.sourcegitcommit: b6d6680993c6dd5d50e63137ab2001a605c72353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "52978257"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "54237358"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
 
-## <a name="november-2018"></a>2018 年 11 月 
+## <a name="january-2019"></a>2019 年 1 月  
+
+### <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイス用の新しい設定  
+セキュリティ、Windows 更新プログラム、サインインのデバイスおよびブラウザー エクスペリエンスなどの領域をさらに制御を提供する新しい設定が追加されました。 この 1 か月が表示されます、いくつかの新しい設定を次に示します。  
+
+* **Azure Active Directory テナントの優先ドメインを構成する**:この設定は、テナントのドメイン名のないデバイスにサインインする受講者を許可します。 その別名だけに迅速かつ簡単に、受講者サインインできます。  
+
+* **新しいタブ ページを構成する**:この設定を使用して、学生が Microsoft Edge でタブを追加したときに開くページを選択できます。 空白のページまたは学校のホーム ページなど、カスタムの 1 つの新しいタブを開きます。  
+
+* **スイッチのモードを解除**:この設定は、管理者が S のモードで Windows 10 からデバイスを切り替えることができます。 または学生が S モードから自分のデバイスを切り替えることを防ぎます。    
+
+### <a name="updated-windows-settings-names-and-added-useful-tooltips"></a>更新された Windows 設定の名前と便利なツールヒントが追加されました  
+設定の名前と intune for Education に検索を理解しやすくためのヒントの多くが改訂されいます。 さらに多くの詳細については、各設定では、次を参照してください。 [Intune for Education の Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
+
+### <a name="rename-windows-devices"></a>Windows デバイスの名前を変更します。  
+For Education ポータルが Intune からリモートで任意の Windows 10 (バージョン 1803 以降) デバイスの名前を変更します。 名前を変更するには**デバイス**、デバイスを選択します > **Rename デバイス**します。 デバイスを変更することも、**デバイスの詳細**ページ。  
+
+## <a name="november-2018"></a>2018 年 11 月  
 
 ### <a name="remote-autopilot-reset"></a>リモートの Autopilot のリセット 
-これで、Autopilot リセット for Education コンソールと Intune を使用してリモートでを呼び出すことができます。 Autopilot のリセットは、デバイスは常に最新のすべての最新のアプリ、ポリシー、および設定するために、Intune でユーザーがインストールしたアプリと個人設定とデバイスの登録を保持を含むすべてのユーザー データを削除します。 この機能により、すばやくワイプし、新しい学校年度の準備を行う一括で学生の Pc を再構成できます。 Autopilot リセット詳細については[ここ](autopilot-reset.md)します。
+これで、Autopilot リセット for Education ポータルが Intune を使用してリモートでを呼び出すことができます。 Autopilot のリセットは、デバイスは常にすべての最新のアプリ、ポリシー、および設定の最新の状態のために、Intune でユーザーがインストールしたアプリと個人設定とデバイスの登録を保持を含むすべてのユーザー データを削除します。 この機能により、すばやくワイプし、新しい学校年度の準備を行う一括で学生の Pc を再構成できます。 Autopilot リセット詳細については[ここ](autopilot-reset.md)します。
 
 ### <a name="new-features-for-ios-management"></a>IOS 管理の新機能
 - Intune for Education に今すぐは、教育と Apple School Manager の両方の Intune から VPP トークンを簡単に識別できるように、Apple School Manager VPP トークンの場所の情報を表示します。 
@@ -36,7 +53,7 @@ Intune for Education の新機能新機能について説明します。 今後�
 - 登録は、MDM サーバー トークンを設定するときに、iOS デバイスをさらに高速ようになりました。 Intune for Education は、MDM サーバー トークンに関連付けられているデバイスをタップしてセットアップ アシスタント画面が少ないために、登録の設定を自動的に構成されます。 
  
 ### <a name="delete-device"></a>デバイスを削除します。
-これで、for Education コンソールと、Intune でデバイスを削除することができます。 デバイスの削除。
+これで、for Education ポータルが Intune でデバイスを削除することができます。 デバイスの削除。
 - Intune にデバイスの登録が解除されます。
 - デバイスは、環境の一部が不要になったために、Azure Active Directory からのデバイス レコードを削除します。
  
@@ -44,7 +61,7 @@ Intune for Education の新機能新機能について説明します。 今後�
 教育機関向けのインベントリ、Windows ストアは、Intune for Education にサインアップするときに、没入型のリーダーの無制限ライセンスを取得します。 没入型リーダーは、すべての年齢層と機能の学習器のアクセシビリティと包含の読みやすさを作成する学習ツールです。 詳細については、没入型リーダーは[ここ](https://www.onenote.com/learningtools)します。
  
 ### <a name="effective-policy-page"></a>有効なポリシー ページ
-有効なポリシー ページには、すべてのアプリとグループ メンバーシップに基づいてユーザーとデバイスの組み合わせに適用する設定が表示されます。 このページからは、競合している問題のトラブルシューティングを行う可能性のある設定を確認できます。 2 つの方法で有効なポリシー ページに到達することができます。
+有効なポリシー ページには、すべてのアプリとグループ メンバーシップに基づいてユーザーとデバイスの組み合わせに適用する設定が表示されます。 このページから、競合している問題のトラブルシューティングを行う可能性のある設定を確認できます。 2 つの方法で有効なポリシー ページに到達することができます。
 - ユーザーをクリックして >**ユーザーの詳細に移動**> デバイスをそのユーザーの選択でチェックが最近です。
 - デバイスをクリックして >**デバイスの詳細に移動して**> そのデバイスで最近チェックインしたユーザーを選択します。
 
@@ -56,10 +73,10 @@ Intune for Education の新機能新機能について説明します。 今後�
 
 Intune for Education に今すぐには、教室での iOS デバイスの管理がサポートしています。 Intune for Education の関係者全員のセットアップと管理プロセスを簡単にする新機能とページが追加されました。 ダッシュ ボードで、すべてが正常にセットアップ、構成、およびデバイスを登録する必要がある必要があります。  
 
-* IOS デバイス管理のセットアップ: を含む新しいページが追加されました[ステップ バイ ステップ ガイダンス](setup-ios-device-management.md)Apple アカウントを Intune for Education にすばやく接続するためです。 画面に表示されるインジケーターは、必須および省略可能な手順、正常に完了したものと有効期限が近づいているものを明確に確認できます。
-* 高速構成: が、iOS デバイスに合わせて、Windows 10 エクスペリエンスと同様に[iOS 用の高速構成](express-configuration-intune-edu.md)迅速に割り当てるし、アプリと設定を変更するのに役立ちます。 単にユーザーまたはデバイスのグループを選択し、Microsoft の推奨設定から選択します。 これら[の推奨事項があらかじめ選択](edu-express-config-settings-ios.md)、ですが、学校のポリシーに一致するように、いつでも変更できます。  
-* アプリと設定: 個別のアプリとデバイスの設定のビューには、追加したいずれかに注目する[iOS](all-edu-settings-ios.md)または[Windows 10](all-edu-settings-windows.md)デバイスの管理。 使用すると追加[Apple VPP サポート](add-vpp-apps-ios.md)、Intune for Education で購入した VPP アプリを同期し、ダッシュ ボードから直接割り当てることができます。 
-* 動的なグループ化: に特定のデバイス プラットフォームの規則を適用することができますので、[動的なグループ](create-groups.md#dynamic-groups)します。 デバイスまたは Windows 10 での受講者に適用するルールを作成*または*iOS デバイス。  
+* IOS デバイスの管理をセットアップするには。新しいページを追加しました[ステップ バイ ステップ ガイダンス](setup-ios-device-management.md)Apple アカウントを Intune for Education にすばやく接続できます。 画面に表示されるインジケーターは、必須および省略可能な手順、正常に完了したものと有効期限が近づいているものを明確に確認できます。
+* 高速構成:IOS デバイスに合わせて、Windows 10 エクスペリエンスと同様に[iOS 用の高速構成](express-configuration-intune-edu.md)迅速に割り当てるし、アプリと設定を変更するのに役立ちます。 ユーザーまたはデバイスのグループを選択し、Microsoft の推奨設定から選択します。 これら[の推奨事項があらかじめ選択](edu-express-config-settings-ios.md)、ですが、学校のポリシーに一致するように、いつでも変更できます。  
+* アプリと設定:別のアプリとデバイスの設定のビューには、追加したいずれかに注目する[iOS](all-edu-settings-ios.md)または[Windows 10](all-edu-settings-windows.md)デバイスの管理。 使用すると追加[Apple VPP サポート](add-vpp-apps-ios.md)、Intune for Education で購入した VPP アプリを同期し、ダッシュ ボードから直接割り当てることができます。 
+* 動的なグループ化します。特定のデバイス プラットフォームの規則を適用することができますので、[動的なグループ](create-groups.md#dynamic-groups)します。 デバイスまたは Windows 10 での受講者に適用するルールを作成*または*iOS デバイス。  
 
 詳細を取得し、新しいページとワークフロー内を移動する方法について説明します、 [Intune for Education](what-is-intune-for-education.md)ドキュメント。   
 
@@ -79,7 +96,7 @@ Intune for Education に今すぐには、教室での iOS デバイスの管理
 
 ### <a name="user-and-device-search"></a>ユーザーとデバイスの検索
 
-サイド バーに 2 つの新しいオプションが追加されました:**ユーザー**と**デバイス**します。 これらを使用して、個々 のユーザーまたはデバイスを検索し、すばやく開くことができます、**詳細**これらの項目。 これらの検索を追加するには、サイド バーに**すべてを参照してください** > **星ボタン (お気に入り)** お気に入りの一覧に追加します。
+サイド バーに 2 つの新しいオプションが追加されました。**ユーザー**と**デバイス**します。 これらを使用して、個々 のユーザーまたはデバイスを検索し、すばやく開くことができます、**詳細**これらの項目。 これらの検索を追加するには、サイド バーに**すべてを参照してください** > **星ボタン (お気に入り)** お気に入りの一覧に追加します。
 
 ### <a name="remote-actions"></a>リモート操作
 
