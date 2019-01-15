@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 76344fe73c1b895fe6fa8ad81deb0ebe359193d5
-ms.sourcegitcommit: b6d6680993c6dd5d50e63137ab2001a605c72353
+ms.openlocfilehash: 90460d30344a85898149ceeb2046ef933d67cde1
+ms.sourcegitcommit: 1368a4ae07115555b4ba5b1463eacdc74be6a7d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "54237392"
+ms.lasthandoff: 01/14/2019
+ms.locfileid: "54270374"
 ---
 # <a name="windows-10-device-settings-in-intune-for-education"></a>Intune for Education の Windows 10 デバイスの設定
 
@@ -217,18 +217,19 @@ Windows Defender、Windows SmartScreen のセキュリティ設定を構成し�
 
 これらのアプリは教師と生徒から削除する共有使用のデバイスを最適化するために選択するとコンピューター。
 
-* 3DBuilder
-* Bing 天気
+* Mixed Reality ビューアー  
+* 天気
 * デスクトップ アプリのインストーラー
-* 作業の開始
-* Microsoft Office ハブ
+* ヒント
+* 自分のオフィス
 * ソリティア コレクション
-* 1 つの接続します。
+* モバイルの計画
 * Windows フィードバック Hub
 * Xbox
 * Groove ミュージック
 * メール
 * 予定表
+* Skype  
 
 ## <a name="updates-and-upgrade"></a>更新プログラムとアップグレード
 デバイスが更新プログラムとアップグレードを受信する方法を構成します。    
