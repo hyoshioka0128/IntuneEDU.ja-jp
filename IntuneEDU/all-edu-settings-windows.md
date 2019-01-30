@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 90460d30344a85898149ceeb2046ef933d67cde1
-ms.sourcegitcommit: 1368a4ae07115555b4ba5b1463eacdc74be6a7d6
+ms.openlocfilehash: 00991a413f449913a0e989f0131e1f837a7c92af
+ms.sourcegitcommit: 91d13ba57591077f560f5b33ce31e43f909abd09
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "54270374"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "55252584"
 ---
 # <a name="windows-10-device-settings-in-intune-for-education"></a>Intune for Education の Windows 10 デバイスの設定
 
@@ -153,8 +153,8 @@ Microsoft Edge ブラウザーの経験とユーザー データに影響する�
 
 |設定|内容|
 |---|---|
-|プリンターの一覧|生徒のデバイスを使用できるようにするプリンターの一覧を作成します。 プリンターのホスト名または IP アドレスを入力します。 書式設定されたホスト名の例は、 *printer1.contososd.edu*します。 書式設定された IP アドレスの例は*75.121.7.31*します。| 
-|既定のプリンターを指定します。|デバイスの既定のプリンター オプションとして利用可能なプリンターに設定します。 表示されるプリンターのホスト名または IP アドレスを入力、**プリンター一覧**します。|  
+|プリンターの一覧|生徒のデバイスを使用できるようにするプリンターの一覧を作成します。 プリンターのホスト名を入力します。 書式設定されたホスト名の例は、 *printer1.contososd.edu*します。| 
+|既定のプリンターを指定します。|デバイスの既定のプリンター オプションとして利用可能なプリンターに設定します。 表示されるプリンターのホスト名を入力、**プリンター一覧**します。|  
 |新しいプリンターの追加をブロックします。|グループから自分のデバイスへの新しいプリンターの接続をブロックします。|  
 
 

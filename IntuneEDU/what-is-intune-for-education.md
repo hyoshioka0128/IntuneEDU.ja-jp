@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 9196da54484ea0169e94ee683f9a4596fcbff094
-ms.sourcegitcommit: aa2d20d05f84c6c94fb23c49eea00da535045e20
+ms.openlocfilehash: 6e85a1c80c3a74735b716dbaa553baa06bbe7f3f
+ms.sourcegitcommit: 91d13ba57591077f560f5b33ce31e43f909abd09
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "53997390"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "55252550"
 ---
 # <a name="what-is-intune-for-education"></a>教育用の Intune とは
 
@@ -62,7 +62,7 @@ Intune for Education では、共有デバイス、連携して、1 つのデバ
 
 ## <a name="compatible-resources-and-tools"></a>互換性のあるリソースとツール
 
-その他の Microsoft 管理ツールにアクセスできる必要があります。
+などの他の Microsoft 管理ツールへのアクセスがあります。
 * Microsoft Intune、Azure portal で、[完全なデバイス、アプリ、およびユーザー管理エクスペリエンス](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
 * Microsoft Azure Active Directory (Azure AD) [id およびアクセス管理システム](https://docs.microsoft.com/azure/active-directory/active-directory-administer)
 * [Microsoft 学校データ同期](https://sds.microsoft.com)
