@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 01/15/2019
+ms.date: 01/30/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,18 +14,22 @@ ms.technology: ''
 ms.assetid: df7cabf2-1723-4817-b16c-800407a0c753
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 3de19abedc7a129729513d2587c3d43efecc8d9d
-ms.sourcegitcommit: f8674ca13ada9e8ab3c4e063582a9e655968785c
+ms.openlocfilehash: f19a24c78ad3a155b33ccc05bc266160fce7387e
+ms.sourcegitcommit: 624b8b648e3148b484f4de163b45bc6c9ea98ac9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "54324949"
+ms.lasthandoff: 01/31/2019
+ms.locfileid: "55450187"
 ---
 # <a name="manage-devices-remotely"></a>デバイスをリモートで管理します。  
 
 デバイスと、そのユーザーは異なる場所にしてトラブルシューティングのために必要な場合は、Intune でリモート アクションを使用して、教育機関向け。  
 
+
 ## <a name="remote-actions-for-devices"></a>デバイスのリモート操作  
+
+![教育の 7 リモート アクションの Intune を示す例のスクリーン ショット。](./media/1812_Intune_EDU_Manage_Remote.png)  
+
 ダッシュ ボードに移動します。**デバイス**します。 管理するデバイスを選択します。 ページの下部には、次の操作のいずれかを選択します。
 
 - **再起動**:デバイスの電源を補強し、再起動します。
@@ -36,4 +40,5 @@ ms.locfileid: "54324949"
 - **デバイスの削除**:教育機関向けの Intune からデバイスの登録が解除し、Azure Active Directory からデバイスを削除します。 削除されたデバイスは、学校のリソースにアクセスできなくなります。 
 
 ## <a name="remote-actions-for-users"></a>ユーザーのリモート操作  
+
 ダッシュ ボードに移動します。**ユーザー**します。 管理するユーザーを選択します。 ページの下部には、次のように選択します。**パスワードのリセット**します。 このアクションは、ユーザーのデバイス上の古い、紛失、または忘れたパスワードをリセットします。  

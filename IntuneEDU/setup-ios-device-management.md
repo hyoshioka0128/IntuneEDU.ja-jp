@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 01/09/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: a7bdfbca36a615ad486bb4859981990c466875fb
-ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
+ms.openlocfilehash: 77f7c1d1e41890e9f64268f2a35aaf07261ca587
+ms.sourcegitcommit: 624b8b648e3148b484f4de163b45bc6c9ea98ac9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "45534246"
+ms.lasthandoff: 01/31/2019
+ms.locfileid: "55450221"
 ---
 # <a name="setup-ios-device-management"></a>IOS デバイスの管理をセットアップします。 
 
@@ -35,12 +35,12 @@ ms.locfileid: "45534246"
 * 構成し、Apple MDM サーバー トークンを同期します。
 * Apple VPP トークンを構成します。
 
-## <a name="what-happens-after-i-setup-device-management"></a>デバイス管理をセットアップするとどうなりますか。
+## <a name="what-happens-after-i-set-up-device-management"></a>デバイス管理を設定した後にどうなりますか
 IOS デバイスの管理をセットアップした後に Intune for Education を使用してアプリと、iOS デバイスの設定を管理することができます。 任意の場所の競合を解決するために、レポートやアクションへのアクセスが必要がありますもします。  
 
 学生と教員学校では、学校の web サイトや電子メールに安全にアクセスできなければなります。  
 
-## <a name="requirements"></a>要件
+## <a name="requirements"></a>必要条件
 始める前がいることを確認します。  
 * インターネットに接続します。
 * Apple School Manager アカウントの資格情報。
@@ -59,26 +59,47 @@ Apple MDM プッシュ証明書を Intune と Apple School Manager アカウン�
 5. Apple ポータルで手順を実行します。 証明書を作成した後をダウンロードして保存する をクリックします。
 6. Intune for Education ポータルに戻り、Apple Push Certificates portal にサインインするために使用する Apple ID を入力します。
 7. ダウンロードした証明書をアップロードします。
-8. **[Save]**(保存) をクリックします。  
+8. **[保存]** をクリックします。  
 
 プッシュ通知証明書では、すべての 365 日間有効期限です。 そのため、Apple School Manager アカウントに Intune for Education の接続に証明書が必要な[毎年更新する必要があります](renew-ios-certificate-token.md)します。  
 
 
-## <a name="configure-mdm-server-tokens"></a>MDM サーバー トークンを構成します。  
-DEP トークンとも呼ばれる、MDM サーバー トークンには、Apple School Manager から Intune 同期デバイスの詳細ことができます。 これらの詳細は、管理するために必要なデバイスの Intune に通知し、Intune for Education ポータルで、インベントリを設定します。  
+## <a name="configure-mdm-server-token"></a>MDM サーバー トークンを構成します。  
+DEP トークンとも呼ばれる、MDM サーバー トークンには、Apple School Manager から Intune 同期デバイスの詳細ことができます。 これらの詳細を管理するために必要なデバイスの Intune に通知し、Intune for Education ポータルで、インベントリを設定します。  
 
-1. **IOS デバイス管理** ページで、をクリックして、 **MDM サーバー トークン**タブ。
-2. クリックして**トークンを設定する**します。
-3. クリックして**ダウンロード**に必要な Intune 公開キーをダウンロードします。 MDM サーバー トークンの作成に Apple School Manager では、このファイルをアップロードする必要があります。 ファイルをコンピューターに保存します。
-4. クリックして**Apple School Manager で MDM サーバーに移動**します。 メッセージが表示されたら、学校の Apple id で、個人、1 つない Apple School Manager にサインインします。
-5. MDM サーバーを作成する画面の手順に従います。 変更を保存します。 この手順を完了する情報を持っていない場合は、学校の Intune 管理者に問い合わせてください。
-6. ダウンロードし、MDM サーバーのトークンを保存します。
-7. Apple School Manager で状態を維持し、移動**デバイス割り当て**します。 各デバイスの場合、デバイス全体の購入、または CSV ファイルで、デバイスの一覧の注文番号、シリアル番号を入力します。 
+### <a name="shared-ipad-configuration"></a>共有 iPad の構成  
+共有 iPad デバイスとして登録する iOS デバイスを構成することができます。 共有の iPad を学生と教員にサインインする一意の管理された Apple ID を持つ、学校のデバイス デバイスからデバイスを移動する場合に、アプリとデータが一緒に移動します。 学生では、1 つのデバイスを使用して、紙の書き込みを開始でき、し、後でサインイン、別のデバイスに用紙を完了することができます。 詳細について*共有 iPad*と*管理対象 Apple Id*を参照してください、 [Apple の教育機関向けの web サイト](https://www.apple.com/education/it/)と[ドキュメント](https://go.microsoft.com/fwlink/?linkid=2060097&clcid=0x409)します。  
+
+クラスルームのデバイスは、Shared iPad しなくても、受講者の間で共有できます。 ただし、デバイス間でユーザー データを移動しません。 サーバー トークンを構成する前に、Shared iPad を有効にするかを選択します。 
+
+### <a name="server-token-setup"></a>サーバー トークンのセットアップ  
+
+次の手順では、MDM サーバー トークンを構成する方法について説明します。 
+
+1. 移動して**テナント設定** > **iOS デバイス管理**を選択し、 **MDM サーバー トークン**タブ。
+2. 選択**トークンを設定する**します。
+3. 新しい server トークンに関連付けられているデバイスを登録する方法を選択します。  
+    * 共有 iPad 用のこのトークンを設定するには、**ユーザーは、管理対象 Apple Id を持つデバイスにログイン**します。 管理された Apple ID を持つにユーザーにサインインする必要がありますようにして設定されるこのトークンに割り当てられたすべてのデバイス  
+        > [!IMPORTANT]
+        > サーバー トークンを作成した後は、選択を変更ことはできません。 その後、デバイスの登録方法を変更する場合、新しいサーバー トークンを作成する必要があります。  
+
+        > [!NOTE]
+        > 共有 iPad でのデバイスを設定する場合は、教室および学校の課題のアプリを除く、Shared iPad が付属しているすべての機能が表示されます。 これらのアプリは、Intune for Education でサポートされていません。 その他のすべての共有 iPad 機能は、MDM サーバー トークンを設定する後、使用可能になります。  
+
+    * 学校が管理対象 Apple Id を使用していない場合は、選択**だれでもこれらのデバイスのロックを解除できます.** デバイスの学生が共有できます&ndash;だけアクセスするようにしますを直接サインインする必要はありません。 1 つを設定した場合、デバイスのパスコードが必要があります。  
+
+4. 選択**ダウンロード**に必要な Intune 公開キーをダウンロードします。 MDM サーバー トークンの作成に Apple School Manager では、このファイルをアップロードする必要があります。 ファイルをコンピューターに保存します。
+5. 選択**Apple School Manager で MDM サーバーに移動**します。 メッセージが表示されたら、学校の Apple id で、個人、1 つない Apple School Manager にサインインします。
+6. MDM サーバーを作成する画面の手順に従います。 変更を保存します。 この手順を完了する情報を持っていない場合は、学校の Intune 管理者に問い合わせてください。
+7. ダウンロードし、MDM サーバーのトークンを保存します。
+8. Apple School Manager で状態を維持しに移動**デバイス割り当て**します。 各デバイスの場合、デバイス全体の購入、または CSV ファイルで、デバイスの一覧の注文番号、シリアル番号を入力します。  
+
   ![Apple School Manager の web サイト、デバイスの割り当て ページのスクリーン ショット。 ラジオ ボタンの選択と購入済みのデバイスを手動で入力する方法を入力するユーザーの空のフィールド ボックスの手順 1. を「デバイスの選択」を示しています。 表示手順 2、"操作の選択 ドロップダウン メニューでユーザーが「サーバーに割り当てます」を選択する必要があります。](./media/Apple-School-Manager-MDM-Server-token-1807.png)   
-1. ドロップダウン メニューから選択**Assign to Server**します。 次に作成した MDM サーバーを選択します。
-2. Intune for Education ポータルに戻り、Apple School Manager へのサインインに使用した Apple ID を入力します。
-3. ダウンロードした MDM サーバー トークンをアップロードします。
-4. **[Save]**(保存) をクリックします。
+
+9. ドロップダウン メニューから選択**Assign to Server**します。 次に作成した MDM サーバーを選択します。
+10. Intune for Education ポータルに戻り、Apple School Manager へのサインインに使用した Apple ID を入力します。
+11. ダウンロードした MDM サーバー トークンをアップロードします。
+12. **[保存]** をクリックします。
 
 MDM サーバー トークンは期限 365 日です。 表示し、Intune for Education ポータル デバイスを管理するには、トークンが必要です。 必要があります[毎年更新](renew-ios-certificate-token.md)します。
 
@@ -116,7 +137,7 @@ VPP トークンは、intune する必要があります。
 5. 参照コンピューターのファイル フォルダー アイコンをクリックします。 トークンをダウンロードして、以前に保存したファイルを選択します。
 6. 学校のデバイスの場所を選択します。
 7. アプリの自動更新を有効にしない場合は、それらを無効にする設定を切り替えます。 
-8. **[Save]**(保存) をクリックします。
+8. **[保存]** をクリックします。
 
 トークンは期限 365 日です。 トークンはそのため、購入した VPP アプリを管理するために必要な[それらを毎年更新する必要があります](renew-ios-certificate-token.md)します。
 

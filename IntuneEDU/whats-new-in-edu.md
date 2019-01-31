@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 01/11/2019
+ms.date: 01/16/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,17 +15,20 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 258431d59da14026c60eae8af1380dfac5d4cc44
-ms.sourcegitcommit: b6d6680993c6dd5d50e63137ab2001a605c72353
+ms.openlocfilehash: 1b275b0545f74a87bd41e5a981a6bde77ca1e7f6
+ms.sourcegitcommit: 624b8b648e3148b484f4de163b45bc6c9ea98ac9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "54237358"
+ms.lasthandoff: 01/31/2019
+ms.locfileid: "55450204"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
 
 ## <a name="january-2019"></a>2019 年 1 月  
+
+### <a name="set-up-ios-devices-with-shared-ipad-features"></a>共有 iPad 機能を使用して iOS デバイスをセットアップします。
+Intune for Education で iOS デバイスの登録の設定を構成、するときに今すぐ共有 iPad 機能を有効になっているを登録する iOS デバイスを構成するオプションがあります。  共有の iPad が管理されている Apple ID を持つ school デバイスにサインインするには、学生と教員を必要とする iOS の機能 デバイスを有効になっている保存されたアクセスし、実行中の作業、アプリ、およびタスクに学校との間サインインすることができます。 Intune for Education で共有 iPad の詳細については、次を参照してください。 [Shared iPad 構成](setup-ios-device-management.md#shared-ipad-configuration)します。  
 
 ### <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイス用の新しい設定  
 セキュリティ、Windows 更新プログラム、サインインのデバイスおよびブラウザー エクスペリエンスなどの領域をさらに制御を提供する新しい設定が追加されました。 この 1 か月が表示されます、いくつかの新しい設定を次に示します。  
@@ -109,7 +112,7 @@ Intune for Education に今すぐには、教室での iOS デバイスの管理
 - 同期
 - 管理対象から削除します。
 
-#### <a name="users"></a>Users
+#### <a name="users"></a>ユーザー
 
 - パスワードの再設定
 
