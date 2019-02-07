@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 01/16/2019
+ms.date: 02/05/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,15 +15,23 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 1b275b0545f74a87bd41e5a981a6bde77ca1e7f6
-ms.sourcegitcommit: 624b8b648e3148b484f4de163b45bc6c9ea98ac9
+ms.openlocfilehash: 97a2677c324d8ad2d8655b4fd659eef2b179a500
+ms.sourcegitcommit: 7783de1b4b3074d80f463cd5d91cf073db77121d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/31/2019
-ms.locfileid: "55450204"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "55764244"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
+
+## <a name="february-2019"></a>2 月 2019  
+
+### <a name="set-custom-wallpaper-and-lock-screen-images-for-your-ios-devices"></a>カスタムの壁紙を設定し、iOS デバイスの画面イメージをロック  
+Intune for Education を使用して、独自の壁紙を設定し、学校のデバイスで画面をロックすることができますようになりました。 イメージをアップロードするには**グループ** > **iOS デバイスの設定** > **壁紙、ロック画面イメージ**します。  
+
+   ![IOS デバイスの設定、カスタムの壁紙、ロック画面イメージのスクリーン ショット。](./media/ios-1901-custom-image-settings.png)  
+
 
 ## <a name="january-2019"></a>2019 年 1 月  
 
