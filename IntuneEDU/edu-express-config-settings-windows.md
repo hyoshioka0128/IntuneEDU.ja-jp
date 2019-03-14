@@ -14,19 +14,19 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 7bb0c956bba005010bfb4710f043463147b33786
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: e461f62901f72a70250673c651d5fe6ea89d2148
+ms.sourcegitcommit: 144ec5e98d1b1b3003c54690dbe23eae8e3ee635
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234302"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "57829969"
 ---
 # <a name="default-windows-10-configurations-in-express-configuration"></a>高速構成の既定の Windows 10 の構成
-高速の構成には、iOS デバイスをすばやくセットアップするために事前設定します。 Intune for Education では、Microsoft によって推奨されてな学校環境に最適なオプションを選択します。 この記事では、これらの設定や既定の動作の一覧表示します。 
+高速の構成には、Windows デバイスを簡単に設定するために事前設定します。 Intune for Education では、Microsoft によって推奨されてな学校環境に最適なオプションを選択します。 この記事では、これらの設定や既定の動作の一覧表示します。 
 
  学校のルールとポリシーに合わせて、または事前設定された推奨事項の適用の設定 ページで直接クリックしてに変更を加えます。 
 
-設定と説明の完全な一覧で、次を参照してください。 [Intune for Education のすべての iOS 設定](all-edu-settings-windows.md)します。 
+設定と説明の完全な一覧で、次を参照してください。 [Intune for Education のすべての Windows 10 設定](all-edu-settings-windows.md)します。 
 
 
 ## <a name="basic-device-settings"></a>基本的なデバイスの設定  
