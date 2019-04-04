@@ -47,7 +47,7 @@ ms.locfileid: "47237529"
 
 ## <a name="settings-error-report"></a>設定エラー レポート
 
-設定を解決できない場合は、設定のエラー レポートに表示されます。 レポートの詳細については、次を参照してください。[レポートの表示とダウンロード](what-are-reports.md)します。  
+設定を解決できない場合は、設定のエラー レポートに表示されます。 レポートの詳細については、[レポートの表示とダウンロード](what-are-reports.md)を参照してください。  
 
 ## <a name="next-steps"></a>次の手順  
 詳細について、[すべてのグループが Intune で経験](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)します。

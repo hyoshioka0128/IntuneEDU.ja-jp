@@ -36,7 +36,7 @@ Intune for Education を使用して、独自の壁紙を設定し、学校の�
 ## <a name="january-2019"></a>2019 年 1 月  
 
 ### <a name="set-up-ios-devices-with-shared-ipad-features"></a>共有 iPad 機能を使用して iOS デバイスをセットアップします。
-Intune for Education で iOS デバイスの登録の設定を構成、するときに今すぐ共有 iPad 機能を有効になっているを登録する iOS デバイスを構成するオプションがあります。  共有の iPad が管理されている Apple ID を持つ school デバイスにサインインするには、学生と教員を必要とする iOS の機能 デバイスを有効になっている保存されたアクセスし、実行中の作業、アプリ、およびタスクに学校との間サインインすることができます。 Intune for Education で共有 iPad の詳細については、次を参照してください。 [Shared iPad 構成](setup-ios-device-management.md#shared-ipad-configuration)します。  
+Intune for Education で iOS デバイスの登録の設定を構成、するときに今すぐ共有 iPad 機能を有効になっているを登録する iOS デバイスを構成するオプションがあります。  共有の iPad が管理されている Apple ID を持つ school デバイスにサインインするには、学生と教員を必要とする iOS の機能 デバイスを有効になっている保存されたアクセスし、実行中の作業、アプリ、およびタスクに学校との間サインインすることができます。 Intune for Education で共有 iPad の詳細については、[Shared iPad 構成](setup-ios-device-management.md#shared-ipad-configuration)を参照してください。  
 
 ### <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイス用の新しい設定  
 セキュリティ、Windows 更新プログラム、サインインのデバイスおよびブラウザー エクスペリエンスなどの領域をさらに制御を提供する新しい設定が追加されました。 この 1 か月が表示されます、いくつかの新しい設定を次に示します。  
@@ -48,7 +48,7 @@ Intune for Education で iOS デバイスの登録の設定を構成、すると
 * **スイッチのモードを解除**:この設定は、管理者が S のモードで Windows 10 からデバイスを切り替えることができます。 または学生が S モードから自分のデバイスを切り替えることを防ぎます。    
 
 ### <a name="updated-windows-settings-names-and-added-useful-tooltips"></a>更新された Windows 設定の名前と便利なツールヒントが追加されました  
-設定の名前と intune for Education に検索を理解しやすくためのヒントの多くが改訂されいます。 さらに多くの詳細については、各設定では、次を参照してください。 [Intune for Education の Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
+設定の名前と intune for Education に検索を理解しやすくためのヒントの多くが改訂されいます。 さらに多くの詳細については、各設定では、[Intune for Education の Windows 10 デバイスの設定](all-edu-settings-windows.md)を参照してください。  
 
 ### <a name="rename-windows-devices"></a>Windows デバイスの名前を変更します。  
 For Education ポータルが Intune からリモートで任意の Windows 10 (バージョン 1803 以降) デバイスの名前を変更します。 名前を変更するには**デバイス**、デバイスを選択します > **Rename デバイス**します。 デバイスを変更することも、**デバイスの詳細**ページ。  

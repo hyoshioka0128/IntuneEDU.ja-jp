@@ -24,7 +24,7 @@ ms.locfileid: "39236295"
 # <a name="default-ios-settings-in-express-configuration"></a>既定の高速構成での iOS の設定
 高速構成は、iOS デバイスまたはユーザーのグループをすばやくセットアップするための推奨設定であらかじめ設定されています。 Intune for Education では、Microsoft によって推奨されてな学校環境に最適な設定を選択します。 学校のルールとポリシーに合わせて推奨事項を適用する設定 ページを直接クリックしてしたり変更を加えます。 
 
-設定と説明の完全な一覧で、次を参照してください。 [Intune for Education のすべての iOS 設定](all-edu-settings-ios.md)します。 
+設定と説明の完全な一覧で、[Intune for Education のすべての iOS 設定](all-edu-settings-ios.md)を参照してください。 
 
 > [!IMPORTANT]
 > 高速構成を起動するときに iOS の構成が無効の場合は、MDM Apple プッシュ証明書と DEP トークンの両方を設定したことを確認します。 これらの両方がある場合は、どちらも期限が切れたことを確認します。 デバイス管理を参照してください iOS の設定の詳細については[iOS デバイス管理の設定](setup-ios-device-management.md)

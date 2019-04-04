@@ -47,7 +47,7 @@ IOS デバイスの管理をセットアップした後に Intune for Education 
 * Intune for Education のデバイス ライセンス。 デバイス ライセンスの詳細について、 [Intune ライセンス docs](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune-step-4)します。  
 
 > [!IMPORTANT]
-> Intune for Education では、Apple DEP. を通じて購入したデバイスの iOS デバイスの登録のみがサポートしています Apple School Manager の詳細については、次を参照してください。、 [Apple 教育のサポート サイト](https://support.apple.com/education)します。  
+> Intune for Education では、Apple DEP. を通じて購入したデバイスの iOS デバイスの登録のみがサポートしています Apple School Manager の詳細については、、 [Apple 教育のサポート サイト](https://support.apple.com/education)を参照してください。  
 
 ## <a name="add-an-mdm-push-certificate"></a>MDM プッシュ証明書を追加します。
 Apple MDM プッシュ証明書を Intune と Apple School Manager アカウント間のセキュリティで保護された接続を設定します。 接続すると、Intune できる継続的に同期および Apple のデバイスとアプリを管理します。 

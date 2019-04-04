@@ -40,7 +40,7 @@ ms.locfileid: "58656359"
 IOS の intune for Education の設定を簡単に検索を理解する名前、ツールヒント、およびカテゴリの設定の多くを改訂しましたしています。 これらの設定の詳細な一覧を参照してください。 [Intune for Education で iOS デバイスの設定](all-edu-settings-ios.md)します。  
 
 ### <a name="refined-list-of-ios-settings-in-express-configuration"></a>高速構成での iOS 設定の一覧を絞り込んだ   
-私たちを調整して、[高速構成での iOS 設定の一覧](edu-express-config-settings-ios.md)デバイスを取得して、グループを設定するさらに速くできるようにします。 一部の高速の構成から移動の設定と内を移動する新しい設定を確認します。 高速構成から削除される設定で構成できる**グループ** > **設定** > **iOS のデバイス設定**. Intune for Education でデバイスの設定の完全な一覧で、次を参照してください。 [iOS デバイスの設定](all-edu-settings-ios.md)と[Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
+私たちを調整して、[高速構成での iOS 設定の一覧](edu-express-config-settings-ios.md)デバイスを取得して、グループを設定するさらに速くできるようにします。 一部の高速の構成から移動の設定と内を移動する新しい設定を確認します。 高速構成から削除される設定で構成できる**グループ** > **設定** > **iOS のデバイス設定**. Intune for Education でデバイスの設定の完全な一覧で、[iOS デバイスの設定](all-edu-settings-ios.md)と[Windows 10 デバイスの設定](all-edu-settings-windows.md)を参照してください。  
 
 ###  <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイス用の新しい設定  
 いくつかの新しい Windows 10 デバイスの設定があります。 表示設定のほんの一部を次に示します。  

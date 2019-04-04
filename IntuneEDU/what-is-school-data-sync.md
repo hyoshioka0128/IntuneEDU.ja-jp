@@ -33,7 +33,7 @@ SDS は、SIS の情報のコピーを作成し、Azure Active Directory (Azure 
 * すべての学生
 * すべての教師
 
-Intune for Education グループの作成の詳細については、次を参照してください。[グループを作成する](create-groups.md)します。  
+Intune for Education グループの作成の詳細については、[グループを作成する](create-groups.md)を参照してください。  
 
 ## <a name="set-up-dynamic-group-properties"></a>動的なグループ プロパティを設定します。
 Intune for Education 学校データ同期に、SIS の生徒の情報をインポートする場合は、次のプロパティを含めます。

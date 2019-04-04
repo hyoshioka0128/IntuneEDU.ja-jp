@@ -41,7 +41,7 @@ Intune for Education グループの設定を管理する 2 つの方法はあ�
 * 始めたばかりで、ポータル。
 * 使用してきたことの間と、簡単に変更します。   
 
-高速構成手順の詳細については、次を参照してください。 [intune for Education の構成を Express](Express-configuration-intune-edu.md)します。
+高速構成手順の詳細については、[intune for Education の構成を Express](Express-configuration-intune-edu.md)を参照してください。
 
   ![高速の構成設定の修正プログラム](./media/express-config-006-choose-settings.png)  
 

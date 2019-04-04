@@ -24,7 +24,7 @@ ms.locfileid: "39234429"
 # <a name="all-devices-group-presets-for-windows-10"></a>すべてのデバイスは、Windows 10 用のプリセットをグループ化します。
 アカウントにサインアップすると、Intune for Education 事前設定、設定の一部、すべてのデバイス グループでされます。 これらの設定には、教室での Windows 10 デバイスの管理を簡単に開始するのに役立ちます。 設定を調整するのには、Intune for Education ポータルに移動 >**グループ** > **すべてのデバイス** > **Windows デバイスの設定**します。  
 
-すべての Windows 10 デバイスの設定の説明の一覧については、次を参照してください。 [Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
+すべての Windows 10 デバイスの設定の説明の一覧については、[Windows 10 デバイスの設定](all-edu-settings-windows.md)を参照してください。  
 
 |Category|設定|事前定義された値|
 |---|---|---|

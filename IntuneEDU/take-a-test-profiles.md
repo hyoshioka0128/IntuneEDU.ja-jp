@@ -48,7 +48,7 @@ Take テスト アプリでは、教室の Windows 10 デバイスでのオン�
 * 共有、印刷、または学校または IT 管理者によって許可されない限り、デバイスの画面を記録します。
 
 ### <a name="how-is-assistive-technology-affected"></a>支援技術が影響を受ける方法
-ナレーター--など - 一部のデバイス機能やその他の補助的な技術は、テストの作成中には完全に機能もします。 アプリの機能の一覧は、次を参照してください。[テスト アプリのテクニカル リファレンスをかかる](https://docs.microsoft.com/education/windows/take-a-test-app-technical)します。
+ナレーター--など - 一部のデバイス機能やその他の補助的な技術は、テストの作成中には完全に機能もします。 アプリの機能の一覧は、[テスト アプリのテクニカル リファレンスをかかる](https://docs.microsoft.com/education/windows/take-a-test-app-technical)を参照してください。
 
 
 ## <a name="take-a-test-profile-setup"></a>テスト プロファイルのセットアップを実行します。
