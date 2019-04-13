@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 04/12/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,50 +14,61 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: b056056676d561471ee2de625b7aab0f8d0c6224
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.openlocfilehash: a75f06e7ad7538ca8d0412e656bc4452c7bc48a0
+ms.sourcegitcommit: d419a43462bb32c9780cb32b37556f6d340ae12e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234429"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "59541854"
 ---
 # <a name="all-devices-group-presets-for-windows-10"></a>すべてのデバイスは、Windows 10 用のプリセットをグループ化します。
-アカウントにサインアップすると、Intune for Education 事前設定、設定の一部、すべてのデバイス グループでされます。 これらの設定には、教室での Windows 10 デバイスの管理を簡単に開始するのに役立ちます。 設定を調整するのには、Intune for Education ポータルに移動 >**グループ** > **すべてのデバイス** > **Windows デバイスの設定**します。  
+アカウントにサインアップした後に Intune for Education のプリセットのすべてのデバイス グループの設定の一部です。 これらの設定では、教室での Windows 10 デバイスの管理を簡単に開始するのに役立ちます。 設定を調整するのには、Intune for Education ポータルに移動 >**グループ** > **すべてのデバイス** > **Windows デバイスの設定**します。  
 
-すべての Windows 10 デバイスの設定の説明の一覧については、[Windows 10 デバイスの設定](all-edu-settings-windows.md)を参照してください。  
+すべての Windows 10 デバイスの設定の説明の一覧については、次を参照してください。 [Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
 
 |Category|設定|事前定義された値|
 |---|---|---|
-|Windows Defender|Windows Defender の設定をユーザーのアクセスをブロック|Enabled
-|Windows Defender|リアルタイムの監視|Enabled
-|Windows Defender|動作の監視|Enabled
-|Windows Defender|ユーザーにサンプル送信|データを送信することはありません。
-|Windows Defender|実行するシステム スキャンの種類|クイック スキャン|
-|Windows Defender|日次クイック スキャン時刻|2 午前時|
-|Windows Defender|ダウンロードされたすべてのファイルをスキャンします。|Enabled|
-|Windows Defender|Microsoft の web ブラウザーで実行されるスクリプトをスキャンします。|Enabled|
-|Windows Defender|フル スキャン中にリムーバブル ドライブをスキャンします。|Enabled|
-|Windows Defender|ネットワーク経由で開かれたファイルをスキャンします。|Enabled|
-|Windows Defender|フル スキャン中にリモート フォルダーをスキャンします。|Enabled|
-|Windows Defender|アーカイブ ファイルをスキャンする|Enabled|
-|Windows Defender|着信電子メールをスキャンします。|Enabled|
-|Windows Defender|ファイルとプログラムのアクティビティをスキャンします。|すべてのファイルを監視|
-|Windows Defender|検疫済みマルウェアを削除する前に日|0|
-|Windows Defender|設定の更新頻度|8 時間|
-|Windows Defender|クラウド ベースの保護を有効にします。|Enabled|
-|Microsoft Store|プライベート ストアからインストールする教育機関向け Microsoft Store が必要です。|Require|
-|Microsoft Store|信頼できるアプリ|ブロック|  
-|Microsoft Edge|開発者ツールをブロックする|ブロック|
-|Microsoft Edge|Cortana をブロックします。|ブロック|
-|基本的なデバイス|手動での登録解除をブロックします。|ブロック|
-|基本的なデバイス|プロビジョニング パッケージの追加をブロックします。|ブロック|
-|基本的なデバイス|プロビジョニング パッケージの削除をブロックします。|ブロック|
-|デバイスの更新|ブランチ準備レベル|半期チャネル (対象指定)
-|デバイスの更新|プレリリース版の機能|許可しない
-|デバイスの更新|配信の最適化モード|Nat ピアリング対応のブレンド HTTP |
-|デバイスの更新|更新プログラムとメンテナンス期間|自動的にインストールし、エンドユーザーによる制御なしに再起動|
-|共有デバイス|共有使用のデバイスを最適化します。|Enabled|  
+|アプリ|プライベート ストアからインストールする教育機関向け Microsoft Store が必要です。|Require|
+|アプリ|信頼できるアプリ|ブロック|  
+|アプリ|信頼されていないアプリ|ブロック| 
+|登録コントロール|手動での登録解除をブロックします。|ブロック|
+|登録コントロール|Autopilot のリセットをブロックします。|[有効化]|
+|登録コントロール|プロビジョニング パッケージの追加をブロックします。|ブロック|
+|登録コントロール|プロビジョニング パッケージの削除をブロックします。|ブロック|
+|Microsoft Edge|信頼されていないブラウザー拡張機能をブロックします。 |ブロック|
+|Microsoft Edge|セキュリティの警告をオーバーライドするブロック |ブロック|
+|Microsoft Edge|Cookie を使用する|ユーザー定義
+|ネットワークと接続|ブロック Bluetooth Swift ペア通知 |ブロック
+|セキュリティ|Windows Defender の設定をユーザーのアクセスをブロック|[有効化]
+|セキュリティ|リアルタイム監視を有効にします。|[有効化]
+|セキュリティ|動作の監視を有効にする|[有効化]
+|セキュリティ|不審なファイルを Microsoft に送信を求める|データを送信することはありません。
+|セキュリティ|実行するシステム スキャンの種類|クイック スキャン|
+|セキュリティ|日次クイック スキャン時刻|2 午前時|
+|セキュリティ|ダウンロードされたすべてのファイルをスキャンします。|[有効化]|
+|セキュリティ|Microsoft の web ブラウザーで実行されるスクリプトをスキャンします。|[有効化]|
+|セキュリティ|フル スキャン中にリムーバブル ドライブをスキャンします。|[有効化]|
+|セキュリティ|ネットワーク経由で開かれたファイルをスキャンします。|[有効化]|
+|セキュリティ|フル スキャン中にリモート フォルダーをスキャンします。|[有効化]|
+|セキュリティ|アーカイブ ファイルをスキャンする|[有効化]|
+|セキュリティ|着信電子メールをスキャンします。|[有効化]|
+|セキュリティ|ファイルまたはプログラムを開いたときにマルウェアのスキャンします。|すべてのファイルを監視|
+|セキュリティ|検疫済みマルウェアを削除する前に日|0|
+|セキュリティ|マルウェア対策の更新頻度を設定します。|8 時間|
+|セキュリティ|クラウドによる保護を有効にします。|[有効化]|
+|セキュリティ|ネットワーク検査サービスを有効にします。|[有効化]|
+|更新プログラムとアップグレード |ブランチ準備レベル|半期チャネル|
+|更新プログラムとアップグレード |構成の更新プログラムがインストールされている方法とタイミング|自動的にインストールし、エンドユーザーによる制御なしに再起動| 
+|更新プログラムとアップグレード |利用可能になった後、機能更新プログラムを遅延させる日数 |0|
+|更新プログラムとアップグレード |利用可能になった後は、品質更新プログラムを遅延させる日数  |0|
+|更新プログラムとアップグレード |配信の最適化モード|Nat ピアリング対応の HTTP |
+|更新プログラムとアップグレード |秒の各モードの切り替え|秒の各モードにしてください。|
+|ユーザー側の表示と操作|Cortana をブロックします。|ブロック|
+|ユーザー側の表示と操作|診断データを送信します。|基本|
+|ユーザー側の表示と操作|Windows スポット ライトをブロック|ブロック|  
+
 
 ## <a name="next-steps"></a>次の手順
+Intune for Education で利用できる Windows 10 設定の完全な一覧で、次を参照してください。[すべての Windows 10 設定](all-edu-settings-windows.md)します。  
 
-- [完全な Windows 10 の設定の管理エクスペリエンス Intune で使用可能な詳細します。](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
+カスタム設定は、Azure portal で Intune で使用できます。 詳細については、次を参照してください。 [Windows 10 デバイス用のカスタム設定を使用して](https://docs.microsoft.com/intune/custom-settings-windows-10)します。  
