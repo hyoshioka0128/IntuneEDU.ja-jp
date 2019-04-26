@@ -15,11 +15,11 @@ ms.assetid: ''
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: b24bee7052c07fc9fbde9ea1d8cde20efa97108c
-ms.sourcegitcommit: 1368a4ae07115555b4ba5b1463eacdc74be6a7d6
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "54270340"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146465"
 ---
 # <a name="autopilot-reset"></a>Autopilot のリセット
 Autopilot のリセットを使用する、デバイスから個人のファイル、アプリ、および設定を削除します。 デバイスは Intune で登録されたままし、完全に構成されているか、既知の IT 承認済み状態に戻ります。

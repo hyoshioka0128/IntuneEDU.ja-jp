@@ -15,11 +15,11 @@ ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 998b207bdfc0f8d48cd7eddff3020d00673377a2
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234382"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62145988"
 ---
 # <a name="what-are-group-settings"></a>グループ設定とは
 
@@ -31,7 +31,7 @@ ms.locfileid: "39234382"
 
 Intune for Education グループの設定を管理する 2 つの方法はあります。  
 
-* __高速構成__: 学校の最もよく使用される設定の選択範囲を構成します。 [高速構成](Express-configuration-intune-edu.md)に選択し、割り当てるグループの設定に役立つチュートリアル形式のセットアップが簡単にします。 設定は、Microsoft の推奨値に事前に構成が、学校のポリシーに合わせて変更することができます。 
+* __高速構成__:学校が最もよく使用される設定の選択範囲を構成します。 [高速構成](Express-configuration-intune-edu.md)に選択し、割り当てるグループの設定に役立つチュートリアル形式のセットアップが簡単にします。 設定は、Microsoft の推奨値に事前に構成が、学校のポリシーに合わせて変更することができます。 
 
 * __グループ__: デバイスまたはユーザーのすべてのグループのすべての設定を構成します。 **グループ** タブで、ポータルで使用できる設定の完全な一覧が表示されます。 参照してください設定できるは[Windows](all-edu-settings-windows.md)および[iOS](all-edu-settings-ios.md)グループ。  
 
@@ -41,7 +41,7 @@ Intune for Education グループの設定を管理する 2 つの方法はあ�
 * 始めたばかりで、ポータル。
 * 使用してきたことの間と、簡単に変更します。   
 
-高速構成手順の詳細については、[intune for Education の構成を Express](Express-configuration-intune-edu.md)を参照してください。
+高速構成手順の詳細については、次を参照してください。 [intune for Education の構成を Express](Express-configuration-intune-edu.md)します。
 
   ![高速の構成設定の修正プログラム](./media/express-config-006-choose-settings.png)  
 
@@ -52,7 +52,7 @@ Intune for Education グループの設定を管理する 2 つの方法はあ�
 2. 構成するグループを選択します。
 3. クリックして**設定**使用可能な設定の完全な一覧を表示します。
 4. 選択したグループの個々 の設定を変更するには、各カテゴリを展開します。
-5. 完了したら、クリックして**保存**します。 設定は、グループ内のすべてのデバイスで自動的に更新されます。  
+5. 完了したら **[保存]** をクリックします。 設定は、グループ内のすべてのデバイスで自動的に更新されます。  
 
 ## <a name="can-i-ever-have-settings-that-dont-work-together"></a>これまで一緒に動作しない設定ことはできますか。
 

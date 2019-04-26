@@ -15,11 +15,11 @@ ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 260679748d8ddb891d042abd6e0d7d0f5f698b34
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234286"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146549"
 ---
 # <a name="installing-apps-on-school-devices"></a>学校のデバイスでアプリのインストール
 

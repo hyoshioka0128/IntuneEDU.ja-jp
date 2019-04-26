@@ -15,11 +15,11 @@ ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 55bce2302fb9ce09b9eadcf74a7b7281f90a0a2b
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234656"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147597"
 ---
 # <a name="navigate-your-dashboard"></a>ダッシュ ボードに移動します
 

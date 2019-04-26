@@ -15,11 +15,11 @@ ms.assetid: 9319be2e-cb7e-43c1-98fe-64281c8c09fd
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 867d23e70a7cb1db5b1cde159b34f0515558252b
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230019"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146566"
 ---
 # <a name="delegate-admin-permissions-to-groups"></a>グループに管理者アクセス許可の委任
 IT スタッフは、学校を通じて学生、教員、および管理者の複数のグループを管理します。  

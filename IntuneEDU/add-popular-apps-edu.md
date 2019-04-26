@@ -15,11 +15,11 @@ ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: e6ee7ab9800f294da226933cf6599b25b92a75ed
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234301"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147109"
 ---
 # <a name="add-popular-apps-to-intune-for-education"></a>Intune for Education に人気のあるアプリを追加します。  
 

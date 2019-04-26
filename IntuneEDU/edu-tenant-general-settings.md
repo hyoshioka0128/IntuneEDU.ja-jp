@@ -15,11 +15,11 @@ ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 3a5f494783f244e6a925a8dfa0b008af17366d52
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234349"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146957"
 ---
 # <a name="edit-general-tenant-settings"></a>一般的なテナント設定を編集します。
 学生と教員できますを依頼するデバイスや Intune 関連の質問するために、組織のサポート情報を入力します。 明記されない限り、提供する詳細は、ポータル サイト アプリ全体のユーザーに表示されます。

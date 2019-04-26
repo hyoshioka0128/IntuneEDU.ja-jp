@@ -15,11 +15,11 @@ ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 68ada27c071764ee69cbc7fd384f81368f44363a
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230070"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146497"
 ---
 # <a name="how-should-i-enroll-devices"></a>デバイスはどのように登録する必要がありますか。
 

@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 02/05/2019
+ms.date: 04/19/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,17 +15,33 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 97a2677c324d8ad2d8655b4fd659eef2b179a500
-ms.sourcegitcommit: 7783de1b4b3074d80f463cd5d91cf073db77121d
+ms.openlocfilehash: d4c4509b07ace61294e8e06368d5c62e0a650639
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "55764244"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147433"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
 
-## <a name="february-2019"></a>2 月 2019  
+## <a name="april-2019"></a>4 月 2019  
+
+### <a name="updated-ios-settings-names-and-added-more-tooltips"></a>IOS の設定名を更新し、複数のツールヒントを追加  
+IOS の intune for Education の設定を簡単に検索を理解する名前、ツールヒント、およびカテゴリの設定の多くに改訂しました。 これらの設定の詳細な一覧を参照してください。 [Intune for Education で iOS デバイスの設定](all-edu-settings-ios.md)します。  
+
+### <a name="refined-list-of-ios-settings-in-express-configuration"></a>高速構成での iOS 設定の一覧を絞り込んだ   
+私たちが調整、[高速構成での iOS 設定の一覧](edu-express-config-settings-ios.md)デバイスを取得して、グループを設定するさらに速くできるようにします。 一部の設定が高速の構成と内を移動する新しい設定から移動することを確認します。 削除の設定は構成内に引き続き使用できます**グループ** > **設定** > **iOS デバイスの設定**します。 Intune for Education でデバイスの設定の完全な一覧で、次を参照してください。 [iOS デバイスの設定](all-edu-settings-ios.md)と[Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
+
+###  <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイスの新しい設定  
+いくつかの新しい Windows 10 デバイスの設定があります。 Intune for Education で構成できるようになりました設定のほんの一部を次に示します。
+* Windows Update の通知:この設定では、ユーザーが Windows の更新に関する通知を表示するかどうかを選択できます。  
+* Windows の手動更新:この設定では、ユーザーが Windows 更新プログラムのスキャン、ダウンロード、および機能のインストールへのアクセスがあるかどうかを選択できます。  
+
+### <a name="apply-an-ios-device-naming-template"></a>IOS デバイスの名前付けテンプレートを適用します。  
+グループ化し、iOS デバイスを識別するのに役立つ新しい名前付けの設定が追加されました。 IOS の登録と MDM サーバー トークンのセットアップでは、Intune for Education に自動的に名前が一意のデバイスのシリアル番号を使用してデバイスの各します。 など、独自の名前を追加することができますし、 *Contoso*または*Math1*プレフィックスにします。 名前をカスタマイズする場合は、デバイスのシリアル番号がの末尾にアタッチされます。 以下に例を示します。*Contoso012a345b67c8*  
+
+## <a name="february-2019"></a>2019 年 2 月  
 
 ### <a name="set-custom-wallpaper-and-lock-screen-images-for-your-ios-devices"></a>カスタムの壁紙を設定し、iOS デバイスの画面イメージをロック  
 Intune for Education を使用して、独自の壁紙を設定し、学校のデバイスで画面をロックすることができますようになりました。 イメージをアップロードするには**グループ** > **iOS デバイスの設定** > **壁紙、ロック画面イメージ**します。  
@@ -36,9 +52,9 @@ Intune for Education を使用して、独自の壁紙を設定し、学校の�
 ## <a name="january-2019"></a>2019 年 1 月  
 
 ### <a name="set-up-ios-devices-with-shared-ipad-features"></a>共有 iPad 機能を使用して iOS デバイスをセットアップします。
-Intune for Education で iOS デバイスの登録の設定を構成、するときに今すぐ共有 iPad 機能を有効になっているを登録する iOS デバイスを構成するオプションがあります。  共有の iPad が管理されている Apple ID を持つ school デバイスにサインインするには、学生と教員を必要とする iOS の機能 デバイスを有効になっている保存されたアクセスし、実行中の作業、アプリ、およびタスクに学校との間サインインすることができます。 Intune for Education で共有 iPad の詳細については、[Shared iPad 構成](setup-ios-device-management.md#shared-ipad-configuration)を参照してください。  
+Intune for Education で iOS デバイスの登録の設定を構成、するときに今すぐ共有 iPad 機能を有効になっているを登録する iOS デバイスを構成するオプションがあります。  共有の iPad が管理されている Apple ID を持つ school デバイスにサインインするには、学生と教員を必要とする iOS の機能 デバイスを有効になっている保存されたアクセスし、実行中の作業、アプリ、およびタスクに学校との間サインインすることができます。 Intune for Education で共有 iPad の詳細については、次を参照してください。 [Shared iPad 構成](setup-ios-device-management.md#shared-ipad-configuration)します。  
 
-### <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイス用の新しい設定  
+### <a name="new-settings-for-windows-10-devices"></a>Windows 10 デバイスの新しい設定  
 セキュリティ、Windows 更新プログラム、サインインのデバイスおよびブラウザー エクスペリエンスなどの領域をさらに制御を提供する新しい設定が追加されました。 この 1 か月が表示されます、いくつかの新しい設定を次に示します。  
 
 * **Azure Active Directory テナントの優先ドメインを構成する**:この設定は、テナントのドメイン名のないデバイスにサインインする受講者を許可します。 その別名だけに迅速かつ簡単に、受講者サインインできます。  
@@ -48,7 +64,7 @@ Intune for Education で iOS デバイスの登録の設定を構成、すると
 * **スイッチのモードを解除**:この設定は、管理者が S のモードで Windows 10 からデバイスを切り替えることができます。 または学生が S モードから自分のデバイスを切り替えることを防ぎます。    
 
 ### <a name="updated-windows-settings-names-and-added-useful-tooltips"></a>更新された Windows 設定の名前と便利なツールヒントが追加されました  
-設定の名前と intune for Education に検索を理解しやすくためのヒントの多くが改訂されいます。 さらに多くの詳細については、各設定では、[Intune for Education の Windows 10 デバイスの設定](all-edu-settings-windows.md)を参照してください。  
+設定の名前と intune for Education に検索を理解しやすくためのヒントの多くが改訂されいます。 さらに多くの詳細については、各設定では、次を参照してください。 [Intune for Education の Windows 10 デバイスの設定](all-edu-settings-windows.md)します。  
 
 ### <a name="rename-windows-devices"></a>Windows デバイスの名前を変更します。  
 For Education ポータルが Intune からリモートで任意の Windows 10 (バージョン 1803 以降) デバイスの名前を変更します。 名前を変更するには**デバイス**、デバイスを選択します > **Rename デバイス**します。 デバイスを変更することも、**デバイスの詳細**ページ。  

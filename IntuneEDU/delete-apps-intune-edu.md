@@ -15,11 +15,11 @@ ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 3e1a0e09d63e8399fb24ac20c5c5d0caa581ddfd
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234691"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146632"
 ---
 # <a name="delete-apps-from-intune-for-education"></a>教育機関向けアプリを Intune から削除します。 
 アプリを Intune テナントから削除します。 削除済みのアプリは、グループの割り当てから削除されます*と*デバイスからアンインストールします。  

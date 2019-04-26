@@ -15,11 +15,11 @@ ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 63705b1370379efe03b70876b6313a906a57719e
-ms.sourcegitcommit: df7cc44fdc6632ffcbe5b80e223a1de3c51e8d67
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "57981154"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146821"
 ---
 # <a name="windows-10-device-settings-in-intune-for-education"></a>Intune for Education の Windows 10 デバイスの設定
 
@@ -107,7 +107,7 @@ Microsoft Edge ブラウザーの経験とユーザー データに影響する�
 |開発者ツールをブロックします。|開発者ツールにアクセスするユーザーをブロックします。 Microsoft Edge 開発者ツールの構築し、web ページをデバッグできるようにします。|
 |Microsoft Edge のお気に入りを Internet Explorer と同期する|Microsoft Edge から Internet Explorer へのすべてのお気に入りを同期します。| 
 |終了時に閲覧データをクリアする|Microsoft Edge を閉じた後、履歴、cookie、およびキャッシュされたファイルを自動的に消去します。|
-|Cookie を使用します。|Cookie が web サイトの設定を保存または追跡のユーザーの動作を閲覧します。|
+|Cookie を使用する|Cookie が web サイトの設定を保存または追跡のユーザーの動作を閲覧します。|
 
 
 ## <a name="network-and-connectivity"></a>ネットワークと接続   
@@ -223,11 +223,11 @@ Windows Defender、Windows SmartScreen のセキュリティ設定を構成し�
 * ヒント
 * 自分のオフィス
 * ソリティア コレクション
-* モバイルの計画
+* モバイル通信プラン
 * Windows フィードバック Hub
 * Xbox
 * Groove ミュージック
-* メール
+* Mail
 * 予定表
 * Skype  
 
@@ -247,7 +247,7 @@ Windows Defender、Windows SmartScreen のセキュリティ設定を構成し�
 |生徒は Windows 10 のプレリリース版の機能を参照してください。|受講者が確認の設定のプレリリース版の機能、設定と実験のプレリリース版の機能またはプレリリース機能がないかどうかに選択します。|
 |配信の最適化モード|デバイスに更新プログラムを配信する方法を選択します。|  
 
-### <a name="upgrade"></a>アップグレード パッケージ、アップグレード
+### <a name="upgrade"></a>アップグレード
 |設定|内容|
 |---|---|
 |Windows のエディションにアップグレードするには| このグループ内のデバイスを Windows 10 の別のエディションにアップグレードします。 選択、**エディションにアップグレードする**を入力し、**プロダクト キー**します。|
@@ -259,7 +259,7 @@ Windows Defender、Windows SmartScreen のセキュリティ設定を構成し�
   * デバイスの制限  
   * ロック画面とデスクトップ  
   * [設定] アプリ  
-  * スタート メニュー  
+  * [スタート] メニュー  
 
 ### <a name="device-restrictions"></a>デバイスの制限  
 
@@ -304,7 +304,7 @@ Windows Defender、Windows SmartScreen のセキュリティ設定を構成し�
 |アプリ|アンインストール、既定値、および省略可能な機能をブロックします。|
 |ゲーム|ゲームのバー、DVR、ブロードキャスト、およびゲーム モードをブロックします。|  
 
-### <a name="start-menu"></a>スタート メニュー  
+### <a name="start-menu"></a>[スタート] メニュー  
 
 |設定|内容|
 |---|---|

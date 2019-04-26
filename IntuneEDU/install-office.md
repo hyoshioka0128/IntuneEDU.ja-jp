@@ -15,11 +15,11 @@ ms.assetid: 1673246c-4e05-4d50-9ac9-3cffaa5b7a63
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 2cbbeb9d367b94722a9146a995f53e786b4debb5
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230138"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147374"
 ---
 # <a name="add-microsoft-office-to-windows-10-devices"></a>Windows 10 デバイスに Microsoft Office を追加します。
 

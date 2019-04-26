@@ -15,11 +15,11 @@ ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: eb3b697973d37d5b4697559b3ba87b64ba9afdb3
-ms.sourcegitcommit: 42d2f9a2af38c7db9303aed882e5ced4fd930f7d
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2018
-ms.locfileid: "39410783"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147320"
 ---
 # <a name="express-configuration-in-intune-for-education"></a>Intune for Education で高速構成
 
@@ -80,7 +80,7 @@ Intune for Education も表示されます[教育機関向け Microsoft Store �
 
 
 ## <a name="choose-settings"></a>設定を選択します。
-高速構成によって、Intune でデバイスとユーザーの一般的な設定が表示します。 設定は、OS 固有のカテゴリに分類されます。 Windows の設定と iOS の設定。
+高速構成によって、Intune でデバイスとユーザーの一般的な設定が表示します。 設定は、OS 固有のカテゴリに分類されます。Windows の設定および iOS の設定。
 
 推奨値では、既定の設定が事前設定します。 推奨設定を使用しないと変更を行った、 をクリックする場合**次**します。 設定は、グループにすぐに適用されます。 
 

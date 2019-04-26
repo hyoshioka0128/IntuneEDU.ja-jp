@@ -15,18 +15,18 @@ ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 5a981fb8916dc0318cc1599002ebe9001f1ef41b
-ms.sourcegitcommit: f2b41a6a72016fbf36924881a312ec194ef5c0d6
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "47237529"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146923"
 ---
 # <a name="what-is-settings-inheritance"></a>設定の継承とは何ですか。
 
 設定は、グループに適用されます。 グループが、上記の 1 つのグループの階層として設定するため、グループに適用されるすべての設定は、サブグループによって継承されます。 サブグループは、すぐ上のグループに加えた変更は、自動的にことができます。 このアクションの呼び出し_継承_します。 設定の継承 ia に多数のユーザーとデバイスの設定を適用する場合に便利です。  
 
 
-  ![グループとサブグループのツリー。](./media/groups-002-inheritance.png)  
+  ![グループとサブグループのツリー。](./media/groups-002-inheritance.png)  
 
 
 ## <a name="configure-subgroups-individually"></a>サブグループを個別に構成します。  
@@ -47,7 +47,7 @@ ms.locfileid: "47237529"
 
 ## <a name="settings-error-report"></a>設定エラー レポート
 
-設定を解決できない場合は、設定のエラー レポートに表示されます。 レポートの詳細については、[レポートの表示とダウンロード](what-are-reports.md)を参照してください。  
+設定を解決できない場合は、設定のエラー レポートに表示されます。 レポートの詳細については、次を参照してください。[レポートの表示とダウンロード](what-are-reports.md)します。  
 
 ## <a name="next-steps"></a>次の手順  
 詳細について、[すべてのグループが Intune で経験](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)します。

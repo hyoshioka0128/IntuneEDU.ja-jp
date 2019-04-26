@@ -15,11 +15,11 @@ ms.assetid: e38a808b-bbfb-4cbc-835a-f99b1c85a048
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: d4de9ec965b4ab227dfd49f081d71a514853394d
-ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "45534195"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146089"
 ---
 # <a name="get-apps-from-the-microsoft-store-for-education"></a>教育機関向け Microsoft Store からアプリを入手します。
 

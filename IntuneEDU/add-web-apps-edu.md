@@ -15,11 +15,11 @@ ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 1de5a38886ad8e2c8e7cc7e40f0522c3713423bf
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234398"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146893"
 ---
 # <a name="add-web-apps-to-intune-for-education"></a>Intune for Education に web アプリを追加します。  
 
@@ -37,4 +37,4 @@ Web アプリを Intune for Education のインベントリに追加します。
 
    ![ユーザーに次の手順で説明されている情報を求められます。 新しい web アプリ ページを追加します。](./media/apps-001-add-webapp.png)
 
-5. **[Save]**(保存) をクリックします。 アプリの一覧で、アプリが表示されます**WEB APPS**します。 アプリの一覧にアプリをクリックして、いつでもアプリの詳細を編集することができます >**編集**します。  
+5. **[保存]** をクリックします。 アプリの一覧で、アプリが表示されます**WEB APPS**します。 アプリの一覧にアプリをクリックして、いつでもアプリの詳細を編集することができます >**編集**します。  

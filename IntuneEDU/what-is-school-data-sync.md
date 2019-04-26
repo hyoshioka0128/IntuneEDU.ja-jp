@@ -15,11 +15,11 @@ ms.assetid: f9cb6daf-a789-427b-bbfd-fa0a3d36e01f
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: ec80e1b8f8d2851814227420b5026dd3c488277c
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230053"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146571"
 ---
 # <a name="microsoft-school-data-sync-and-intune-for-education"></a>Microsoft 学校データ同期と Intune for Education
 
@@ -33,7 +33,7 @@ SDS は、SIS の情報のコピーを作成し、Azure Active Directory (Azure 
 * すべての学生
 * すべての教師
 
-Intune for Education グループの作成の詳細については、[グループを作成する](create-groups.md)を参照してください。  
+Intune for Education グループの作成の詳細については、次を参照してください。[グループを作成する](create-groups.md)します。  
 
 ## <a name="set-up-dynamic-group-properties"></a>動的なグループ プロパティを設定します。
 Intune for Education 学校データ同期に、SIS の生徒の情報をインポートする場合は、次のプロパティを含めます。
@@ -42,7 +42,7 @@ Intune for Education 学校データ同期に、SIS の生徒の情報をイン�
 
 これらのプロパティは作成するために必要な[動的グループ](create-groups.md#dynamic-groups)Intune for Education ポータルでの学生向けの規則。  プロパティは、SDS アプリから構成し、内にある__学生オプション__ > __学生のプロパティ を選択__します。
 
-## <a name="what-is-azure-ad"></a>Azure AD とは何ですか。
+## <a name="what-is-azure-ad"></a>Azure AD の概要ページ
 Azure AD が Intune に統合された Microsoft 管理システムと受講者とデバイスを整理するのに役立ちます。 学生と教員、外のグループを作成できます*4 日の期間の生物学*または*Contoso District 教師*します。 グループは、割り当て、ユーザーまたはデバイスに固有のアプリ、設定、および制限を配布する必要があります。
 
 ## <a name="next-steps"></a>次の手順   

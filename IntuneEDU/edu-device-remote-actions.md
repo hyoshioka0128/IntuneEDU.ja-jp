@@ -15,11 +15,11 @@ ms.assetid: df7cabf2-1723-4817-b16c-800407a0c753
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: f19a24c78ad3a155b33ccc05bc266160fce7387e
-ms.sourcegitcommit: 624b8b648e3148b484f4de163b45bc6c9ea98ac9
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/31/2019
-ms.locfileid: "55450187"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146787"
 ---
 # <a name="manage-devices-remotely"></a>デバイスをリモートで管理します。  
 

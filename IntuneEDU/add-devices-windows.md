@@ -15,11 +15,11 @@ ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 1cb892665cc597e29ad315fe4d95a2e1ec26c2f2
-ms.sourcegitcommit: 794f91f13bce28decbaa01b6a2638da1c068057b
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "50253268"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146421"
 ---
 # <a name="add-windows-devices"></a>Windows デバイスを追加します。
 
@@ -28,7 +28,7 @@ ms.locfileid: "50253268"
 ## <a name="setting-up-devices-with-windows-autopilot"></a>Windows Autopilot のデバイスのセットアップ
 [Windows Autopilot](https://docs.microsoft.com/intune/enrollment-autopilot) for Azure portal で Intune に設定するには、教育機関が Intune との互換性です。 Autopilot を使用してデバイスをセットアップするには[Intune](https://portal.azure.com) > デバイスの登録 > Windows 登録 > デバイス。  
 
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>アンインストールの準備
 セットアップ中には、インターネットへのアクセスがデバイスに必要です。 
 
 ## <a name="windows-device-setup"></a>Windows デバイスのセットアップ

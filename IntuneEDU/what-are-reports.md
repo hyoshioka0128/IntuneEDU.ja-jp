@@ -16,11 +16,11 @@ searchScope:
 - IntuneEDU
 ms.reviewer: travisj
 ms.openlocfilehash: 8bc3fe827d3ca1b37a1b0f8ab226d4d15a30db05
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39230240"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147255"
 ---
 # <a name="view-and-download-reports"></a>表示し、レポートのダウンロード  
 

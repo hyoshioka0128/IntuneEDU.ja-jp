@@ -15,11 +15,11 @@ ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: e56618420c1726f66bb7d3ab3662332c8e320468
-ms.sourcegitcommit: d419a43462bb32c9780cb32b37556f6d340ae12e
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "59905215"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146517"
 ---
 # <a name="default-windows-10-configurations-in-express-configuration"></a>高速構成の既定の Windows 10 の構成
 構成は、Windows デバイスを簡単に設定するための最も一般的な Windows 設定を表します。 この記事では、これらの設定ごとの一覧を表示し、その実行内容について説明します。

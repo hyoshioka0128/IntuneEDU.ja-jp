@@ -15,11 +15,11 @@ ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 36f545b21c94b4ab171b5dc7201eb4db2f58b7e1
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234365"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62145919"
 ---
 # <a name="enroll-ios-devices-in-intune-for-education"></a>教育機関向けの Intune で iOS デバイスを登録します。
 

@@ -15,13 +15,13 @@ ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: f01e755c2dcb1bf94c53e3287185518d30f10fb7
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234317"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146722"
 ---
-# <a name="delete-a-group"></a>グループを削除します。  
+# <a name="delete-a-group"></a>グループを削除する  
 
 削除すると、*デバイス*グループ、アプリと設定は、グループに所属していたデバイスから削除されます。 デバイス自体は削除されません。 削除すると、*ユーザー*グループ、割り当てられているアプリをユーザーがメンバーにアクセスできなくします。 ユーザー自身は削除されません。
 

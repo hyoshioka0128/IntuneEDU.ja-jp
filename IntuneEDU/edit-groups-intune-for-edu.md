@@ -15,17 +15,17 @@ ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 5b613975d82da276c9735a713f9bd80d3e3d7a8c
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234397"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147026"
 ---
 # <a name="edit-existing-groups"></a>既存のグループを編集します。
 
 この記事では、Intune for Education ポータルから、次のグループ属性を変更する方法を説明します。 >**グループ**ページ。
 
-* [グループ名]
+* グループ名
 * グループのメンバーシップ
 * リストの場所
 * グループの規則 

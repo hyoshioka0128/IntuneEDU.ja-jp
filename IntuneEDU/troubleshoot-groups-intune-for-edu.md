@@ -15,11 +15,11 @@ ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: dc0daff52ab3d0348b7cb0fb9256c6cf480def6b
-ms.sourcegitcommit: 490013e832ace9d475d81c4920cc99e03648f071
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "48866052"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147476"
 ---
 # <a name="troubleshooting-group-actions"></a>アクション グループのトラブルシューティング
 

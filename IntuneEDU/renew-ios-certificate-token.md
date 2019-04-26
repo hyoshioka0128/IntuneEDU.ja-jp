@@ -15,11 +15,11 @@ ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: a5989a02466183e4c891851598ffc885588c78fe
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234413"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146614"
 ---
 # <a name="renew-ios-certificate-and-tokens"></a>IOS の証明書とトークンを更新します。
 Apple MDM プッシュ証明書、MDM サーバー トークン、および VPP トークンは、作成した後、365 日に期限が切れます。 Intune for Education はアラートを生成するときに、証明書またはトークンに近いか、過去の有効期限の日付。 
@@ -40,7 +40,7 @@ MDM プッシュ証明書は、その作成に使用する Apple ID に関連付
 6. Apple ポータルで手順を実行します。 証明書の状態を読み取るとき**Active**をダウンロードし、保存、もう一度クリックします。
 7. Intune for Education ポータルに戻り、Apple Push Certificates portal にサインインするために使用する Apple ID を入力します。
 8. ダウンロードした証明書をアップロードします。
-9. **[Save]**(保存) をクリックします。
+9. **[保存]** をクリックします。
 
 ## <a name="renew-mdm-server-token"></a>MDM サーバー トークンを更新します。
 
@@ -55,7 +55,7 @@ MDM サーバー トークンは、サーバーを追加するために使用す
 5. 指示に従って、 **MDM サーバー トークン**ページ。 新しい MDM サーバー トークンを生成する Apple School Manager にアクセスする必要があります。 忘れないでください。 Apple School Manager、元のトークンを取得するために使用する Apple ID でサインインします。
 6. ダウンロードして、Apple School Manager から新しいトークンを保存した後は、Intune for Education ポータルに戻ります。 元のトークンを作成するために使用した Apple ID を入力します。
 7. ダウンロードしたトークンをアップロードします。
-8. **[Save]**(保存) をクリックします。
+8. **[保存]** をクリックします。
 
 
 ## <a name="renew-vpp-token"></a>VPP トークンを更新します。
@@ -65,14 +65,14 @@ VPP トークンは、その作成に使用する Apple ID に関連付けられ
 
 1. **IOS デバイス管理** ページで、をクリックして、 **VPP トークン**タブ。
 2. 更新するトークンを選択します。
-3. [ **VPP トークン: Microsoft Intune**、] をクリックして**更新トークン**します。
+3. [ **VPP トークン。Microsoft Intune**、] をクリックして**更新トークン**します。
 4. 指示に従って、 **VPP トークン**ページ。 新しいトークンを取得する Apple School Manager にアクセスするために必要になります。 忘れないでください、元のトークンを取得するために使用する Apple ID でサインインします。
 5. 作成し、トークンをダウンロードする Apple School Manager での手順に従います。 トークンをコンピューターに保存します。
 6. Intune for Education ポータルに戻ります。 Apple School Manager にサインインするために使用する Apple ID を入力します。
 7. 参照コンピューターのファイル フォルダー アイコンをクリックします。 トークンをダウンロードして、以前に保存したファイルを選択します。
 8. 学校のデバイスの場所を選択します。
 9. アプリの自動更新を有効にしない場合は、それらを無効にする設定を切り替えます。 
-10. **[Save]**(保存) をクリックします。
+10. **[保存]** をクリックします。
 
 ## <a name="next-steps"></a>次の手順
 確認できたので、証明書とトークンを更新すると、[グループ設定](edit-groups-intune-for-edu.md)が最新の状態。 Intune でグループの現在の状態を表示するについて説明します。 方法[レポートを表示する](what-are-reports.md)します。  

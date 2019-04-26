@@ -15,11 +15,11 @@ ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 18c4e4db1bfe3a5759058d5e4b3cc90945097146
-ms.sourcegitcommit: 43b564a50161bf51213cef0a92969412c7545948
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "45534212"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62147561"
 ---
 # <a name="add-a-take-a-test-profile-in-intune-for-education"></a>Intune for Education で、テストの受験プロファイルを追加します。
 
@@ -48,7 +48,7 @@ Take テスト アプリでは、教室の Windows 10 デバイスでのオン�
 * 共有、印刷、または学校または IT 管理者によって許可されない限り、デバイスの画面を記録します。
 
 ### <a name="how-is-assistive-technology-affected"></a>支援技術が影響を受ける方法
-ナレーター--など - 一部のデバイス機能やその他の補助的な技術は、テストの作成中には完全に機能もします。 アプリの機能の一覧は、[テスト アプリのテクニカル リファレンスをかかる](https://docs.microsoft.com/education/windows/take-a-test-app-technical)を参照してください。
+ナレーター--など - 一部のデバイス機能やその他の補助的な技術は、テストの作成中には完全に機能もします。 アプリの機能の一覧は、次を参照してください。[テスト アプリのテクニカル リファレンスをかかる](https://docs.microsoft.com/education/windows/take-a-test-app-technical)します。
 
 
 ## <a name="take-a-test-profile-setup"></a>テスト プロファイルのセットアップを実行します。

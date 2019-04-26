@@ -15,11 +15,11 @@ ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 91c7a3bd20bcc51000ce16a1f77109c2093bb21b
-ms.sourcegitcommit: ecf53ed32308ea0f592788e19f8649801997cbdb
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2018
-ms.locfileid: "39234692"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146056"
 ---
 # <a name="add-desktop-apps-in-intune-for-education"></a>Intune for Education でデスクトップ アプリを追加します。
 
@@ -37,7 +37,7 @@ ms.locfileid: "39234692"
    * **パブリッシャー** -すぐに始めるため、アプリの発行元の名前は、アプリ開発者を識別します。
    * **アイコン**-アプリのアイコンとして使用する PNG または JPG ファイルをアップロードします。
 5. フォルダー アイコンをクリックし、コンピューターからのアプリのインストール ファイルを選択します。 
-6. **[Save]**(保存) をクリックします。 アプリは、Intune for Education にし、アップロードされます。 アップロードが完了したら[デバイスにアプリを割り当てる](install-apps.md)します。 
+6. **[保存]** をクリックします。 アプリは、Intune for Education にし、アップロードされます。 アップロードが完了したら[デバイスにアプリを割り当てる](install-apps.md)します。 
 
    ![サンプル アプリでは、evernote 追加新しいデスクトップ アプリ、画面のすべてのフィールドが記入します。](./media/apps-004-filled-out-desktop-app.png)  
 

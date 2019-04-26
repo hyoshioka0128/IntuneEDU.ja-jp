@@ -15,11 +15,11 @@ ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
 searchScope:
 - IntuneEDU
 ms.openlocfilehash: 26b9a9c6eaabe85dbe77acd9a52f7b86b8a99d4d
-ms.sourcegitcommit: 601970b9184231765c9b51dc8a69b68cdf60634e
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/30/2018
-ms.locfileid: "43312526"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146991"
 ---
 # <a name="add-enrollment-managers"></a>登録マネージャーを追加します。  
 
@@ -27,18 +27,18 @@ ms.locfileid: "43312526"
 
  登録マネージャー アカウントは、共有の Windows 10 デバイスを登録するのには、何千ものある大規模な組織で役立ちます。  
 
-## <a name="requirements"></a>要件  
+## <a name="requirements"></a>必要条件  
 
 ユーザーをデバイス登録マネージャーとして追加するには、そのユーザーが Azure Portal に存在する必要があります。
 
-デバイス登録のアクセス許可は、他の登録方法では使用できません: Apple Configurator セットアップ アシスタントで Apple Configurator と直接登録、Apple School Manager (ASM) または Device Enrollment Program (DEP) とします。  
+デバイス登録のアクセス許可は、他の登録方法と一緒に使用できません。Apple Configurator セットアップ アシスタント、Apple Configurator と直接登録、Apple School Manager (ASM) または Device Enrollment Program (DEP) を使用します。  
 
 ## <a name="assign-enrollment-permissions"></a>登録のアクセス許可を割り当てる  
 
 1. 教育機関向けのダッシュ ボードは、Intune から次のようにクリックします。**登録マネージャー**します。
 2. **[登録のアクセス許可を割り当てます] をクリック**します。
 3. アクセス許可を割り当てるユーザーを選択します。 ユーザーの名前がわかっている場合、検索フィールドに検索できます。
-4. **[Save]**(保存) をクリックします。
+4. **[保存]** をクリックします。
 
 ## <a name="remove-enrollment-permissions"></a>登録のアクセス許可を削除します。  
 1. **登録マネージャー**画面の左側に移動し、ユーザーを選択します。 
