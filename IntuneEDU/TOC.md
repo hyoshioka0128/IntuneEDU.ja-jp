@@ -1,5 +1,5 @@
 # [概要](what-is-intune-for-education.md)
-# [開発中](in-development.md)
+# [開発中の機能](in-development.md)
 # [教育用の Intune の新機能](whats-new-in-edu.md)
 # Intune for Education の概念
 ## [ダッシュボードのナビゲーション](navigate-my-dashboard-edu.md)
