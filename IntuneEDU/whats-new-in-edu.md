@@ -15,12 +15,12 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: d4c4509b07ace61294e8e06368d5c62e0a650639
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: 0ce5429775613f3b17c9c09c7843e8257874bd0d
+ms.sourcegitcommit: c39c5694abc0a513ef0e2621757517d35e36fe21
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62147433"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "65197460"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
@@ -38,8 +38,6 @@ IOS の intune for Education の設定を簡単に検索を理解する名前、
 * Windows Update の通知:この設定では、ユーザーが Windows の更新に関する通知を表示するかどうかを選択できます。  
 * Windows の手動更新:この設定では、ユーザーが Windows 更新プログラムのスキャン、ダウンロード、および機能のインストールへのアクセスがあるかどうかを選択できます。  
 
-### <a name="apply-an-ios-device-naming-template"></a>IOS デバイスの名前付けテンプレートを適用します。  
-グループ化し、iOS デバイスを識別するのに役立つ新しい名前付けの設定が追加されました。 IOS の登録と MDM サーバー トークンのセットアップでは、Intune for Education に自動的に名前が一意のデバイスのシリアル番号を使用してデバイスの各します。 など、独自の名前を追加することができますし、 *Contoso*または*Math1*プレフィックスにします。 名前をカスタマイズする場合は、デバイスのシリアル番号がの末尾にアタッチされます。 以下に例を示します。*Contoso012a345b67c8*  
 
 ## <a name="february-2019"></a>2019 年 2 月  
 
