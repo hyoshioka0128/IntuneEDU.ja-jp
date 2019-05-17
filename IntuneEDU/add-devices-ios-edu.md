@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/23/2018
+ms.date: 05/16/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 36f545b21c94b4ab171b5dc7201eb4db2f58b7e1
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: 944840d0bfaa05fdcb5e099513fc5b7836068f7b
+ms.sourcegitcommit: 370c0b29e905c25204a72fd5877000698ac859a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62145919"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "65813869"
 ---
 # <a name="enroll-ios-devices-in-intune-for-education"></a>教育機関向けの Intune で iOS デバイスを登録します。
 
@@ -32,19 +32,20 @@ ms.locfileid: "62145919"
 > [!NOTE]
 > デバイスがインターネットに接続されているし、十分な Intune は、セットアップを完了する for Education のデバイス ライセンスを持つアカウントの確認します。 ライセンスについて詳しく[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune-step-4)します。
 
-## <a name="pre-configured-enrollment-profile"></a>事前に構成された登録プロファイル
+## <a name="preconfigured-enrollment-profile"></a>事前に構成された登録プロファイル  
 Intune for Education では、作成し、学校に最適化された登録プロファイルを同期された各デバイスに割り当てます。  
 
 デバイス自体の設定および管理に登録する方法を指示する登録プロファイルが構成されます。 Intune は、お客様の加入契約を高速化するのに役立つ設定を構成します。  デバイスの電源を入れると、登録プロファイルはデバイスのセットアップを直ちに開始します。
 
-## <a name="list-of-preconfigured-settings"></a>事前構成済み設定の一覧
+## <a name="preconfigured-settings"></a>事前構成済みの設定  
 デバイスの初期セットアップ中にデバイスを次の構成と登録します。
 
 * ユーザー アフィニティなし
 * 監視モードを有効になっています。
 * 同期またはその他のデバイスとのペアリングをブロック
-* ロックされた登録は、意味のユーザーが自分のデバイスの管理設定を変更できません。
+* ロックされた登録は、意味のユーザーが自分のデバイスの管理設定を変更できません。  
 
+Intune for Education には、MDM サーバー トークンで登録するデバイスに名前付けスキームが適用されます。 既定では、デバイスは、デバイスのシリアル番号を持つという名前です。 MDM サーバー トークンを設定するときにも、目的のカスタム デバイス名を追加できます。  
 
 登録時に、次のセットアップ アシスタントの設定が非表示になります。
 * パスコードの設定
@@ -55,13 +56,14 @@ Intune for Education では、作成し、学校に最適化された登録プ�
 * Apple Pay のセットアップ
 * ズームのオプションが表示されます。
 * Siri のセットアップ
-* 診断データのオプション
+* 診断データのオプション  
+
 
 登録時に次のセットアップ アシスタントの設定が表示されます。
 * 使用条件
 
 ### <a name="what-is-setup-assistant"></a>セットアップ アシスタントとは
-という教育の起動、iOS のボックスのエクスペリエンスを初めてお使いのデバイスをオンにする Intune*セットアップ アシスタント*します。 セットアップ アシスタントでは、一連の画面について説明し、学校の使用には、デバイスを準備します。  
+という教育、iOS の既製の環境の起動を初めてお使いのデバイスをオンにする Intune*セットアップ アシスタント*します。 セットアップ アシスタントでは、一連の画面について説明し、学校の使用には、デバイスを準備します。  
 
 ## <a name="enroll-a-device"></a>デバイスを登録します。
 
@@ -74,7 +76,7 @@ Intune for Education では、作成し、学校に最適化された登録プ�
 5. 同意、**条件を読んで**します。 Apple に診断情報を送信するかどうかを決定します。  
 
 ## <a name="next-steps"></a>次の手順
-これでデバイスには、セットアップおよび学校の使用の準備ができるが、更新、監視、およびトラブルシューティングする方法を説明します。   
+デバイスでは、学校用に最大と準備ができたらを設定は、これで、更新、監視、およびトラブルシューティングする方法を説明します。   
 * さらに追加[無料](add-apps-ios.md)と[VPP](add-vpp-apps-ios.md)校 1 年を通じて iOS アプリ
 * 割り当てる[グループ管理者](group-admin-delegate.md)内または学区間で、学校の教室設定の管理に役立つ
 * 学習方法[設定の継承](settings-inheritance.md)新しいグループに影響を与えます

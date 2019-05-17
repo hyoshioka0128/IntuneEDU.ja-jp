@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 77f7c1d1e41890e9f64268f2a35aaf07261ca587
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: c17bbbf8517d939af3cb34df509d905cca54b4ea
+ms.sourcegitcommit: 370c0b29e905c25204a72fd5877000698ac859a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62147440"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "65813926"
 ---
 # <a name="setup-ios-device-management"></a>IOS デバイスの管理をセットアップします。 
 
@@ -108,7 +108,9 @@ Intune for Education では、作成し、iOS 登録プロファイルを構成�
 
 Intune for Education に追加されたすべての iOS デバイスは、監視モードに設定されます。 管理者は、監視対象モード、学校のデバイスの詳細に制御できます。 たとえば、プッシュできます新しいアプリまたはアプリの更新プログラム サイレント モードでのデバイスに。 監視モードのみの設定の完全な一覧は、情報の記事を参照してください。[監督が必要とする構成](https://docs.microsoft.com/intune/device-restrictions-ios#configurations-requiring-supervision)します。  
 
-登録プロファイルの詳細については、表示、[構成設定の一覧](add-devices-ios-edu.md#list-of-preconfigured-settings)登録時にします。
+Intune for Education には、MDM サーバー トークンで登録するデバイスに名前付けスキームが適用されます。 名前で、特定し、個々 のデバイスをグループ化できます。 既定では、デバイスは、デバイスのシリアル番号を持つという名前です。 MDM サーバー トークンを設定するときにも、目的のカスタム デバイス名を追加できます。  
+
+登録プロファイルの詳細については、表示、[構成設定の一覧](add-devices-ios-edu.md#preconfigured-settings)登録時にします。  
 
 ### <a name="sync-managed-devices"></a>マネージド デバイスを同期する
 Intune for Education では、iOS デバイスを管理するアクセス許可を持つ、これで、管理対象デバイスの一覧を表示する Apple と同期します。  

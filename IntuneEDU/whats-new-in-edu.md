@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 04/19/2019
+ms.date: 05/16/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -15,15 +15,29 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: 0ce5429775613f3b17c9c09c7843e8257874bd0d
-ms.sourcegitcommit: c39c5694abc0a513ef0e2621757517d35e36fe21
+ms.openlocfilehash: eacaee26b3630ac8cfa5bde876a532213e193564
+ms.sourcegitcommit: 370c0b29e905c25204a72fd5877000698ac859a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "65197460"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "65813905"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
+
+## <a name="may-2019"></a>2019 年の月   
+
+### <a name="distinguish-between-online-and-offline-licensed-microsoft-store-for-education-apps"></a>教育機関向け Microsoft Store のオンラインおよびオフラインでライセンスされる区別します。  
+
+教育用アプリの Microsoft Store に、オンラインまたはオフラインのライセンスが含まれていることができます。 Intune for Education と表示されます、ライセンスの種類で高速構成アプリの詳細 ページで、管理、および正しいグループにアプリを展開するが簡単します。 オンライン ライセンスを持つアプリでは、ユーザーがデバイスにサインインした後のインストールを開始しを使用する Microsoft Store への接続を必要とします。 オフラインのライセンスを持つアプリでは、ユーザーのサインインが必要とせずにインストールしを使用する Microsoft Store への接続を必要としないです。  
+
+### <a name="new-ios-settings"></a>新しい iOS の設定  
+
+IOS Classroom アプリをより詳細に制御を提供する、新しい設定が追加されています。  
+
+### <a name="apply-an-ios-device-naming-template"></a>IOS デバイスの名前付けテンプレートを適用します。  
+
+グループ化し、iOS デバイスを識別するのに役立つ新しい名前付けの設定が追加されました。 IOS の登録と MDM サーバー トークンのセットアップでは、Intune for Education に自動的に名前が一意のデバイスのシリアル番号を使用してデバイスの各します。 プレフィックスに、Contoso または Math1 などのカスタム名を追加できます。 名前をカスタマイズする場合は、デバイスのシリアル番号がの末尾にアタッチされます。 以下に例を示します。Contoso012a345b67c8. 構成または MDM サーバー トークンの名前付けテンプレートを更新するはそのトークンに関連付けられているすべてのデバイスの名前が変更されます: 後に既存のデバイスとそれらの両方を登録、名前付けテンプレートが適用されます。 
 
 ## <a name="april-2019"></a>4 月 2019  
 
