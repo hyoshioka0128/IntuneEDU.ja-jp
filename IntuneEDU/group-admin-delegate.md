@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 9319be2e-cb7e-43c1-98fe-64281c8c09fd
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 867d23e70a7cb1db5b1cde159b34f0515558252b
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: cd547015c84b803fea68e3ea41f9c1daf91dac50
+ms.sourcegitcommit: 5ff9856eccce4262decdc962bf4ddc8fc64ec191
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62146566"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "66355601"
 ---
 # <a name="delegate-admin-permissions-to-groups"></a>グループに管理者アクセス許可の委任
 IT スタッフは、学校を通じて学生、教員、および管理者の複数のグループを管理します。  
@@ -37,7 +37,7 @@ IT スタッフとは異なり管理者グループのみを割り当てるグ�
 - デバイスを工場出荷時設定にリセット、再起動、ロック解除、デバイスをロックおよび同期を強制では、リモート アクションを実行します。
 
 > [!TIP]
-> 高度なタスクは、管理者のアクセス許可を変更します。 アクセス許可を変更またはカスタムのアクセス許可のセットを作成するかどうかに移動する必要がある[Intune での完全な管理エクスペリエンス](group-admin-delegate.md#find-out-more)します。 これらのアクセス許可には、Intune での組み込みの学校の管理者ロールが構成されています。 
+> 高度なタスクは、管理者のアクセス許可を変更します。 アクセス許可を変更またはカスタムのアクセス許可のセットを作成するかどうかに移動する必要がある[Intune での完全な管理エクスペリエンス](https://docs.microsoft.com/intune/role-based-access-control)します。 これらのアクセス許可には、Intune での組み込みの学校の管理者ロールが構成されています。 
 
 ## <a name="assign-an-admin-group"></a>管理グループを割り当てる
 
@@ -49,6 +49,6 @@ IT スタッフとは異なり管理者グループのみを割り当てるグ�
 
 ## <a name="remove-an-admin-group"></a>管理者グループを削除します。
 1. 教育機関向けのダッシュ ボードは、Intune から次のようにクリックします。**グループ**します。
-2. グループを選択します。 このグループは、削除、管理グループの管理から 1 になります。
+2. グループを選択します。 このグループを管理から管理グループを削除する 1 つとなります。
 3. をクリックして、 **Admins**タブ。
 4. 管理者の一覧から 1 つまたは複数のグループを選択します。 クリックして**管理者の削除**します。  
