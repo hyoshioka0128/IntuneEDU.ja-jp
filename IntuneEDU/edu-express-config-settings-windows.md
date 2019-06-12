@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: e56618420c1726f66bb7d3ab3662332c8e320468
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: 4aae2a3ad7d411a0212b683430d7416c7318b1a1
+ms.sourcegitcommit: 106131761071c33343f6b4e8006f36ae97ee28c7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62146517"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "66835643"
 ---
 # <a name="default-windows-10-configurations-in-express-configuration"></a>高速構成の既定の Windows 10 の構成
 構成は、Windows デバイスを簡単に設定するための最も一般的な Windows 設定を表します。 この記事では、これらの設定ごとの一覧を表示し、その実行内容について説明します。
@@ -34,7 +34,7 @@ ms.locfileid: "62146517"
 |---|---|
 |追加して、個人の Microsoft アカウントでサインインをブロックします。 |ブロックの学生と教員から追加し、デバイス上で個人用 Microsoft アカウントにサインインします。 個人の Microsoft アカウントは、Microsoft のドメイン名を使用して、学校の Azure Active Directory テナントではないアカウントを参照してください。|  
 |追加して、Microsoft 以外のアカウントでサインインをブロックします。|ブロックの学生と教員を追加して、Google、Yahoo、および iCloud などの Microsoft 以外のアカウントにサインインします。 のみ電子メールを自分の Microsoft アカウントを使用するのにユーザーに強制するのにには、この設定を使用します。|
-|Azure Active Directory テナントの優先ドメインを構成します。|これがない Windows にユーザー サインインできるように、学校のドメイン名を構成します。 サインインするユーザー名ではなく、たとえば、 *alain@contoso.com* 、 サインインに使用するだけでかまいません学生 *alain* します。 構成すると、この設定が、テナントのドメイン名をプリセットが引き続き編集できます。|   
+|Azure Active Directory テナントの優先ドメインを構成します。|これがない Windows にユーザー サインインできるように、学校のドメイン名を構成します。 サインインするユーザー名ではなく、たとえば、 *alain\@contoso.com*、サインインに使用するだけでかまいません学生*alain*します。 構成すると、この設定が、テナントのドメイン名をプリセットが引き続き編集できます。|   
 
 ## <a name="apps"></a>アプリ   
 |設定|内容|  
