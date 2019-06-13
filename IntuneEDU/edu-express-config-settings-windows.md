@@ -24,7 +24,7 @@ ms.locfileid: "66835643"
 # <a name="default-windows-10-configurations-in-express-configuration"></a>高速構成の既定の Windows 10 の構成
 構成は、Windows デバイスを簡単に設定するための最も一般的な Windows 設定を表します。 この記事では、これらの設定ごとの一覧を表示し、その実行内容について説明します。
 
-学校のルールとポリシーに合わせて、または事前設定された推奨事項の適用の設定 ページで直接クリックしてに変更を加えます。
+学校のルールとポリシーに合わせて、または事前設定された推奨事項の適用の設定] ページで直接クリックしてに変更を加えます。
 
 設定と説明の完全な一覧で、次を参照してください。 [Intune for Education のすべての Windows 10 設定](all-edu-settings-windows.md)します。 
 
