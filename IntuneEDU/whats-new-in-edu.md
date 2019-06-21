@@ -15,15 +15,41 @@ ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope:
 - IntuneEDU
 .#ms.devlang: ''
-ms.openlocfilehash: eacaee26b3630ac8cfa5bde876a532213e193564
-ms.sourcegitcommit: 370c0b29e905c25204a72fd5877000698ac859a9
+ms.openlocfilehash: 535823dad23e5e4109fdddfd7373643186fb6d17
+ms.sourcegitcommit: c766ef357fb0257951f4e35f6ec6f53d63de811e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "65813905"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67285217"
 ---
 # <a name="whats-new-in-intune-for-education"></a>Intune for Education の新機能新機能
 Intune for Education の新機能新機能について説明します。 今後の変更、製品の通知、および以前のリリースからの機能について調べます。
+
+## <a name="june-2019"></a>6 月 2019  
+
+### <a name="perform-bulk-actions"></a>一括操作を実行します。 
+一度に最大 100 個のデバイスで特定のリモート アクションを実行します。  一括選択をするためには、手動でデバイスの一覧からデバイスを選択したりを押しながら、 **Ctrl**または**コマンド**一度に複数のデバイスを選択するキー。 
+ 
+ ![選択すると、複数のデバイスの例のイメージと一括再起動の確認を実行します。](./media/1906-remote-bulk.png)  
+
+Intune for Education は、次のデバイス操作に対して一括機能をサポートします。  
+
+* 再起動  
+* 工場出荷時のリセット  
+* 同期  
+* Autopilot のリセット  
+* DELETE   
+
+ ![一括同期確認の例のイメージ。](./media/1906-remote-bulk-selection.png)  
+
+### <a name="easier-migration-to-intune-for-education-licenses"></a>Intune for Education のライセンスに簡単に移行  
+Intune for Education のサインアップした後、Intune は学校向けに推奨される値を持つすべてのデバイス グループいくつかの設定を自動的に構成します。 今すぐ追加すると Intune テナントを既に Education が、Intune サブスクリプションが、推奨されるポリシーが表示されますが、Intune も自動的に割り当てられません。 この変更は、既存の環境に望ましくない変更が行われませんことを確認します。  
+
+### <a name="new-permissions-for-assigned-group-admins"></a>割り当てられたグループの管理者の新しいアクセス許可  
+Intune の組み込み学校管理者ロールを今すぐ作成は、読み取り、更新、および管理されているアプリの (CRUD) アクセス許可を削除します。 この更新プログラムにより、intune for Education グループの管理者として割り当てられている場合ことができますようになりました作成、表示、更新、および iOS MDM プッシュ証明書、iOS MDM サーバー トークン、および iOS VPP のトークンと共に削除[の既存のアクセス許可があります](https://docs.microsoft.com/intune-education/group-admin-delegate#group-admin-permissions)。 これらのアクションを実行するには**テナント設定** > **iOS デバイス管理**します。  
+
+### <a name="new-deployment-documentation"></a>新しいデプロイに関するドキュメント  
+[登録セクション](https://docs.microsoft.com/intune-education/add-devices-windows)ドキュメントの学校の Pc と Windows Autopilot の学校の環境に基づいて設定を比較するのに役立つ新しい情報がわかり、セットアップが必要です。 この情報を使用して、各オプションでは、またはその両方のデバイスのセットアップを使用するタイミングを決定します。 
 
 ## <a name="may-2019"></a>2019 年の月   
 
