@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 01/11/2019
+ms.date: 06/19/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,19 +14,20 @@ ms.technology: ''
 ms.assetid: ''
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: b24bee7052c07fc9fbde9ea1d8cde20efa97108c
-ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.openlocfilehash: 53d1487e2bbc76e6a641c6e8712b8ebaf0baee73
+ms.sourcegitcommit: c766ef357fb0257951f4e35f6ec6f53d63de811e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62146465"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67285156"
 ---
 # <a name="autopilot-reset"></a>Autopilot のリセット
 Autopilot のリセットを使用する、デバイスから個人のファイル、アプリ、および設定を削除します。 デバイスは Intune で登録されたままし、完全に構成されているか、既知の IT 承認済み状態に戻ります。
 Autopilot リセット デバイス ローカルまたはリモートからできます Intune for Education ポータル。  
 
-プロセスを開始する IT スタッフが各デバイスの必要性を避けるため、Intune for Education ポータルを使用します。 ポータルから、1 つのデバイスをリセットまたは一括操作を行います、グループ内のすべてのデバイスをリセットします。 グループ内のすべてのデバイスをリセットするには、すばやくワイプし、新しい学校年度の準備を行う生徒のデバイスを再構成することができます。
-リセット後、元の設定は、デバイスに適用して、最新のポリシーを取得するために Intune と同期します。  
+プロセスを開始する IT スタッフが各デバイスの必要性を避けるため、Intune for Education ポータルを使用します。 ポータルから、1 つのデバイスをリセットまたは一括操作を行います、グループ内のすべてのデバイスをリセットします。 グループ内のすべてのデバイスをリセットするには、すばやくワイプし、新しい学校年度の準備を行う生徒のデバイスを再構成することができます。  
+
+リセット後、元の設定は、デバイスに適用して、最新のポリシーを取得するために Intune と同期します。 デバイスでは、Autopilot のリセットを使用するときに、デバイスのプライマリ ユーザーが削除されます。 次に、リセット後にサインインしたユーザーは、プライマリ ユーザーとして設定されます。  
 
 ## <a name="requirements"></a>必要条件
 ローカル、Autopilot のリセットの使用は Windows 10 バージョン 1709 以降を実行しているデバイスはできるだけです。
