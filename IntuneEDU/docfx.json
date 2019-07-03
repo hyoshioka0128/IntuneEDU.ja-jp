@@ -34,7 +34,8 @@
       "product_feedback_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/Intunedocs.ja-jp",
-"feedback_product_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729" 
+      "feedback_product_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729",
+      "disable_contribution_on_translation_quality": ["MT"]
     },
     "fileMetadata": {},
     "template": [],
