@@ -1,12 +1,12 @@
 ---
-title: Autopilot のリセットを使用して、デバイスを Intune for Education を再構成するには
+title: 自動操縦リセットを使用して、Intune for Education でデバイスを再構成する
 titleSuffix: Intune for Education
-description: 説明では、Intune for Education の Autopilot リセットする方法。
+description: Intune for Education で自動再設定する方法について説明します。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 06/19/2019
+ms.date: 07/10/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,38 +14,38 @@ ms.technology: ''
 ms.assetid: ''
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 53d1487e2bbc76e6a641c6e8712b8ebaf0baee73
-ms.sourcegitcommit: c766ef357fb0257951f4e35f6ec6f53d63de811e
+ms.openlocfilehash: 57f8c2577c7b316dabe00333d569a3e09c256651
+ms.sourcegitcommit: f0a43a6da4fa86dcfd4086b316014e94fe67eb42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67285156"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67820011"
 ---
-# <a name="autopilot-reset"></a>Autopilot のリセット
-Autopilot のリセットを使用する、デバイスから個人のファイル、アプリ、および設定を削除します。 デバイスは Intune で登録されたままし、完全に構成されているか、既知の IT 承認済み状態に戻ります。
-Autopilot リセット デバイス ローカルまたはリモートからできます Intune for Education ポータル。  
+# <a name="autopilot-reset"></a>自動操縦リセット
+自動設定のリセットを使用して、個人のファイル、アプリ、設定をデバイスから削除できます。 デバイスは Intune に登録されたままになり、完全に構成された状態または既知の承認済みの状態に戻ります。
+デバイスは、Intune for Education ポータルからローカルまたはリモートで再設定できます。  
 
-プロセスを開始する IT スタッフが各デバイスの必要性を避けるため、Intune for Education ポータルを使用します。 ポータルから、1 つのデバイスをリセットまたは一括操作を行います、グループ内のすべてのデバイスをリセットします。 グループ内のすべてのデバイスをリセットするには、すばやくワイプし、新しい学校年度の準備を行う生徒のデバイスを再構成することができます。  
+Intune for Education ポータルを使用すると、IT スタッフが各デバイスにアクセスしてプロセスを開始する必要がなくなります。 ポータルから、1つのデバイスをリセットしたり、グループ内のすべてのデバイスに一括リセットを実行したりできます。 グループ内のすべてのデバイスをリセットすると、生徒のデバイスをすばやくワイプして再構成し、新しい school year 用に準備することができます。  
 
-リセット後、元の設定は、デバイスに適用して、最新のポリシーを取得するために Intune と同期します。 デバイスでは、Autopilot のリセットを使用するときに、デバイスのプライマリ ユーザーが削除されます。 次に、リセット後にサインインしたユーザーは、プライマリ ユーザーとして設定されます。  
+リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。  
 
 ## <a name="requirements"></a>必要条件
-ローカル、Autopilot のリセットの使用は Windows 10 バージョン 1709 以降を実行しているデバイスはできるだけです。
-Autopilot のリセットをリモートで使用が 17672 またはそれ以降、Windows 10 ビルドを実行しているデバイスをできるだけです。
+自動再設定のリセットは、Windows 10 バージョン1709以降を実行しているデバイスでのみ使用できます。
+自動操縦リセットをリモートで使用することは、Windows 10 ビルド17672以降を実行しているデバイスでのみ使用できます。
 
-## <a name="use-autopilot-reset-locally"></a>ローカルで、Autopilot のリセットの使用します。
-1 つのデバイスをワイプする必要がある場合は、デバイス上で直接これ行うことができます。 デバイスで、CTRL + WIN+R キーを押します。  
+## <a name="use-autopilot-reset-locally"></a>自動操縦リセットをローカルで使用する
+1つのデバイスをワイプする必要がある場合は、デバイス上で直接行うことができます。 デバイスで、CTRL + WIN + R キーを押します。  
 
-## <a name="use-autopilot-reset-remotely-for-a-single-device"></a>使用して Autopilot のリセット リモートで単一のデバイス
-1. Intune for Education には、次のように選択します。**グループ**> デバイス グループを選択します。
-2. デバイスを選択 > **Autopilot リセット**します。 リセットには、次のように選択します。 **Autopilot リセット**もう一度です。
-2.  リセットが開始されると、メッセージが表示されます。 デバイスは、次回にインターネットに接続するときにリセットされます。  
+## <a name="use-autopilot-reset-remotely-for-a-single-device"></a>1つのデバイスに対して自動操縦リセットをリモートで使用する
+1. Intune for Education で、 **[グループ]** を選択し > デバイスグループを選択します。
+2. デバイス >**自動再設定のリセット**を選択します。 リセットを確定するには、 **[自動操縦リセット]** を選択します。
+2.  リセットが開始されると、メッセージが表示されます。 デバイスは、次にインターネットに接続したときにリセットされます。  
 
-## <a name="use-autopilot-reset-remotely-for-devices-in-bulk"></a>一括でデバイスをリモートでリセットの Autopilot を使用  
-1.  Intune for Education には、次のように選択します。**グループ**> グループを選択します。
-2. 選択**Autopilot は、すべてのデバイスをリセット**します。
-2. **Autopilot リセット グループ**ボックスに、現在のグループの名前を入力します。 選び**Autopilot リセット**を確認します。
-3.  インターネットに接続されている次回各デバイスがリセットされます。 リモートの Autopilot のリセット、サポートされていないデバイスのいずれかの場合は、という名前のテーブルが表示されます**デバイスをリセットできませんでした**します。 表には、各デバイス、およびリセットできませんでした理由を示します。  
+## <a name="use-autopilot-reset-remotely-for-devices-in-bulk"></a>デバイスを一括して自動操縦リセットを使用する  
+1.  Intune for Education で、 **[グループ]** を選択し > グループを選択します。
+2. **自動再設定** すべてのデバイス を選択します。
+2. **[自動操縦のリセットグループ]** ボックスに、現在のグループの名前を入力します。 次に、 **[自動再設定]** を選択して確認します。
+3.  各デバイスは、次回インターネットに接続するときにリセットされます。 いずれかのデバイスでリモート自動再設定のリセットがサポートされていない場合は、 **[デバイスをリセットできませんでした]** という名前のテーブルが表示されます。 表には、各デバイスと、リセットできなかった理由が一覧表示されます。  
 
 ## <a name="next-steps"></a>次の手順
 [リモート操作によってデバイスを管理する](edu-device-remote-actions.md)
