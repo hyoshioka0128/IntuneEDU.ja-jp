@@ -6,7 +6,7 @@ keywords: ''
 author: lenewsad
 ms.author: lanewsad
 manager: dougeby
-ms.date: 07/10/2019
+ms.date: 07/17/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: ''
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 57f8c2577c7b316dabe00333d569a3e09c256651
-ms.sourcegitcommit: f0a43a6da4fa86dcfd4086b316014e94fe67eb42
+ms.openlocfilehash: bfe0f385bdc66109fb189003e9a6cbaa894f1029
+ms.sourcegitcommit: c85320170b0317de68be966581dd0e71d0cd58bd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67820011"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "68313991"
 ---
 # <a name="autopilot-reset"></a>自動操縦リセット
 自動設定のリセットを使用して、個人のファイル、アプリ、設定をデバイスから削除できます。 デバイスは Intune に登録されたままになり、完全に構成された状態または既知の承認済みの状態に戻ります。
@@ -27,7 +27,7 @@ ms.locfileid: "67820011"
 
 Intune for Education ポータルを使用すると、IT スタッフが各デバイスにアクセスしてプロセスを開始する必要がなくなります。 ポータルから、1つのデバイスをリセットしたり、グループ内のすべてのデバイスに一括リセットを実行したりできます。 グループ内のすべてのデバイスをリセットすると、生徒のデバイスをすばやくワイプして再構成し、新しい school year 用に準備することができます。  
 
-リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。  
+リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。 デバイスで自動再設定のリセットを使用すると、デバイスのプライマリユーザーが削除されます。 リセット後にサインインする次のユーザーは、プライマリユーザーとして設定されます。   
 
 ## <a name="requirements"></a>必要条件
 自動再設定のリセットは、Windows 10 バージョン1709以降を実行しているデバイスでのみ使用できます。
