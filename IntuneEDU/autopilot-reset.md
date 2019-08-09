@@ -14,12 +14,12 @@ ms.technology: ''
 ms.assetid: ''
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: bfe0f385bdc66109fb189003e9a6cbaa894f1029
-ms.sourcegitcommit: c85320170b0317de68be966581dd0e71d0cd58bd
+ms.openlocfilehash: 23430e2902eeb5673f1915b1a9e547bdde1e17dd
+ms.sourcegitcommit: 05576d32cac5cc3998ea579404ce84a2813c9083
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313991"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68866716"
 ---
 # <a name="autopilot-reset"></a>自動操縦リセット
 自動設定のリセットを使用して、個人のファイル、アプリ、設定をデバイスから削除できます。 デバイスは Intune に登録されたままになり、完全に構成された状態または既知の承認済みの状態に戻ります。
@@ -27,14 +27,14 @@ ms.locfileid: "68313991"
 
 Intune for Education ポータルを使用すると、IT スタッフが各デバイスにアクセスしてプロセスを開始する必要がなくなります。 ポータルから、1つのデバイスをリセットしたり、グループ内のすべてのデバイスに一括リセットを実行したりできます。 グループ内のすべてのデバイスをリセットすると、生徒のデバイスをすばやくワイプして再構成し、新しい school year 用に準備することができます。  
 
-リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。 デバイスで自動再設定のリセットを使用すると、デバイスのプライマリユーザーが削除されます。 リセット後にサインインする次のユーザーは、プライマリユーザーとして設定されます。   
+リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。 AutoPilot リセットがデバイスで使用されると、デバイスのプライマリ ユーザーが削除されます。 リセット後に初めてサインインしたユーザーがプライマリ ユーザーとして設定されます。   
 
 ## <a name="requirements"></a>必要条件
 自動再設定のリセットは、Windows 10 バージョン1709以降を実行しているデバイスでのみ使用できます。
 自動操縦リセットをリモートで使用することは、Windows 10 ビルド17672以降を実行しているデバイスでのみ使用できます。
 
 ## <a name="use-autopilot-reset-locally"></a>自動操縦リセットをローカルで使用する
-1つのデバイスをワイプする必要がある場合は、デバイス上で直接行うことができます。 デバイスで、CTRL + WIN + R キーを押します。  
+1つのデバイスをワイプする必要がある場合は、デバイス上で直接行うことができます。 デバイスで、CTRL + WIN + R キーを押します。 Ctrl + WIN + R キーを押した後、リセットをトリガーするために、管理者の資格情報で認証する必要があります。
 
 ## <a name="use-autopilot-reset-remotely-for-a-single-device"></a>1つのデバイスに対して自動操縦リセットをリモートで使用する
 1. Intune for Education で、 **[グループ]** を選択し > デバイスグループを選択します。

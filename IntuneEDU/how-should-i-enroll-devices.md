@@ -1,7 +1,7 @@
 ---
-title: デバイスはどのように登録する必要がありますか。
+title: デバイスを登録するにはどうすればよいですか。
 titleSuffix: Intune for Education
-description: Intune for Education でデバイスを登録する方法についてアドバイスを取得します。
+description: Intune for Education にデバイスを登録する方法についてのアドバイスを得ます。
 keywords: ''
 author: lenewsad
 ms.author: lanewsad
@@ -14,35 +14,35 @@ ms.technology: ''
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: 450f7c2d8debf0308ec50ab3b8e8a42ccc158ceb
-ms.sourcegitcommit: 9c43411a2c210cf1d755c3120015c89611e33613
+ms.openlocfilehash: 006fa1267566524b86acbf0e5a29235f41eb5ac2
+ms.sourcegitcommit: 05576d32cac5cc3998ea579404ce84a2813c9083
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67213106"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68866724"
 ---
-# <a name="how-should-i-enroll-devices"></a>デバイスはどのように登録する必要がありますか。
+# <a name="how-should-i-enroll-devices"></a>デバイスを登録する方法
 
-教育機関の管理用の Intune でデバイスを登録する方法について説明します。 学校に最適な方法を選択するを検討します。  
-* 担当地域のサイズ。    
-* デバイスの受信者の種類です。    
-* 役に立つスタッフの数。   
+Intune for Education 管理でデバイスを登録する方法について説明します。 学校に最適な方法を選択するには、次の点を考慮してください。  
+* 地区の規模。    
+* デバイスの受信者の種類。    
+* ヘルプで利用できるスタッフの数。   
  
-は、学校でデバイスを登録する最善の方法を決定します。    
+学校にデバイスを登録するための最適な方法を決定するには、「」を参照してください。    
 
-## <a name="run-the-set-up-school-pcs-app"></a>学校の Pc のアプリのセットアップを実行します。 
-Windows 10 Pc の学校用に最適化された設定の 1 つのセットをアップロードします。 [学校の Pc のアプリを設定する](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)学校向けの適切なインストール パッケージを作成する方法を説明します。 ネットワークとデバイスの設定の構成を完了したら、アプリは、パッケージを USB ドライブに保存します。 USB ドライブ直接を各受講者、学生用デバイスを自動的に設定するには PC を挿入します。 アプリは、Windows 10 バージョン 1803 以降を実行している Pc で互換性のあります。
+## <a name="run-the-set-up-school-pcs-app"></a>School Pc のセットアップアプリを実行する 
+Windows 10 の各 Pc に、school に最適化された設定の1つのセットをアップロードします。 「 [School pc のセットアップ」アプリ](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)では、学校に適したインストールパッケージを作成する方法を説明しています。 ネットワークとデバイスの設定の構成が完了すると、アプリはパッケージを USB ドライブに保存します。 各学生 PC に直接 USB ドライブを挿入し、学生用にデバイスを自動的に設定します。 このアプリは、Windows 10 バージョン1903以前を実行している Pc と互換性があります。
 
-## <a name="give-school-faculty-enrollment-manager-permissions"></a>学校教員登録マネージャーのアクセス許可を付与します。
-デバイスを登録するため、スタッフを許可するには、登録管理者、または登録マネージャー アカウントを追加します。 [登録マネージャー](add-enrollment-managers.md)最大で 1,000 台のデバイスを登録できます。  
+## <a name="give-school-faculty-enrollment-manager-permissions"></a>School 教職員登録マネージャーのアクセス許可を付与する
+登録マネージャーまたは登録マネージャーアカウントを追加して、スタッフがデバイスの登録を支援できるようにします。 [登録マネージャー](add-enrollment-managers.md)は、最大1000のデバイスを登録できます。  
 
-## <a name="allow-users-to-enroll-their-own-devices"></a>ユーザーが自分のデバイスを登録
-自分のデバイスを登録する信頼できるようにします。 これらのユーザーは自分のデバイスを Azure AD に自動的に参加できます。  
+## <a name="allow-users-to-enroll-their-own-devices"></a>ユーザーが自分のデバイスを登録できるようにする
+信頼されたユーザーが自分のデバイスを登録できるようにします。 これらのユーザーは、デバイスを Azure AD に自動的に参加させることができます。  
 
 ## <a name="next-steps"></a>次の手順  
 
-デバイスを登録する準備ができてですか。 追加する方法について[iOS](add-devices-ios-edu.md)と[Windows 10](add-devices-windows.md)教育管理用に Intune でデバイス。  
+デバイスを登録する準備ができましたか? Intune for Education 管理で[iOS](add-devices-ios-edu.md)デバイスと[Windows 10](add-devices-windows.md)デバイスを追加する方法について説明します。  
 
-* ストアのドキュメントを参照して[ダウンロード、**学校 Pc の設定**アプリ](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)Microsoft Store から。 
-* 詳細は[学校での Windows デバイスの設定に関する](https://docs.microsoft.com/education/windows/set-up-windows-10)Microsoft Education から > Windows のドキュメント。
+* Microsoft Store から[ **School Pc のセットアップ**アプリをダウンロード](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)するには、ストアのドキュメントを参照してください。 
+* 詳細[について](https://docs.microsoft.com/education/windows/set-up-windows-10)は、Microsoft 教育 > windows のドキュメントを参照してください。
 
