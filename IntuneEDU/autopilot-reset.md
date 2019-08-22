@@ -30,18 +30,18 @@ Intune for Education ポータルを使用すると、IT スタッフが各デ�
 リセット後に、元の設定がデバイスに適用され、Intune と同期して最新のポリシーを取得します。 AutoPilot リセットがデバイスで使用されると、デバイスのプライマリ ユーザーが削除されます。 リセット後に初めてサインインしたユーザーがプライマリ ユーザーとして設定されます。   
 
 ## <a name="requirements"></a>必要条件
-Autopilot リセットは、Windows 10 バージョン1709以降を実行しているデバイスでのみ使用できます。
-AutoPilot リセットをリモートで使用することは、Windows 10 ビルド17672以降を実行しているデバイスでのみ使用できます。
+Autopilot リセットは、Windows 10 バージョン 1709 以降を実行しているデバイスでのみ使用できます。
+AutoPilot リセットをリモートで使用することは、Windows 10 ビルド 17672 以降を実行しているデバイスでのみ使用できます。
 
 ## <a name="use-autopilot-reset-locally"></a>AutoPilot リセットをローカルで使用する
 1つのデバイスをワイプする必要がある場合は、デバイス上で直接行うことができます。 デバイスで、CTRL + WIN + R キーを押します。 Ctrl + WIN + R キーを押した後、リセットをトリガーするために、管理者の資格情報で認証する必要があります。
 
-## <a name="use-autopilot-reset-remotely-for-a-single-device"></a>1つのデバイスに対してAutoPilot リセットをリモートで使用する
+## <a name="use-autopilot-reset-remotely-for-a-single-device"></a>1 つのデバイスに対して AutoPilot リセットをリモートで使用する
 1. Intune for Education で、 **[グループ]** を選択し > デバイスグループを選択します。
-2. デバイス >**Autopilot リセット**を選択します。 リセットを確定するには、 **[Autopilot リセット]** を選択します。
+2. デバイス >**Autopilot リセット** を選択します。 リセットを確定するには、 再度 **[Autopilot リセット]** を選択します。
 2.  リセットが開始されると、メッセージが表示されます。 デバイスは、次にインターネットに接続したときにリセットされます。  
 
-## <a name="use-autopilot-reset-remotely-for-devices-in-bulk"></a>デバイスを一括してAutopilot リセットを使用する  
+## <a name="use-autopilot-reset-remotely-for-devices-in-bulk"></a>デバイスを一括して Autopilot リセットを使用する 
 1.  Intune for Education で、 **[グループ]** を選択し > グループを選択します。
 2. **Autopilot すべてのデバイスをリセット** を選択します。
 2. **[Autopilot リセットグループ]** ボックスに、現在のグループの名前を入力します。 次に、 **[Autopilot リセット]** を選択して確認します。
